@@ -23,6 +23,14 @@ s7.addthis.com.prx.proxywebsite.co.uk
 t1.extreme-dm.com.prx.proxywebsite.co.uk
 www.google-analytics.com.prx.proxywebsite.co.uk
 www.dradvice.in
+1e122c580cf.com
+affiliate.olymptrade.com
+aforismi.meglio.it
+bridsun.com
+cdn.dlyads.com
+cdn.sailfish.media
+cdn2.sailfish.media
+cdn2.sailfish.media
 js.advideo.ru
 mybbc-analytics.files.bbci.co.uk
 cdn1.toolcount.ru
