@@ -1,5 +1,17 @@
 0d847862199.com
 1364.tm.zedo.com
+2505110097.log.optimizely.com
+d38hmgjgf0kofx.cloudfront.net
+d3cesrg5igdcgt.cloudfront.net
+dlyads.adk2.co
+dlyads.adk2x.com
+dsy5wmnntou9c.cloudfront.net
+dzcx04lyk9hjp.cloudfront.net
+ep3.performfeeds.com
+errors.client.optimizely.com
+events.amarujala.com
+events.pi-stats.com
+freegeoip.io
 2838.tm.zedo.com
 821.tm.zedo.com
 accounts.eu1.gigya.com
