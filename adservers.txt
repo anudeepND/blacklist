@@ -13,6 +13,11 @@ events.amarujala.com
 events.pi-stats.com
 freegeoip.io
 2838.tm.zedo.com
+aanqylta.com
+analytics.mailmunch.co
+app.wigzo.com
+b128.ve.vc
+c1f9b35b00f.com
 821.tm.zedo.com
 accounts.eu1.gigya.com
 ads.revenuemantra.com
