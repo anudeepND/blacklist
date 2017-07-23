@@ -806,7 +806,7 @@ register.appsflyer.com
 reliance.ssl.cdn.sdlmedia.com
 renderer.qmerce.com
 res.apk.vidmate.net
-res.cloudinary.com
+js.gleam.io
 resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 restapi.amap.com
