@@ -2,7 +2,7 @@
 A list of adserving and tracking sites maintained by me.  
 You can request additional domains via <a href="https://github.com/anudeepND/adservers/issues">Issues</a> tab.
 
-##### 1). How do I determine an ad domain?
+##### How do I determine an ad domain?
 
 ##### a). DNSthingy Assistant
 
