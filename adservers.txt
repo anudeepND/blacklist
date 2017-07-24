@@ -4,6 +4,12 @@ cdn.adswizz.com
 dpndczlul8yjf.cloudfront.net
 gonomy.info
 groupees.com
+ic.affinitymatrix.com
+ic.ph.affinity.com
+img.vidible.tv
+imgd.aeplcdn.com
+imgd1.aeplcdn.com
+imgd2.aeplcdn.com
 hb.sekindo.com
 ht-nie.native.andbeyond.media
 2505110097.log.optimizely.com
