@@ -901,7 +901,6 @@ s.tradingview.com
 sts.batmobi.net
 stun.services.mozilla.com
 stun.xpanama.net
-sub-media.hotstar.com
 sunbux.info
 supervision.adlooxtracking.com
 survey.euro.confirmit.com
