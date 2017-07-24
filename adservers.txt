@@ -614,7 +614,6 @@ images.shazam.com
 img1.gadgetsnow.com
 img.launcher.ksmobile.com
 img.phone.baidu.com
-img.purch.com
 img.ucweb.com
 imgurads.com 
 imp.vrtzads.com
