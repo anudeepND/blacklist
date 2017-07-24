@@ -1,3 +1,15 @@
+a.stat.xiaomi.com
+abtest.mistat.xiaomi.com
+api.ad.xiaomi.com
+cdn.ad.xiaomi.com
+data.mistat.xiaomi.com
+e.ad.xiaomi.com
+mlog.search.xiaomi.net
+new.api.ad.xiaomi.com
+ssp.ad.xiaomi.com
+test.ad.xiaomi.com
+test.e.ad.xiaomi.com
+test.new.api.ad.xiaomi.com
 0d847862199.com
 1364.tm.zedo.com
 cdn.adswizz.com
