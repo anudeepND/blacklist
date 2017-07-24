@@ -791,7 +791,6 @@ pipe.adform.net
 pixel-a.sitescout.com
 pl14133455.puserving.com
 player.ooyala.com
-players.brightcove.net
 pmir.sec.miui.com
 polldaddy.com
 pp.userapi.com
