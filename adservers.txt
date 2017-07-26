@@ -1136,7 +1136,6 @@ feedback.miui.com
 dpndczlul8yjf.cloudfront.net
 tracker.mtrtb.com
 pocketmath-cdn.com
-api.ukfrnlge.com
 cs630228.vk.com
 cs630630.vk.com
 cs626121.vk.com
