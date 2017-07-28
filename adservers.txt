@@ -1152,3 +1152,7 @@ flash.sec.miui.com
 data.flurry.com
 connect.rom.miui.com
 6183.eu-api.swrve.com
+3gimg.qq.com
+585.tm.zedo.com
+6183.eu-content.swrve.com
+accscdn.m.taobao.com
