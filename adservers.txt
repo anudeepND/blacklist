@@ -1128,7 +1128,6 @@ assistant.pandora.xiaomi.com
 cdn-config.taplytics.com
 cloudservice17.kingsoft-office-service.com
 cmpush.ksmobile.net
-connect.facebook.net
 data.sec.miui.com
 data.mistat.intl.xiaomi.com
 d31vxm9ubutrmw.cloudfront.net
@@ -1140,7 +1139,6 @@ cs630228.vk.com
 cs630630.vk.com
 cs626121.vk.com
 v.ssacdn.com
-sbfunservice.cc
 s-media-cache-ak0.pinimg.com
 dk9ps7goqoeef.cloudfront.net
 gce-sc.bidswitch.net
