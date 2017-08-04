@@ -613,7 +613,7 @@ gotpd.me
 goupdate.3g.cn
 gp.symcb.com
 graph.accountkit.com
-graph.facebook.com
+
 graphite-sscm.sec.miui.com
 graphite-ssms.sec.miui.com
 groupees.com
