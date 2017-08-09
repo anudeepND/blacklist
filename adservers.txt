@@ -1506,3 +1506,7 @@ super.awesomeforyou.club
 trakt.tv
 www.ads2dc.com
 ads2dc.com
+284419414.log.optimizely.com
+analytics.colacoweb.net
+analyticsapi.bsbportal.com
+metrics.makemytrip.com
