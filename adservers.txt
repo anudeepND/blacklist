@@ -1731,3 +1731,7 @@ watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
 watson.telemetry.microsoft.com.nsatc.net
 wes.df.telemetry.microsoft.com
+529790331.log.optimizely.com
+log.upload.bigdata.haokan.mobi
+www-google--analytics-com.cdn.ampproject.org
+smetrics.foxnews.com
