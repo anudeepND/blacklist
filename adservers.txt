@@ -631,7 +631,7 @@ hd.mi.com
 helpcleanmasterlite1.ksmobile.com
 helpkewl0.ksmobile.com
 helplauncher1.ksmobile.com
-hi.gadgets360.com
+helplauncher1.ksmobile.com
 hk.napi.ucweb.com
 hl-img.peco.uodoo.com
 holmeshelptest.uc.cn
