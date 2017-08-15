@@ -650,7 +650,7 @@ ht-styl.hoverr.media
 ht-thenm.hoverr.media
 htapi.coofinder.com
 hydra.alibaba.com
-
+app.cointraffic.in
 i-200-b-0-0-5-content-bundles-bench.utorrent.com
 i-302.b-42612.uTAndroid.bench.utorrent.com
 i-302.b-42612.utandroid.bench.utorrent.com
@@ -783,7 +783,7 @@ m.tribalfusion.com
 m.v.fwmrm.net
 ma312-r.analytics.edgesuite.net
 mads.amazon-adsystem.com
-
+apps.cointraffic.io
 manifest.localytics.com
 match.sharethrough.com
 mazu.sec.miui.com
