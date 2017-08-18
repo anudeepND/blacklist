@@ -1771,3 +1771,6 @@ xormarketing.org
 tu9srvbirvvtmjikd3d3lmnhc2fmb3jjaglszhjlbi5vcmc0.g00.chicagotribune.com
 tu9srvbirvvtmjikd3d3lndmcc5vcmc0.g00.chicagotribune.com
 yts.moatads.com
+tyler.logs.roku.com
+giga.logs.roku.com
+cooper.logs.roku.com
