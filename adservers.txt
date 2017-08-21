@@ -1774,3 +1774,7 @@ yts.moatads.com
 tyler.logs.roku.com
 giga.logs.roku.com
 cooper.logs.roku.com
+adtech.nflximg.net
+adultsense.net
+am.appserver-ap.com
+analytics.jabong.com
