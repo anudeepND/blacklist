@@ -1829,7 +1829,7 @@ log.snapdeal.com
 recharge.new-free-offer.in
 redminote4a.flipkart.new-free-offer.in
 redmi4a.new-free-offer.in
-rtevents.olacabs.com
+310987714.log.optimizely.com
 static.social.ndtv.com
 stripe.rs-1117-a.com
 tr.revstripe.com
