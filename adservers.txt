@@ -1849,3 +1849,7 @@ www.plocking.win
 cosmos.marfeel.com
 healthtrk1.com
 gemoney.112.2o7.net
+adlockscreen.goforandroid.com
+adpushsdk.goforandroid.com
+api.privy.com
+assets.privy.com
