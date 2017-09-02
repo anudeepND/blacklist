@@ -1883,3 +1883,4 @@ prebid.adnxs.com
 privymktg.com
 rg.appserver-ap.com
 msmetrics.ws.sonos.com
+cdn.ss.anno.channel4.com
