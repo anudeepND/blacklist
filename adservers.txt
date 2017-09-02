@@ -1882,3 +1882,4 @@ js.leadin.com
 prebid.adnxs.com
 privymktg.com
 rg.appserver-ap.com
+msmetrics.ws.sonos.com
