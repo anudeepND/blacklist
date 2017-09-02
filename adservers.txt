@@ -1884,3 +1884,11 @@ privymktg.com
 rg.appserver-ap.com
 msmetrics.ws.sonos.com
 cdn.ss.anno.channel4.com
+magni.itv.com1
+itvpnpctv.content.itv.com1
+discovery.hubsvc.itv.com1
+mercury.itv.com1
+fetd.prod.cps.awseuwest1.itvcloud.zone
+promoted.hubsvc.itv.com1
+mercury.itv.com
+itvpnpctv.content.itv.com1
