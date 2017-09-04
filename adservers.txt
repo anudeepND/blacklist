@@ -408,7 +408,7 @@ d1uvhm532ipx9t.cloudfront.net
 d2n2xdxvkri1jk.cloudfront.net
 d2nz8k4xyoudsx.cloudfront.net
 d2qmdcga8xwxzj.cloudfront.net
-d2re3j3tv63mw4.cloudfront.net
+d2qmdcga8xwxzj.cloudfront.net
 d2xxq4ijfwetlm.cloudfront.net
 d2zcpk7yfyf2dq.cloudfront.net
 d3cesrg5igdcgt.cloudfront.net
