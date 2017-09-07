@@ -1892,3 +1892,7 @@ fetd.prod.cps.awseuwest1.itvcloud.zone
 promoted.hubsvc.itv.com1
 mercury.itv.com
 itvpnpctv.content.itv.com1
+bcp.crwdcntrl.com
+bnc.lt
+dfdevpixel2.df.jabodo.com
+geoinfo.i2w.io
