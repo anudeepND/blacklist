@@ -1896,3 +1896,6 @@ bcp.crwdcntrl.com
 bnc.lt
 dfdevpixel2.df.jabodo.com
 geoinfo.i2w.io
+ad.ajillionmax.com
+ads.api.vungle.com
+ads5.truecaller.com
