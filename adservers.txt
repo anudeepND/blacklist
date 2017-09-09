@@ -1899,3 +1899,6 @@ geoinfo.i2w.io
 ad.ajillionmax.com
 ads.api.vungle.com
 ads5.truecaller.com
+ads.yagiay.com
+cdn-cf.postitial.com
+cdn.webclicks24.com
