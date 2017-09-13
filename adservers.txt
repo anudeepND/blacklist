@@ -1914,3 +1914,7 @@ client-analytics.braintreegateway.com
 a.impactradius-go.com
 experience.contextly.com
 helpcmsecurity0.ksmobile.com
+helpcmsecurity1.ksmobile.com
+imgstorage1.contextly.com
+imgstorage2.contextly.com
+log2.tapatalk.com
