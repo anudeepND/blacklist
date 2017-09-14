@@ -1922,3 +1922,12 @@ analytics.siliconexpert.com
 api-tracelog.nexstreaming.com
 deliveryagent.tt.omtrdc.net
 krtrack.kartrocket.co
+analytics.siliconexpert.com
+api-tracelog.nexstreaming.com
+deliveryagent.tt.omtrdc.net
+krtrack.kartrocket.co
+logs.juspay.in
+mobpowertech.com
+mssl.fwmrm.net
+optout.spring-tns.net
+pks.a.mobimagic.com
