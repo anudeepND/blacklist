@@ -1938,3 +1938,6 @@ report.webclicks24.com
 rest.contextly.com
 rg.appserver-cp.com
 rq.vserv.mobi
+ads.bitcoin.com
+sc.iasds01.com
+segment.hotstar.com
