@@ -1942,3 +1942,7 @@ ads.bitcoin.com
 sc.iasds01.com
 segment.hotstar.com
 zn_aah4vz47v491vlf-cbs.siteintercept.qualtrics.com
+asianpaints.sc.omtrdc.net
+shopify.privy.com
+shopify.retargetapp.com
+sjrtp4-cdn.marketo.com
