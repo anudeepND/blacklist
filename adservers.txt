@@ -107,7 +107,6 @@ aff-report.lbesecapi.com
 affiliate.olymptrade.com
 aforismi.meglio.it
 agl.hotstar.com
-aireshalili.github.io
 ak0ha-v5uif.ads.tremorhub.com
 alargery.com
 alpha.exchange4media.com
@@ -166,7 +165,6 @@ api.chat.xiaomi.net
 api.cloudmobi.net
 api.comm.miui.com
 api.d.xiaomi.com
-api.fing.io
 api.jr.mi.com
 api.kostprice.com
 api.kostprice.net
@@ -187,7 +185,6 @@ api.ril.com
 api.salemove.com
 api.sec.miui.com
 api.shuzilm.cn
-api.sonelli.com
 api.stg.fwmrm.net
 api.tinyhoneybee.com
 api.tw06.xlmc.sec.miui.com
@@ -253,7 +250,6 @@ bat.bing.com.prx.proxywebsite.co.uk
 batchlogging4.truecaller.com
 bck01.tubemogul.com
 beacon.rtp.dailyhunt.in
-beatsapi.media.jio.com
 behacdn.ksmobile.sec.miui.com
 besied.com
 bestbuyrdp.com
@@ -381,10 +377,6 @@ count.donreach.com
 counter8.fcs.ovh
 counter.yadro.ru.prx.proxywebsite.co.uk
 crab.baidu.com
-cs626121.vk.com
-cs630228.vk.com
-cs630630.vk.com
-cs631430.vk.com
 cs.332-d.com
 cs.gssprt.jp
 csi.gstatic.com
@@ -767,7 +759,6 @@ m2.tribalfusion.com
 m.amtmobi.com
 m.beautypageants.in
 m.do.co
-m.magicbricks.com
 m.medlife.com
 m.onelink.me
 m.optout.ziffdavis.com
@@ -970,7 +961,6 @@ ramp.purch.com
 rct-fraud.adlooxtracking.com
 readservers.net
 redirect.networkbench.com
-redirector.googlevideo.com
 register.appsflyer.com
 reliance.ssl.cdn.sdlmedia.com
 renderer.qmerce.com
@@ -1056,7 +1046,6 @@ sg08.zopim.com
 sg-pl.vizury.com
 sg.a.stat.mi.com
 sg.p.xpanama.net
-sg.stat.appmifile.com
 sg.support.kefu.mi.com
 share.donreach.com
 share.yandex.ru
@@ -1438,7 +1427,6 @@ www.uyqzlnmdtfpnqskyyvidmllmzauitvaijcgqjldwcwvewjgwfj.com
 www.vipmak.com
 www.wfnmmrtw.bid
 www.wqocynupmbad.com
-www.youtube-nocookie.com
 wzrkt.com
 x48fly.com
 xapi.apk.v-mate.mobi
