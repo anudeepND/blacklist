@@ -932,7 +932,6 @@ pixel-a.sitescout.com
 piz7ohhujogi.com
 pl12574102.puhtml.com
 pl14133455.puserving.com
-player.ooyala.com
 pm.in-viacom18.videoplaza.tv
 pmir.sec.miui.com
 pocketmath-cdn.com
@@ -1003,8 +1002,6 @@ runetki.com
 s0.2mdn.net
 s019.radikal.ru
 s1-eu.adform.net
-s1.yimg.com
-s2.dmcdn.net
 s3.tradingview.com
 s7.addthis.com.prx.proxywebsite.co.uk
 s18.pixxxels.org
@@ -1025,7 +1022,6 @@ s.powerfulcleaner.com
 s.skimlinks.com
 s.tradingview.com
 s.utdstc.com
-s.yimg.com
 sb.scorecardresearch.com
 sc1.plxnt.com
 scripts.tc-clicks.com
@@ -1112,7 +1108,6 @@ startup.mobile.yandex.net
 stat2.hungama.ind.in
 stat3.hungama.ind.in
 stat.speed-app.com
-static2.dmcdn.net
 static.2mdnsys.com
 static.5terpt.com
 static.adpushup.com
@@ -1300,7 +1295,6 @@ vbeyv.net
 vdo.pokkt.com
 velvet.iad.appboy.com
 version.api.goforandroid.com
-vid3.ec.dmcdn.net
 vid.springserve.com
 videomate.mobi
 videos.exchange4media.com
