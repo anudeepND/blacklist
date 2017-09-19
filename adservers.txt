@@ -166,7 +166,6 @@ api.chat.xiaomi.net
 api.cloudmobi.net
 api.comm.miui.com
 api.d.xiaomi.com
-api.dailymotion.com
 api.fing.io
 api.ipify.org
 api.jr.mi.com
