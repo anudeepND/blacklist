@@ -167,7 +167,6 @@ api.cloudmobi.net
 api.comm.miui.com
 api.d.xiaomi.com
 api.fing.io
-api.ipify.org
 api.jr.mi.com
 api.kostprice.com
 api.kostprice.net
@@ -478,7 +477,6 @@ display.apester.com
 dj1d6o6ftflzi.cloudfront.net
 dk9ps7goqoeef.cloudfront.net
 dl.cm.ksmobile.com
-dl.dropboxusercontent.com
 dlyads.adk2.co
 dlyads.adk2x.com
 dmp.i2w.io
@@ -757,7 +755,6 @@ log.worldnewsfeed.org
 logauth.polarisoffice.com
 logger.cloudmobi.net
 logging.trakingpixel.com
-login.live.com
 logs.ennexa.com
 logupdate.avlyun.sec.miui.com
 logx.optimizely.com
@@ -1639,7 +1636,6 @@ ads1.msn.com
 aidps.atdmt.com
 aka-cdn-ns.adtech.de
 a-msedge.net
-apps.skype.com
 az361816.vo.msecnd.net
 az512334.vo.msecnd.net
 b.ads1.msn.com
@@ -1673,21 +1669,17 @@ i1.services.social.microsoft.com.nsatc.net
 lb1.www.ms.akadns.net
 live.rads.msn.com
 m.adnxs.com
-m.hotmail.com
 msedge.net
-msftncsi.com
 msnbot-65-55-108-23.search.msn.com
 msntest.serving-sys.com
 oca.telemetry.microsoft.com
 oca.telemetry.microsoft.com.nsatc.net
 pre.footprintpredict.com
 preview.msn.com
-pricelist.skype.com
 rad.live.com
 rad.msn.com
 redir.metaservices.microsoft.com
 reports.wes.df.telemetry.microsoft.com
-s.gateway.messenger.live.com
 schemas.microsoft.akadns.net
 secure.adnxs.com
 secure.flashtalking.com
@@ -1710,7 +1702,6 @@ telecommand.telemetry.microsoft.com.nsatc.net
 telemetry.appex.bing.net
 telemetry.microsoft.com
 telemetry.urs.microsoft.com
-ui.skype.com
 view.atdmt.com
 vortex.data.microsoft.com
 vortex-bn2.metron.live.com.nsatc.net
