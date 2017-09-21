@@ -1114,8 +1114,6 @@ stats.anisource.net
 stats.appsflyer.com
 stats.aws.rubiconproject.comedata.ndtv.com
 stats.cn.ronghub.com
-stats.cyanogenmod.org
-stats.lineageos.org
 stats.nextcloud.com
 stats.ozwebsites.biz
 stats.pandora.com
