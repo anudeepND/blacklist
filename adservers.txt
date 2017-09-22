@@ -1948,3 +1948,8 @@ c4.la4.download.9appsinstall.com
 c5.la4.download.9appsinstall.com
 c7.la4.download.9appsinstall.com
 jsecoin.com
+cdn.simility.com
+cf.ushareit.com
+dts.ushareit.com
+cm.ushareit.com
+dmx.sync.yume.com
