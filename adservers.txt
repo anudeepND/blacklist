@@ -1953,3 +1953,5 @@ cf.ushareit.com
 dts.ushareit.com
 cm.ushareit.com
 dmx.sync.yume.com
+buddha-stat.online
+event.ksoft.com
