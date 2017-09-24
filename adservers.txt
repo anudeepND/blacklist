@@ -1916,6 +1916,7 @@ shopify.privy.com
 shopify.retargetapp.com
 sjrtp4-cdn.marketo.com
 coin-hive.com
+www.coin-hive.com
 static.reasedoper.pw
 mataharirama.xyz
 listat.biz
