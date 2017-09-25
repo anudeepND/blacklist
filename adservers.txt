@@ -1964,3 +1964,6 @@ imgg-cdn.mgid.com
 ads.ndtv1.com
 moupdate1.kingsoft-office-service.com
 analytics.logsss.com
+cdn.onthe.io
+ewrprod-rtbwin.applovin.com
+fh.under9.co
