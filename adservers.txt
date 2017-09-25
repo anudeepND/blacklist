@@ -1967,3 +1967,6 @@ analytics.logsss.com
 cdn.onthe.io
 ewrprod-rtbwin.applovin.com
 fh.under9.co
+img.applovin.com
+image6.pubmatic.com
+in.advertising.yahoo.com
