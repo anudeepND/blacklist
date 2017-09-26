@@ -1166,7 +1166,6 @@ t.api.xiaoying.co
 t.frtyh.com
 t.mdn2015x4.com
 t.purch.com
-t.sharethis.com
 tag-st.contextweb.com
 tag.hockeycurve.com
 tags.onscroll.com
@@ -1406,7 +1405,6 @@ www.reg.ru
 www.reliablecounter.com
 www.rojadirecta.me
 www.sesschen.win
-www.sharethis.com
 www.sheshine.com
 www.shop.gadgetsnow.com
 www.speedvid.net
