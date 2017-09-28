@@ -1983,3 +1983,10 @@ js.braintreegateway.com
 logos.keycdn.com
 paytmofferlive.wpengine.com
 smetrics.washingtonpost.com
+cdn.m-pathy.com
+click-de.plista.com
+farm-de.plista.com
+static-de.plista.com
+www.plista.com
+plista.com
+click.plista.com
