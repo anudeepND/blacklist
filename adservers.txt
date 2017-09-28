@@ -1990,3 +1990,13 @@ static-de.plista.com
 www.plista.com
 plista.com
 click.plista.com
+collect.m-pathy.com
+www.m-pathy.com
+m-pathy.com
+meitetsu.m-pathy.com
+fn1.m-pathy.com
+fn0.m-pathy.com
+iga.m-pathy.com
+insight7.m-pathy.com
+insight6.m-pathy.com
+insight3.m-pathy.com
