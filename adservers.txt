@@ -2000,3 +2000,12 @@ iga.m-pathy.com
 insight7.m-pathy.com
 insight6.m-pathy.com
 insight3.m-pathy.com
+scollect.m-pathy.com
+srec6.m-pathy.com
+srec7.m-pathy.com
+tn1.m-pathy.com
+tn0.m-pathy.com
+svc.tn0.m-pathy.com
+svc.tn1.m-pathy.com
+svc.fn0.m-pathy.com
+svc.fn1.m-pathy.com
