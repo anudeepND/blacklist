@@ -2009,3 +2009,7 @@ svc.tn0.m-pathy.com
 svc.tn1.m-pathy.com
 svc.fn0.m-pathy.com
 svc.fn1.m-pathy.com
+coinhive.com
+www.coinhive.com
+ws024.coinhive.com
+ws022.coinhive.com
