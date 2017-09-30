@@ -106,7 +106,6 @@ aff-policy.lbesecapi.com
 aff-report.lbesecapi.com
 affiliate.olymptrade.com
 aforismi.meglio.it
-agl.hotstar.com
 ak0ha-v5uif.ads.tremorhub.com
 alargery.com
 alpha.exchange4media.com
@@ -627,7 +626,6 @@ holmeshelptest.uc.cn
 hot.browser.intl.miui.com
 hot.browser.miui.com
 hotdeals360.com
-hotstar-sin.gravityrd-services.com
 howevert.info
 hqq.tv
 hqq.watch
