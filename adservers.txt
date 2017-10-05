@@ -2027,3 +2027,7 @@ adservice.google.co.in
 adservice.google.com
 alpha.delivery.vserv.mobi
 ae.pubmatic.com
+005.free-counters.co.uk
+anonymous-net.com
+ap-dbug-tam.sociomantic.com
+ap-sonar.sociomantic.com
