@@ -2033,3 +2033,6 @@ ap-dbug-tam.sociomantic.com
 ap-sonar.sociomantic.com
 api-iam.intercom.io
 api.ad.intl.xiaomi.com
+api.autopilothq.com
+api.data-monitor.info
+auctional.info
