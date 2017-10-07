@@ -2039,3 +2039,6 @@ auctional.info
 bidder.criteo.com
 buzzadexchange.com
 cdn.notifyvisitors.com
+cdn.switchadhub.com
+clickstream-in.bookmyshow.com
+configch2.veinteractive.com
