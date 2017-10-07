@@ -2036,3 +2036,6 @@ api.ad.intl.xiaomi.com
 api.autopilothq.com
 api.data-monitor.info
 auctional.info
+bidder.criteo.com
+buzzadexchange.com
+cdn.notifyvisitors.com
