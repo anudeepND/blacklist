@@ -2042,3 +2042,6 @@ cdn.notifyvisitors.com
 cdn.switchadhub.com
 clickstream-in.bookmyshow.com
 configch2.veinteractive.com
+api.ad.intl.xiaomi.com
+cookie-matching.mediarithmics.com
+ex6o62wr.t0r.download
