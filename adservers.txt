@@ -2045,3 +2045,7 @@ configch2.veinteractive.com
 api.ad.intl.xiaomi.com
 cookie-matching.mediarithmics.com
 ex6o62wr.t0r.download
+app-analytics.snapchat.com
+ase.adserver.snapads.com
+usc.adserver.snapads.com
+euw.adserver.snapads.com
