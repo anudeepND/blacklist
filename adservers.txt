@@ -2053,3 +2053,4 @@ ic.channel4.com
 tri.privy.com
 statics.gingersoftware.com
 statics-www-ssl.gingersoftware.com
+tr.gingersoftware.com
