@@ -2049,3 +2049,4 @@ app-analytics.snapchat.com
 ase.adserver.snapads.com
 usc.adserver.snapads.com
 euw.adserver.snapads.com
+ic.channel4.com
