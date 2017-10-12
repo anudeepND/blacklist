@@ -2051,5 +2051,5 @@ usc.adserver.snapads.com
 euw.adserver.snapads.com
 ic.channel4.com
 tri.privy.com
-statics.gingersoftware.com.
+statics.gingersoftware.com
 statics-www-ssl.gingersoftware.com
