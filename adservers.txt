@@ -2054,3 +2054,6 @@ tri.privy.com
 statics.gingersoftware.com
 statics-www-ssl.gingersoftware.com
 tr.gingersoftware.com
+uconnect.tealiumiq.com
+tracking-in.sokrati.com
+tu9srvbirvvtmjmkz29vz2xlywrzlmcuzg91ymxly2xpy2submv0.g00.popsci.com
