@@ -2057,3 +2057,5 @@ tr.gingersoftware.com
 uconnect.tealiumiq.com
 tracking-in.sokrati.com
 tu9srvbirvvtmjmkz29vz2xlywrzlmcuzg91ymxly2xpy2submv0.g00.popsci.com
+tracker.hits.io
+track.loox.io
