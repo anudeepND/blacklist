@@ -2067,3 +2067,5 @@ tnsdk.spring-tns.net
 www.tnsglobal.com
 xdadevelopers.browsi.mobi
 track.flexlinkspro.com
+track.yfret.com
+track.thesaurus.com
