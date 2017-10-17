@@ -2085,3 +2085,5 @@ scheme.mobpowertech.com
 service-api.kingsoft-office-service.com
 ups.ksmobile.net
 pasta.durecorder.duapps.com
+www.comwgi.com
+v3.propelllerads.com
