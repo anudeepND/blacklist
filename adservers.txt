@@ -2083,3 +2083,5 @@ tbn.ph.affinity.com
 static.reasedoper.pw
 scheme.mobpowertech.com
 service-api.kingsoft-office-service.com
+ups.ksmobile.net
+pasta.durecorder.duapps.com
