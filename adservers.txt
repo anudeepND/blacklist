@@ -2081,3 +2081,5 @@ static.clmbtech.com
 tracking.intl.miui.com
 tbn.ph.affinity.com
 static.reasedoper.pw
+scheme.mobpowertech.com
+service-api.kingsoft-office-service.com
