@@ -599,7 +599,6 @@ googlesyndication.com
 gostat.3g.cn
 gotpd.me
 goupdate.3g.cn
-gp.symcb.com
 graph.accountkit.com
 j6hek.voluumtrk3.com
 graphite-sscm.sec.miui.com
@@ -1190,7 +1189,6 @@ tm01.tubemogul.com
 tm02.tubemogul.com
 tmvpn02.tubemogul.com
 tmvpn.tubemogul.com
-tn.symcb.com
 todays-big-rewards.club
 tools.3g.qq.com
 top.nash-kovcheg.ru
