@@ -2144,3 +2144,8 @@ us-west-ads.aralego.com
 tracker.unbxdapi.com
 ams-ads-cornerstone-creatives-eu.s3-eu-west-1.amazonaws.com
 img.vserv.mobi
+ads.adsfull.click
+alkdmsxs.bid
+analytics.mytvzion.pro
+analytics.thevideo.me
+onclickprediction.com
