@@ -2131,3 +2131,4 @@ zn_aah4vz47v491vlf-cbs.siteintercept.qualtrics.com
 2467.tm.zedo.com
 4479443.fls.doubleclick.net
 58011369.log.optimizely.com
+collect.media.jio.com
