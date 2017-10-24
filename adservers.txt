@@ -2115,7 +2115,6 @@
 0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 ylx-2.com
 0.0.0.0 ylx-a-img.advertica-cdn.com
-0.0.0.0 youtube-nocookie.com
 0.0.0.0 yt.moatads.com
 0.0.0.0 yts.moatads.com
 0.0.0.0 yui.yahooapis.com
