@@ -2131,3 +2131,5 @@
 0.0.0.0 4479443.fls.doubleclick.net
 0.0.0.0 58011369.log.optimizely.com
 0.0.0.0 collect.media.jio.com
+0.0.0.0 auth.visiblemeasures.com
+0.0.0.0 amp-error-reporting.appspot.com
