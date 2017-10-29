@@ -2135,3 +2135,5 @@
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 monerominer.rocks
 0.0.0.0 www.monerominer.rocks
+0.0.0.0 deepc.cc
+0.0.0.0 www.deepc.cc
