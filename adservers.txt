@@ -2137,3 +2137,5 @@
 0.0.0.0 www.monerominer.rocks
 0.0.0.0 deepc.cc
 0.0.0.0 www.deepc.cc
+0.0.0.0 ads.yieldmo.com
+0.0.0.0 ads2.uptobox.com
