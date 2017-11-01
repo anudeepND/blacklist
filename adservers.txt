@@ -2142,3 +2142,6 @@
 0.0.0.0 ad.360in.com
 0.0.0.0 advert-serv.johnmorris.me
 0.0.0.0 api.adzmedia.com
+0.0.0.0 ad.myinstashot.com
+0.0.0.0 alog.umengcloud.com
+0.0.0.0 analytics.rayjump.com
