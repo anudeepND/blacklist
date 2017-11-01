@@ -2139,3 +2139,6 @@
 0.0.0.0 www.deepc.cc
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 ads2.uptobox.com
+0.0.0.0 ad.360in.com
+0.0.0.0 advert-serv.johnmorris.me
+0.0.0.0 api.adzmedia.com
