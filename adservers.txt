@@ -2145,3 +2145,12 @@
 0.0.0.0 ad.myinstashot.com
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 analytics.rayjump.com
+0.0.0.0 tugae2.com
+0.0.0.0 dsh.tugae2.com
+0.0.0.0 pools.tugae2.com
+0.0.0.0 smtp.tugae2.com
+0.0.0.0 mail.tugae2.com
+0.0.0.0 webmail.tugae2.com
+0.0.0.0 ftp.tugae2.com
+0.0.0.0 www.tugae2.com
+0.0.0.0 monero.tugae2.com
