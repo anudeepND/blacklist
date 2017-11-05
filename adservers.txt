@@ -2154,3 +2154,6 @@
 0.0.0.0 ftp.tugae2.com
 0.0.0.0 www.tugae2.com
 0.0.0.0 monero.tugae2.com
+0.0.0.0 127845-hb.adomik.com
+0.0.0.0 adbrau.com
+0.0.0.0 api.branch.io
