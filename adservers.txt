@@ -2157,3 +2157,8 @@
 0.0.0.0 127845-hb.adomik.com
 0.0.0.0 adbrau.com
 0.0.0.0 api.branch.io
+0.0.0.0 ad.api.kaffnet.com
+0.0.0.0 ads.vb-api.com
+0.0.0.0 api.growingio.com
+0.0.0.0 api.limbik.com
+0.0.0.0 api.recorder.duapps.com
