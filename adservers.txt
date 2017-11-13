@@ -2162,3 +2162,12 @@
 0.0.0.0 api.growingio.com
 0.0.0.0 api.limbik.com
 0.0.0.0 api.recorder.duapps.com
+0.0.0.0 ampmetrics.engadget.com
+0.0.0.0 c.adskeeper.co.uk
+0.0.0.0 datacollect.vmall.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 event.ksosoft.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 l2.visiblemeasures.com
+0.0.0.0 track.tenjin.io
+0.0.0.0 ustat.batmobi.net
