@@ -2171,3 +2171,7 @@
 0.0.0.0 l2.visiblemeasures.com
 0.0.0.0 track.tenjin.io
 0.0.0.0 ustat.batmobi.net
+0.0.0.0 abtest.mistat.intl.xiaomi.com
+0.0.0.0 an.batmobi.net
+0.0.0.0 api.stats.appa.pe
+0.0.0.0 api5.batmobil.net
