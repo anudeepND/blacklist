@@ -1,4 +1,4 @@
-### Adserving domains
+### Adserving and tracking domains
 A list of adserving and tracking sites maintained by me.  
 You can request additional domains via <a href="https://github.com/anudeepND/adservers/issues">Issues</a> tab.  
 Add `https://raw.githubusercontent.com/anudeepND/adservers/master/adservers.txt` to blocklist.
@@ -17,4 +17,5 @@ Add `https://raw.githubusercontent.com/anudeepND/adservers/master/adservers.txt`
 ##### b). Using inbuilt Developer tool
 For Chrome ctrl+shift+I will land you in Developer tools menu.
 ![Alt text](http://i.imgur.com/44CHRLV.png)
+
 
