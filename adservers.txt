@@ -2186,3 +2186,6 @@
 0.0.0.0 lepodownload.mediatek.com
 0.0.0.0 pixel.realclever.com
 0.0.0.0 sdktm.w.inmobi.com
+0.0.0.0 adblockerkillswebsites.pw
+0.0.0.0 rlogs.youdao.com
+0.0.0.0 toc.googlesyndication.com
