@@ -1,7 +1,7 @@
 ### Adserving and tracking domains
 A list of adserving and tracking sites maintained by me.  
-You can request additional domains via <a href="https://github.com/anudeepND/adservers/issues">Issues</a> tab.  
-Add `https://raw.githubusercontent.com/anudeepND/adservers/master/adservers.txt` to blocklist.
+You can request additional domains via <a href="https://github.com/anudeepND/blacklist/issues">Issues</a> tab.
+Add `https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt` to blocklist.
 
 ##### How do I determine an ad domain?
 
