@@ -2189,3 +2189,8 @@
 0.0.0.0 adblockerkillswebsites.pw
 0.0.0.0 rlogs.youdao.com
 0.0.0.0 toc.googlesyndication.com
+0.0.0.0 ad.click.kaffnet.com
+0.0.0.0 adserver.snapads.com
+0.0.0.0 api.deep-ad.com
+0.0.0.0 counter.kingsoft.com
+0.0.0.0 feedback.adrecover.com
