@@ -285,7 +285,6 @@
 0.0.0.0 api.shuzilm.cn
 0.0.0.0 api.stg.fwmrm.net
 0.0.0.0 api.tinyhoneybee.com
-0.0.0.0 api.trakt.tv
 0.0.0.0 api.tw06.xlmc.sec.miui.com
 0.0.0.0 api.vanilla.futurecdn.net
 0.0.0.0 api.videoder.net
