@@ -2200,3 +2200,8 @@
 0.0.0.0 d.applovin.com
 0.0.0.0 l-v1.presage.io
 0.0.0.0 rt.applovin.com
+0.0.0.0 sdk.adincube.com
+0.0.0.0 api.pubnative.net
+0.0.0.0 sdklogs.avocarrot.com
+0.0.0.0 telemetry.layer.com
+0.0.0.0 dasdada.fu.ck
