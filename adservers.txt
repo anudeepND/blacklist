@@ -2205,3 +2205,6 @@
 0.0.0.0 sdklogs.avocarrot.com
 0.0.0.0 telemetry.layer.com
 0.0.0.0 dasdada.fu.ck
+0.0.0.0 i1.dl-ad.com
+0.0.0.0 pl-v2.presage.io
+0.0.0.0 pixel.onaudience.com
