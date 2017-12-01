@@ -1045,3 +1045,4 @@
 0.0.0.0 zen.suprnova.cc
 0.0.0.0 zero.suprnova.cc
 0.0.0.0 zrc-stratum.suprnova.cc
+0.0.0.0 d3iz6lralvg77g.cloudfront.net
