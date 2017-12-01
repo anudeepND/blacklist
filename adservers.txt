@@ -2209,3 +2209,5 @@
 0.0.0.0 pl-v2.presage.io
 0.0.0.0 pixel.onaudience.com
 0.0.0.0 pixel.audienceinsights.net
+0.0.0.0 262855726.log.optimizely.com
+0.0.0.0 7832260049.log.optimizely.com
