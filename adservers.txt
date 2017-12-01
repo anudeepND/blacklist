@@ -2211,3 +2211,5 @@
 0.0.0.0 pixel.audienceinsights.net
 0.0.0.0 262855726.log.optimizely.com
 0.0.0.0 7832260049.log.optimizely.com
+0.0.0.0 storeconfig.mistat.intl.xiaomi.com
+0.0.0.0 fcanr.tracking.miui.com
