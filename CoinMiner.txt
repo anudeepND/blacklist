@@ -1046,3 +1046,8 @@
 0.0.0.0 zero.suprnova.cc
 0.0.0.0 zrc-stratum.suprnova.cc
 0.0.0.0 d3iz6lralvg77g.cloudfront.net
+0.0.0.0 jsccnn.com
+0.0.0.0 www.jsccnn.com
+0.0.0.0 jscdndel.com
+0.0.0.0 www.jscdndel.com
+0.0.0.0 ctrb.jscdndel.com
