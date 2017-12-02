@@ -2213,3 +2213,6 @@
 0.0.0.0 7832260049.log.optimizely.com
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 fcanr.tracking.miui.com
+0.0.0.0 9lktu1teg9-1.algolianet.com
+0.0.0.0 9lktu1teg9-3.algolianet.com
+0.0.0.0 9lktu1teg9-dsn.algolia.net
