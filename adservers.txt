@@ -1366,7 +1366,6 @@
 0.0.0.0 prod-collector.bigbasket.com
 0.0.0.0 profile.localytics.com
 0.0.0.0 profitrumour.com
-0.0.0.0 promo.fing.io
 0.0.0.0 promoted.hubsvc.itv.com1
 0.0.0.0 provideplant.com
 0.0.0.0 proxy-beta.smartlook.com
