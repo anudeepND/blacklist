@@ -2215,3 +2215,7 @@
 0.0.0.0 9lktu1teg9-1.algolianet.com
 0.0.0.0 9lktu1teg9-3.algolianet.com
 0.0.0.0 9lktu1teg9-dsn.algolia.net
+0.0.0.0 www.adiode.com
+0.0.0.0 adiode.com
+0.0.0.0 www.adollo.com
+0.0.0.0 adollo.com
