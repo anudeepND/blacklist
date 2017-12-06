@@ -2219,3 +2219,5 @@
 0.0.0.0 adiode.com
 0.0.0.0 www.adollo.com
 0.0.0.0 adollo.com
+0.0.0.0 adcrax.desi
+0.0.0.0 adcrax.rocks
