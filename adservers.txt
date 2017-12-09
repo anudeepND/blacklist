@@ -2223,3 +2223,5 @@
 0.0.0.0 adcrax.rocks
 0.0.0.0 wf.taboola.com
 0.0.0.0 upload.mobpowertech.com
+0.0.0.0 8037800347.log.optimizely.com
+0.0.0.0 3279880017.log.optimizely.com
