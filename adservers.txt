@@ -1808,9 +1808,7 @@
 0.0.0.0 traffic.broker.to
 0.0.0.0 traffic.tc-clicks.com
 0.0.0.0 trafflict.com
-0.0.0.0 trakt.tv
 0.0.0.0 transcodedmedia.mobivite.net
-0.0.0.0 transition.fcc.gov
 0.0.0.0 trcwt.com
 0.0.0.0 treffwerk.net
 0.0.0.0 tremember.info
