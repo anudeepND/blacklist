@@ -2228,3 +2228,7 @@
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 ads-sdk.avidly.com
 0.0.0.0 adztracking.com
+0.0.0.0 3k4hppja.stream
+0.0.0.0 a.sta.haloapps.com
+0.0.0.0 adglaze.com
+0.0.0.0 adn.insight.ucweb.com
