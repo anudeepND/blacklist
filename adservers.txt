@@ -2232,3 +2232,5 @@
 0.0.0.0 a.sta.haloapps.com
 0.0.0.0 adglaze.com
 0.0.0.0 adn.insight.ucweb.com
+0.0.0.0 apkq-cm.ksmobile.net
+0.0.0.0 appinfocdn.ksmobile.net
