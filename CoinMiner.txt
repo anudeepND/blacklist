@@ -1057,3 +1057,4 @@
 0.0.0.0 zueqwtbryx.bid
 0.0.0.0 baiduccdn1.com
 0.0.0.0 cryptoloot.pro
+0.0.0.0 aservices.party
