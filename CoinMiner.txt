@@ -1056,3 +1056,4 @@
 0.0.0.0 www.zueqwtbryx.bid
 0.0.0.0 zueqwtbryx.bid
 0.0.0.0 baiduccdn1.com
+0.0.0.0 cryptoloot.pro
