@@ -2234,3 +2234,6 @@
 0.0.0.0 adn.insight.ucweb.com
 0.0.0.0 apkq-cm.ksmobile.net
 0.0.0.0 appinfocdn.ksmobile.net
+0.0.0.0 www27.a8.net
+0.0.0.0 www25.a8.net
+0.0.0.0 www23.a8.net
