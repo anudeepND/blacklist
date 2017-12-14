@@ -2237,3 +2237,7 @@
 0.0.0.0 www27.a8.net
 0.0.0.0 www25.a8.net
 0.0.0.0 www23.a8.net
+0.0.0.0 www19.a8.net
+0.0.0.0 www18.a8.net
+0.0.0.0 www17.a8.net
+0.0.0.0 www16.a8.net
