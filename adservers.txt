@@ -2247,3 +2247,16 @@
 0.0.0.0 www11.a8.net
 0.0.0.0 www.a8.net
 0.0.0.0 a8.net
+0.0.0.0 cur.lv
+0.0.0.0 www.cur.lv
+0.0.0.0 bit.cur.lv
+0.0.0.0 go.cur.lv
+0.0.0.0 in.cur.lv
+0.0.0.0 jump.cur.lv
+0.0.0.0 link.cur.lv
+0.0.0.0 mail.cur.lv
+0.0.0.0 me.cur.lv
+0.0.0.0 my.cur.lv
+0.0.0.0 n.cur.lv
+0.0.0.0 name.cur.lv
+0.0.0.0 to.cur.lv
