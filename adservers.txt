@@ -2266,3 +2266,4 @@
 0.0.0.0 statebankrewardz.com
 0.0.0.0 freedomrewardz.com
 0.0.0.0 www.freedomrewardz.com
+0.0.0.0 aservices.party
