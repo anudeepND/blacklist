@@ -2260,3 +2260,5 @@
 0.0.0.0 n.cur.lv
 0.0.0.0 name.cur.lv
 0.0.0.0 to.cur.lv
+0.0.0.0 yotpo.com
+0.0.0.0 www.yotpo.com
