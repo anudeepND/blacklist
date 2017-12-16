@@ -2262,3 +2262,7 @@
 0.0.0.0 to.cur.lv
 0.0.0.0 yotpo.com
 0.0.0.0 www.yotpo.com
+0.0.0.0 www.statebankrewardz.com
+0.0.0.0 statebankrewardz.com
+0.0.0.0 freedomrewardz.com
+0.0.0.0 www.freedomrewardz.com
