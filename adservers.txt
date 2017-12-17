@@ -2267,3 +2267,7 @@
 0.0.0.0 freedomrewardz.com
 0.0.0.0 www.freedomrewardz.com
 0.0.0.0 aservices.party
+0.0.0.0 oimagea2.ydstatic.com
+0.0.0.0 oimagea3.ydstatic.com
+0.0.0.0 oimagea4.ydstatic.com
+0.0.0.0 oimagea5.ydstatic.com
