@@ -2271,3 +2271,6 @@
 0.0.0.0 oimagea3.ydstatic.com
 0.0.0.0 oimagea4.ydstatic.com
 0.0.0.0 oimagea5.ydstatic.com
+0.0.0.0 amigo-prod-07-b4811.firebaseio.com
+0.0.0.0 api.zhuti.xiaomi.com
+0.0.0.0 ce-production-network-tracking-258870357.us-west-2.elb.amazonaws.com
