@@ -2281,3 +2281,8 @@
 0.0.0.0 j1ti2.5255235.com
 0.0.0.0 www.1020067983.world
 0.0.0.0 1020067983.world
+0.0.0.0 www.1220047983.world
+0.0.0.0 1220047983.world
+0.0.0.0 www-9apps-com.cdn.ampproject.org
+0.0.0.0 wms-in.amazon-adsystem.com
+0.0.0.0 ucb.global
