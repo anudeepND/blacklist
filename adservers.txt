@@ -2286,3 +2286,4 @@
 0.0.0.0 www-9apps-com.cdn.ampproject.org
 0.0.0.0 wms-in.amazon-adsystem.com
 0.0.0.0 ucb.global
+0.0.0.0 www4.ipg-online.com
