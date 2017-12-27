@@ -2288,3 +2288,4 @@
 0.0.0.0 ucb.global
 0.0.0.0 www4.ipg-online.com
 0.0.0.0 6132571714.log.optimizely.com
+0.0.0.0 a.daddyjump.xyz
