@@ -275,7 +275,6 @@
 0.0.0.0 api.optnmstr.com
 0.0.0.0 api.picsart.com
 0.0.0.0 api.privy.com
-0.0.0.0 api.pushbullet.com
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api.recsys.opera.com
 0.0.0.0 api.reporo.net
@@ -1926,7 +1925,6 @@
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 wfnmmrtw.bid
 0.0.0.0 widget.cloud.opta.net
-0.0.0.0 widget.pushbullet.com
 0.0.0.0 widgetdata.tradingview.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.stackcommerce.com
