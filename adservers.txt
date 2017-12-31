@@ -2288,3 +2288,10 @@
 0.0.0.0 6132571714.log.optimizely.com
 0.0.0.0 a.daddyjump.xyz
 0.0.0.0 web.vortex.data.microsoft.com
+0.0.0.0 www.adthink.com
+0.0.0.0 a1.adthink.com
+0.0.0.0 app.adthink.com
+0.0.0.0 www.app.adthink.com
+0.0.0.0 cpa.adthink.com
+0.0.0.0 images.cpa.adthink.com
+0.0.0.0 network.cpa.adthink.com
