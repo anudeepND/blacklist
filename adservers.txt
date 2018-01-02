@@ -2310,3 +2310,12 @@
 0.0.0.0 c.targetserving.com
 0.0.0.0 cdn.targetserving.com
 0.0.0.0 s.targetserving.com
+0.0.0.0 actrk.me
+0.0.0.0 adszx.pro
+0.0.0.0 axdst.pro
+0.0.0.0 bskn.pro
+0.0.0.0 xmen2.xtraman.info
+0.0.0.0 malealous.com
+0.0.0.0 main.dynsrvaba.com
+0.0.0.0 collector.xhamster.com
+0.0.0.0 adts.btrkpro.com
