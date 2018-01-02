@@ -2305,3 +2305,12 @@
 0.0.0.0 dev.unblock.onaudience.com
 0.0.0.0 x.onaudience.com
 0.0.0.0 unblock.onaudience.com
+0.0.0.0 actrk.me
+0.0.0.0 adszx.pro
+0.0.0.0 axdst.pro
+0.0.0.0 bskn.pro
+0.0.0.0 xmen2.xtraman.info
+0.0.0.0 malealous.com
+0.0.0.0 main.dynsrvaba.com
+0.0.0.0 collector.xhamster.com
+0.0.0.0 adts.btrkpro.com
