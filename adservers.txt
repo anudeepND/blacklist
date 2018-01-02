@@ -2305,3 +2305,8 @@
 0.0.0.0 dev.unblock.onaudience.com
 0.0.0.0 x.onaudience.com
 0.0.0.0 unblock.onaudience.com
+0.0.0.0 www.targetserving.com
+0.0.0.0 a.targetserving.com
+0.0.0.0 c.targetserving.com
+0.0.0.0 cdn.targetserving.com
+0.0.0.0 s.targetserving.com
