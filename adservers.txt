@@ -2319,3 +2319,4 @@
 0.0.0.0 main.dynsrvaba.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 adts.btrkpro.com
+0.0.0.0 ad.flipboard.com
