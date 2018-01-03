@@ -3904,3 +3904,12 @@
 0.0.0.0 www.staging.getadmiral.com
 0.0.0.0 status.getadmiral.com
 0.0.0.0 stripewh.getadmiral.com
+0.0.0.0 www.adrecover.com
+0.0.0.0 app.adrecover.com
+0.0.0.0 delivery.adrecover.com
+0.0.0.0 demo.adrecover.com
+0.0.0.0 feedback.adrecover.com
+0.0.0.0 feedback.geo.adrecover.com
+0.0.0.0 logging.adrecover.com
+0.0.0.0 start.adrecover.com
+0.0.0.0 www.start.adrecover.com
