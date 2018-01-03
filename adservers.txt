@@ -2562,3 +2562,13 @@
 0.0.0.0 sftp4.adlooxtracking.com
 0.0.0.0 ssf.adlooxtracking.com
 0.0.0.0 supervision2.adlooxtracking.com
+0.0.0.0 7wpaumpa47-3.algolianet.com
+0.0.0.0 8qxsb1k7vt-1.algolianet.com
+0.0.0.0 8qxsb1k7vt-2.algolianet.com
+0.0.0.0 8qxsb1k7vt-3.algolianet.com
+0.0.0.0 bnzmzkcxit-2.algolianet.com
+0.0.0.0 jellynote-1.algolianet.com
+0.0.0.0 vxinirakqb-2.algolianet.com
+0.0.0.0 xz9styx8nn-1.algolianet.com
+0.0.0.0 zidpns2vb0-2.algolianet.com
+0.0.0.0 zidpns2vb0-3.algolianet.com
