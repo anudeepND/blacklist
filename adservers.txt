@@ -5273,3 +5273,14 @@
 0.0.0.0 ns2.free-counters.co.uk
 0.0.0.0 trackers.free-counters.co.uk
 0.0.0.0 www.trackers.free-counters.co.uk
+0.0.0.0 www.popads.net
+0.0.0.0 anycast.popads.net
+0.0.0.0 banners.popads.net
+0.0.0.0 blog.popads.net
+0.0.0.0 c1.popads.net
+0.0.0.0 c2.popads.net
+0.0.0.0 www.c2.popads.net
+0.0.0.0 o1.notification.popads.net
+0.0.0.0 out.popads.net
+0.0.0.0 serve.popads.net
+0.0.0.0 static.popads.net
