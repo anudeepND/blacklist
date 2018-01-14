@@ -1,7 +1,3 @@
-0.0.0.0 pool.cloudcoins.co
-0.0.0.0 cdn.cloudcoins.co
-0.0.0.0 cloudcoins.co
-0.0.0.0 www.cdn.cloudcoins.co
 0.0.0.0 www.coinlab.biz
 0.0.0.0 coinlab.biz
 0.0.0.0 ajmyrtdiwvg.bid
