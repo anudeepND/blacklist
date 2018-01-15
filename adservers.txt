@@ -7878,22 +7878,118 @@
 0.0.0.0 rtbnowads.com
 0.0.0.0 akxsrsdbursfpx.bid
 0.0.0.0 ounaihekw.bid
-0.0.0.0 0.0.0.0 www.free-counters.co.uk
-0.0.0.0 0.0.0.0 005.free-counters.co.uk
-0.0.0.0 0.0.0.0 www.005.free-counters.co.uk
-0.0.0.0 0.0.0.0 statistics.005.free-counters.co.uk
-0.0.0.0 0.0.0.0 www.statistics.005.free-counters.co.uk
-0.0.0.0 0.0.0.0 006.free-counters.co.uk
-0.0.0.0 0.0.0.0 statistics.006.free-counters.co.uk
-0.0.0.0 0.0.0.0 www.statistics.006.free-counters.co.uk
-0.0.0.0 0.0.0.0 007.free-counters.co.uk
-0.0.0.0 0.0.0.0 www.007.free-counters.co.uk
-0.0.0.0 0.0.0.0 statistics.007.free-counters.co.uk
-0.0.0.0 0.0.0.0 www.statistics.007.free-counters.co.uk
-0.0.0.0 0.0.0.0 008.free-counters.co.uk
-0.0.0.0 0.0.0.0 statistics.008.free-counters.co.uk
-0.0.0.0 0.0.0.0 www.statistics.008.free-counters.co.uk
-0.0.0.0 0.0.0.0 new.free-counters.co.uk
-0.0.0.0 0.0.0.0 ns2.free-counters.co.uk
-0.0.0.0 0.0.0.0 trackers.free-counters.co.uk
-0.0.0.0 0.0.0.0 www.trackers.free-counters.co.uk
+0.0.0.0 www.free-counters.co.uk
+0.0.0.0 005.free-counters.co.uk
+0.0.0.0 www.005.free-counters.co.uk
+0.0.0.0 statistics.005.free-counters.co.uk
+0.0.0.0 www.statistics.005.free-counters.co.uk
+0.0.0.0 006.free-counters.co.uk
+0.0.0.0 statistics.006.free-counters.co.uk
+0.0.0.0 www.statistics.006.free-counters.co.uk
+0.0.0.0 007.free-counters.co.uk
+0.0.0.0 www.007.free-counters.co.uk
+0.0.0.0 statistics.007.free-counters.co.uk
+0.0.0.0 www.statistics.007.free-counters.co.uk
+0.0.0.0 008.free-counters.co.uk
+0.0.0.0 statistics.008.free-counters.co.uk
+0.0.0.0 www.statistics.008.free-counters.co.uk
+0.0.0.0 new.free-counters.co.uk
+0.0.0.0 ns2.free-counters.co.uk
+0.0.0.0 trackers.free-counters.co.uk
+0.0.0.0 www.trackers.free-counters.co.uk
+0.0.0.0 www.fyber.com
+0.0.0.0 acp.fyber.com
+0.0.0.0 adcount.fyber.com
+0.0.0.0 adproxy.fyber.com
+0.0.0.0 adproxy-as-us-west.fyber.com
+0.0.0.0 adproxy-eu-west.fyber.com
+0.0.0.0 adproxy-us-east.fyber.com
+0.0.0.0 adproxy-us-west.fyber.com
+0.0.0.0 adserver.fyber.com
+0.0.0.0 adserver-reporting.fyber.com
+0.0.0.0 advertiser.fyber.com
+0.0.0.0 air.fyber.com
+0.0.0.0 ams.fyber.com
+0.0.0.0 android.fyber.com
+0.0.0.0 api.fyber.com
+0.0.0.0 api-rewarded-video.fyber.com
+0.0.0.0 appengage-fyber.fyber.com
+0.0.0.0 appengage-video.fyber.com
+0.0.0.0 appengage-video-staging.fyber.com
+0.0.0.0 asset1.fyber.com
+0.0.0.0 asset2.fyber.com
+0.0.0.0 asset3.fyber.com
+0.0.0.0 asset4.fyber.com
+0.0.0.0 atlassian.fyber.com
+0.0.0.0 atlassian2.fyber.com
+0.0.0.0 banner.fyber.com
+0.0.0.0 aws.banner-server.fyber.com
+0.0.0.0 be.fyber.com
+0.0.0.0 blog.fyber.com
+0.0.0.0 www.blog.fyber.com
+0.0.0.0 bre.fyber.com
+0.0.0.0 bs-creatives.fyber.com
+0.0.0.0 bs-creatives-fix.fyber.com
+0.0.0.0 cdn.fyber.com
+0.0.0.0 cdn0.fyber.com
+0.0.0.0 cdn1.fyber.com
+0.0.0.0 cdn2.fyber.com
+0.0.0.0 cdn3.fyber.com
+0.0.0.0 cdn4.fyber.com
+0.0.0.0 shadow.cloud.fyber.com
+0.0.0.0 customersupport.fyber.com
+0.0.0.0 dashboard.fyber.com
+0.0.0.0 rntsweb.dc2.fyber.com
+0.0.0.0 demo-dashboard.fyber.com
+0.0.0.0 developer.fyber.com
+0.0.0.0 www.developer.fyber.com
+0.0.0.0 developer-staging.fyber.com
+0.0.0.0 dp-dashboard.fyber.com
+0.0.0.0 engine.fyber.com
+0.0.0.0 engine-dsa.fyber.com
+0.0.0.0 grafana.fyber.com
+0.0.0.0 iframe.fyber.com
+0.0.0.0 iframe-dsa.fyber.com
+0.0.0.0 interstitial.fyber.com
+0.0.0.0 aws.interstitial-broker.fyber.com
+0.0.0.0 investors.fyber.com
+0.0.0.0 ios.fyber.com
+0.0.0.0 lbservices2.fyber.com
+0.0.0.0 legacydocs.fyber.com
+0.0.0.0 mbe-cdn.fyber.com
+0.0.0.0 mbe-cdn-rtb.fyber.com
+0.0.0.0 mbe-cdn-rtb-staging.fyber.com
+0.0.0.0 mbe-cdn-staging.fyber.com
+0.0.0.0 mbe-monitoring.fyber.com
+0.0.0.0 offer.fyber.com
+0.0.0.0 ofw-client-cdn.fyber.com
+0.0.0.0 otrs.fyber.com
+0.0.0.0 pixie.fyber.com
+0.0.0.0 publisher-reporting-api.fyber.com
+0.0.0.0 reference.fyber.com
+0.0.0.0 reporting-rtb.fyber.com
+0.0.0.0 rewarded-video.fyber.com
+0.0.0.0 ui.rtb.fyber.com
+0.0.0.0 wiki.rtb-demand.fyber.com
+0.0.0.0 wiki.rtb-supply.fyber.com
+0.0.0.0 rtbcc.fyber.com
+0.0.0.0 rtcc.fyber.com
+0.0.0.0 san.fyber.com
+0.0.0.0 service.fyber.com
+0.0.0.0 appengage-video.staging.fyber.com
+0.0.0.0 staging-appengage-video.fyber.com
+0.0.0.0 staging-bs-creatives.fyber.com
+0.0.0.0 staging-ofw-client-cdn.fyber.com
+0.0.0.0 staging-tracker.fyber.com
+0.0.0.0 staging-video.fyber.com
+0.0.0.0 tableau-test.fyber.com
+0.0.0.0 tickets.fyber.com
+0.0.0.0 track.fyber.com
+0.0.0.0 tracker.fyber.com
+0.0.0.0 tracking.fyber.com
+0.0.0.0 ui-rtb.fyber.com
+0.0.0.0 unity.fyber.com
+0.0.0.0 video.fyber.com
+0.0.0.0 video-dsa.fyber.com
+0.0.0.0 video-interstitial-assets-cdn.fyber.com
+0.0.0.0 wiki.fyber.com
