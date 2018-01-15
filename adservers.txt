@@ -7878,3 +7878,22 @@
 0.0.0.0 rtbnowads.com
 0.0.0.0 akxsrsdbursfpx.bid
 0.0.0.0 ounaihekw.bid
+0.0.0.0 0.0.0.0 www.free-counters.co.uk
+0.0.0.0 0.0.0.0 005.free-counters.co.uk
+0.0.0.0 0.0.0.0 www.005.free-counters.co.uk
+0.0.0.0 0.0.0.0 statistics.005.free-counters.co.uk
+0.0.0.0 0.0.0.0 www.statistics.005.free-counters.co.uk
+0.0.0.0 0.0.0.0 006.free-counters.co.uk
+0.0.0.0 0.0.0.0 statistics.006.free-counters.co.uk
+0.0.0.0 0.0.0.0 www.statistics.006.free-counters.co.uk
+0.0.0.0 0.0.0.0 007.free-counters.co.uk
+0.0.0.0 0.0.0.0 www.007.free-counters.co.uk
+0.0.0.0 0.0.0.0 statistics.007.free-counters.co.uk
+0.0.0.0 0.0.0.0 www.statistics.007.free-counters.co.uk
+0.0.0.0 0.0.0.0 008.free-counters.co.uk
+0.0.0.0 0.0.0.0 statistics.008.free-counters.co.uk
+0.0.0.0 0.0.0.0 www.statistics.008.free-counters.co.uk
+0.0.0.0 0.0.0.0 new.free-counters.co.uk
+0.0.0.0 0.0.0.0 ns2.free-counters.co.uk
+0.0.0.0 0.0.0.0 trackers.free-counters.co.uk
+0.0.0.0 0.0.0.0 www.trackers.free-counters.co.uk
