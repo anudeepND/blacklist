@@ -5331,7 +5331,7 @@
 0.0.0.0 d.adlooxtracking.com
 0.0.0.0 d.adroll.com
 0.0.0.0 dafitibr.widget.criteo.com
-0.0.0.0 -dagbladet.cdn.videoplaza.tv
+0.0.0.0 dagbladet.cdn.videoplaza.tv
 0.0.0.0 dagensmedia.se.102.112.2o7.net
 0.0.0.0 d.agkn.com
 0.0.0.0 daietuk38401.112.2o7.net
@@ -6006,7 +6006,7 @@
 0.0.0.0 duke.qualtrics.com
 0.0.0.0 dumontnet.d3.sc.omtrdc.net
 0.0.0.0 dunbradstreetinc.demdex.net
-0.0.0.0 durl=px.moatads.com
+0.0.0.0 durlpx.moatads.com
 0.0.0.0 duschmeisterde.widget.criteo.com
 0.0.0.0 dustin222242.112.2o7.net
 0.0.0.0 dvag.d3.sc.omtrdc.net
@@ -14416,7 +14416,6 @@
 0.0.0.0 t.dtscout.com
 0.0.0.0 td.vs3.com
 0.0.0.0 tdzvm.pw
-0.0.0.0 *.teads.tv
 0.0.0.0 teamone.co1.qualtrics.com
 0.0.0.0 teamshirts.de.ssl.d1.sc.omtrdc.net
 0.0.0.0 tearsheet.fwmrm.net
@@ -15128,7 +15127,7 @@
 0.0.0.0 umbc.co1.qualtrics.com
 0.0.0.0 umc360.qualtrics.com
 0.0.0.0 umd.az1.qualtrics.com
-0.0.0.0 *.umengcloud.com
+0.0.0.0 umengcloud.com
 0.0.0.0 umengjmacs.m.taobao.com
 0.0.0.0 ume.qualtrics.com
 0.0.0.0 umflint.qualtrics.com
