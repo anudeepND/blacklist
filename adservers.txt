@@ -3640,7 +3640,6 @@
 0.0.0.0 av.tubemogul.com
 0.0.0.0 avycaz.com.102.112.2o7.net
 0.0.0.0 aw-gb.mgid.com
-0.0.0.0 aws.amazon.com
 0.0.0.0 awsamazonprod1.112.2o7.net
 0.0.0.0 awsamazonregprod1.112.2o7.net
 0.0.0.0 aws.banner-server.fyber.com
