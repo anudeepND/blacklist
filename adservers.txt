@@ -8592,7 +8592,6 @@
 0.0.0.0 kgi.co1.qualtrics.com
 0.0.0.0 kgnrmyec1s.mentalist.kameleoon.com
 0.0.0.0 kguri.voluumtrk.com
-0.0.0.0 khabar.ndtv.com
 0.0.0.0 khonosta.info
 0.0.0.0 ki6fu.voluumtrk.com
 0.0.0.0 kibana.optimonk.com
