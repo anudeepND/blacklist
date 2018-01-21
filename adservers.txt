@@ -7433,7 +7433,6 @@
 0.0.0.0 granitemedia-d.openx.net
 0.0.0.0 granitestatecollege.co1.qualtrics.com
 0.0.0.0 graph.accountkit.com
-0.0.0.0 graph.facebook.com
 0.0.0.0 graphite-sscm.sec.miui.com
 0.0.0.0 graphite-ssms.sec.miui.com
 0.0.0.0 graydown-d.openx.net
