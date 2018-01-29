@@ -23277,3 +23277,12 @@
 0.0.0.0 stats.bbc.co.uk
 0.0.0.0 system.nextmillennium.io
 0.0.0.0 srv-2018-01-23-02.pixel.parsely.com
+0.0.0.0 doubleclick1.xyz
+0.0.0.0 doubleclick2.xyz
+0.0.0.0 doubleclick3.xyz
+0.0.0.0 doubleclick4.xyz
+0.0.0.0 doubleclick4.xyz
+0.0.0.0 doubleclick5.xyz
+0.0.0.0 doubleclick6.xyz
+0.0.0.0 api.l33tsite.info
+0.0.0.0 ws.l33tsite.info
