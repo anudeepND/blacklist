@@ -1,3 +1,11 @@
+# Host file to block ads, tracking and more!
+#
+# Project home page: https://github.com/anudeepND/blacklist
+# Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
+#
+# Hosts contributed by Anudeep <anudeep@protonmail.com>
+#
+# ===============================================================
 0.0.0.0 005.free-counters.co.uk
 0.0.0.0 006.free-counters.co.uk
 0.0.0.0 007.free-counters.co.uk
