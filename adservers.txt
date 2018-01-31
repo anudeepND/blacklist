@@ -15377,7 +15377,7 @@
 0.0.0.0 www2.crittercism.com
 0.0.0.0 www3.addthis.com
 0.0.0.0 www3.mopub.com
-0.0.0.0 www4.ipg-online.com
+0.0.0.0 www4.mopub.com
 0.0.0.0 www-9apps-com.cdn.ampproject.org
 0.0.0.0 www.9dot9.in
 0.0.0.0 www.a8.net
