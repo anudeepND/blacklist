@@ -4511,7 +4511,6 @@
 0.0.0.0 cdn-static-test.optimonk.com
 0.0.0.0 cdn.steepto.com
 0.0.0.0 cdn.switchadhub.com
-0.0.0.0 cdn.syndication.twimg.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.taplytics.com
 0.0.0.0 cdn.targetserving.com
