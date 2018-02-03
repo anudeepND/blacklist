@@ -13633,7 +13633,6 @@
 0.0.0.0 syndication.exosrv.com
 0.0.0.0 syndication.site.yahoo.net
 0.0.0.0 syndication.standard.co.uk
-0.0.0.0 syndication.twitter.com
 0.0.0.0 synergycu.ca.102.112.2o7.net
 0.0.0.0 syngenta.co1.qualtrics.com
 0.0.0.0 syn.torlock.com
