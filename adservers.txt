@@ -4913,7 +4913,6 @@
 0.0.0.0 content.taboola.com
 0.0.0.0 content.tubemogul.com
 0.0.0.0 controller-gateway.mmccint.com
-0.0.0.0 controller.intl.xiaomi.com
 0.0.0.0 convammp.taboola.com
 0.0.0.0 convdamp.taboola.com
 0.0.0.0 converse.co.uk.d1.sc.omtrdc.net
