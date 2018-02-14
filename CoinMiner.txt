@@ -1,3 +1,12 @@
+# Host file to block crypto currency mining sites.
+#
+# Project home page: https://github.com/anudeepND/blacklist
+# Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
+#
+# Hosts contributed by Anudeep <anudeep@protonmail.com>
+#
+# ===============================================================
+# 
 0.0.0.0 www.coinlab.biz
 0.0.0.0 coinlab.biz
 0.0.0.0 ajmyrtdiwvg.bid
@@ -1170,3 +1179,9 @@
 0.0.0.0 ws9.3d0cb547.space
 0.0.0.0 zxc1-ustokyyneikyfasnm.stackpathdns.com
 0.0.0.0 ovc2-ustokyyneikyfasnm.stackpathdns.com
+0.0.0.0 rcyclmnr.com
+0.0.0.0 rcylpd.com
+0.0.0.0 recycloped.com
+0.0.0.0 rcyclmnrhgntry.com
+0.0.0.0 rcyclmnrprd.com
+0.0.0.0 rcyclmnrepv.com
