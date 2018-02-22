@@ -13322,7 +13322,6 @@
 0.0.0.0 statics.gingersoftware.com
 0.0.0.0 statics.hdocdn.ru
 0.0.0.0 static.ssacdn.com
-0.0.0.0 statics-uhf-wus.akamaized.net
 0.0.0.0 statics-www-ssl.gingersoftware.com
 0.0.0.0 static.trafficjunky.net
 0.0.0.0 static.umeng.com
