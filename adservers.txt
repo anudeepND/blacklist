@@ -29640,3 +29640,6 @@
 0.0.0.0 statcounter.com
 0.0.0.0 stats.norton.com
 0.0.0.0 tag.getdrip.com
+0.0.0.0 settings.data.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 settings-win-ppe.data.microsoft.com
