@@ -10587,7 +10587,6 @@
 0.0.0.0 perf.logsss.com
 0.0.0.0 perfmedia-d.openx.net
 0.0.0.0 performanceadexchange.com
-0.0.0.0 performance.typekit.net
 0.0.0.0 perfspot.crwdcntrl.net
 0.0.0.0 perscdn.taboola.com
 0.0.0.0 pertholin.com
@@ -14606,7 +14605,6 @@
 0.0.0.0 users.us-east-1b.tubemogul.com
 0.0.0.0 usersync.criteo.com
 0.0.0.0 use-tor.adsrvr.org
-0.0.0.0 use.typekit.net
 0.0.0.0 usevideo.adsrvr.org
 0.0.0.0 usfca.co1.qualtrics.com
 0.0.0.0 usfhealth.qualtrics.com
