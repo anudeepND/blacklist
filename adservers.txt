@@ -29641,3 +29641,5 @@
 0.0.0.0 settings.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 settings-win-ppe.data.microsoft.com
+0.0.0.0 6261791.fls.doubleclick.net
+0.0.0.0 5118230.fls.doubleclick.net
