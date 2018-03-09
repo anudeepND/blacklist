@@ -3226,7 +3226,6 @@
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api.reachads.com
 0.0.0.0 api.recorder.duapps.com
-0.0.0.0 api.recsys.opera.com
 0.0.0.0 api.reporo.net
 0.0.0.0 api.revcontent.com
 0.0.0.0 api-rewarded-video.fyber.com
@@ -9286,8 +9285,6 @@
 0.0.0.0 mindtank-d.openx.net
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 minexmr.pooldd.com
-0.0.0.0 mini5-7.opera-mini.net
-0.0.0.0 mini5.opera-mini.net
 0.0.0.0 minutemedia-d.openx.net
 0.0.0.0 mirrordigital-d.openx.net
 0.0.0.0 mis2.vserv.mobi
