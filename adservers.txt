@@ -29640,3 +29640,12 @@
 0.0.0.0 settings-win-ppe.data.microsoft.com
 0.0.0.0 6261791.fls.doubleclick.net
 0.0.0.0 5118230.fls.doubleclick.net
+0.0.0.0 srv-2018-02-11-05.config.parsely.com
+0.0.0.0 srv-2018-02-11-05.pixel.parsely.com
+0.0.0.0 srv-2018-02-11-11.config.parsely.com
+0.0.0.0 srv-2018-02-11-11.pixel.parsely.com
+0.0.0.0 srv-2018-02-12-16.pixel.parsely.com
+0.0.0.0 srv-2018-02-13-18.config.parsely.com
+0.0.0.0 srv-2018-02-13-18.pixel.parsely.com
+0.0.0.0 srv-2018-03-01-13.config.parsely.com
+0.0.0.0 srv-2018-03-01-13.pixel.parsely.com
