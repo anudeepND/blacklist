@@ -7976,9 +7976,7 @@
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 image7.pubmatic.com
 0.0.0.0 image.adsbing.com
-0.0.0.0 image.baidu.com
 0.0.0.0 imagecache.crowdynews.com
-0.0.0.0 image.i.360overseas.com
 0.0.0.0 image.pubmatic.com
 0.0.0.0 imagepusher01-ext.fwmrm.net
 0.0.0.0 imagepusher02-ext.fwmrm.net
@@ -7994,7 +7992,6 @@
 0.0.0.0 images.mopub.com
 0.0.0.0 images.mxpnl.com
 0.0.0.0 images-na.ssl-images-mi-sale.free-offer
-0.0.0.0 images.shazam.com
 0.0.0.0 images.skimresources.com
 0.0.0.0 images.startappservice.com
 0.0.0.0 images.taboola.com
@@ -8010,7 +8007,6 @@
 0.0.0.0 imf.cnzz.com
 0.0.0.0 imf.org.102.112.2o7.net
 0.0.0.0 img-1.3lift.com
-0.0.0.0 img1.gadgetsnow.com
 0.0.0.0 img-2.3lift.com
 0.0.0.0 img2.imgtn.bdimg.com
 0.0.0.0 img-3.3lift.com
@@ -8028,9 +8024,6 @@
 0.0.0.0 img-cd.mmtcdn.com
 0.0.0.0 img-cdn.steepto.com
 0.0.0.0 img.cm.ksmobile.com
-0.0.0.0 imgd1.aeplcdn.com
-0.0.0.0 imgd2.aeplcdn.com
-0.0.0.0 imgd.aeplcdn.com
 0.0.0.0 img-dc2.adtech.de
 0.0.0.0 imgg1.mgid.com
 0.0.0.0 imgg-cdn.mgid.com
