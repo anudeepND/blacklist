@@ -29642,3 +29642,7 @@
 0.0.0.0 srv-2018-02-13-18.pixel.parsely.com
 0.0.0.0 srv-2018-03-01-13.config.parsely.com
 0.0.0.0 srv-2018-03-01-13.pixel.parsely.com
+0.0.0.0 1356493418.log.optimizely.com
+0.0.0.0 308248513.log.optimizely.com
+0.0.0.0 4234560.fls.doubleclick.net
+0.0.0.0 5978433110.log.optimizely.com
