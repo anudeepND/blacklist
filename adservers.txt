@@ -16178,7 +16178,6 @@
 0.0.0.0 cdn.buysellads.com
 0.0.0.0 cdn.static.zdbb.net
 0.0.0.0 content.adriver.ru
-0.0.0.0 delivery.vidible.tv
 0.0.0.0 imgg-cdn.adskeeper.co.uk
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 load.sumome.com
@@ -18769,7 +18768,6 @@
 0.0.0.0 consul-stage.vidible.tv
 0.0.0.0 db.content-learn-history.vidible.tv
 0.0.0.0 db.content-learn-history-stage.vidible.tv
-0.0.0.0 delivery.vidible.tv
 0.0.0.0 delivery-vpc-a.vidible.tv
 0.0.0.0 delivery-vpc-b.vidible.tv
 0.0.0.0 demo.vidible.tv
