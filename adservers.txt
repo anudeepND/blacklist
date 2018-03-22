@@ -18745,7 +18745,6 @@
 0.0.0.0 bsf.vidible.tv
 0.0.0.0 bsf-stage.vidible.tv
 0.0.0.0 captions.vidible.tv
-0.0.0.0 cdn.vidible.tv
 0.0.0.0 cdn-ssi.vidible.tv
 0.0.0.0 cdn-ssl.vidible.tv
 0.0.0.0 cdn-ycs.vidible.tv
@@ -18756,7 +18755,6 @@
 0.0.0.0 exchange.commercialize.vidible.tv
 0.0.0.0 common.vidible.tv
 0.0.0.0 static.decalgirl.comtrk.vidible.tv
-0.0.0.0 tpc.googlesyndication.comtps30.doubleverify.comtrk.vidible.tv
 0.0.0.0 tps30.doubleverify.comtrk.vidible.tv
 0.0.0.0 tools.google.comtrk.vidible.tv
 0.0.0.0 translate.google.comtrk.vidible.tv
@@ -18925,8 +18923,7 @@
 0.0.0.0 trk-vpc-us-east-1-b.vidible.tv
 0.0.0.0 trk-vpc-us-west-1-a.vidible.tv
 0.0.0.0 trk-vpc-us-west-1-b.vidible.tv
-0.0.0.0 cdn-ssl.vidible.tvcdn-ssl.vidible.tv
-0.0.0.0 delivery.vidible.tvdelivery.vidible.tv
+0.0.0.0 cdn-ssl.vidible.tv
 0.0.0.0 trk.vidible.tvtrk.vidible.tv
 0.0.0.0 acds.prod.us-east-1.vidible.tv
 0.0.0.0 acds-b.prod.us-east-1.vidible.tv
@@ -18935,7 +18932,6 @@
 0.0.0.0 uspstudios.vidible.tv
 0.0.0.0 vcdelivery.vidible.tv
 0.0.0.0 vdm-apiservice.vidible.tv
-0.0.0.0 videos.vidible.tv
 0.0.0.0 videos2.vidible.tv
 0.0.0.0 vidibledemo.vidible.tv
 0.0.0.0 vss.vidible.tv
