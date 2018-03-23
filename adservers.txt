@@ -3235,7 +3235,6 @@
 0.0.0.0 api-s2s-emea.taboola.com
 0.0.0.0 api-s2s.taboola.com
 0.0.0.0 api.safegraph.com
-0.0.0.0 api.salemove.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.selfserve.rubiconproject.com
@@ -3265,10 +3264,9 @@
 0.0.0.0 api.vanilla.futurecdn.net
 0.0.0.0 api.videoder.net
 0.0.0.0 api.videometrics.ted.com
-0.0.0.0 \api.viglink.com
+0.0.0.0 20774675p.rfihub.com
 0.0.0.0 api.viglink.com
 0.0.0.0 api-visit.kameleoon.com
-0.0.0.0 api.weather.comapps.itunes.combs.serving-sys.comcdn.taboola.comcdn2.teads.tv
 0.0.0.0 api.w.inmobi.com
 0.0.0.0 api.wp.haokan.mobi
 0.0.0.0 api.wsq.umeng.com
