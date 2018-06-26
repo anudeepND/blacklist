@@ -5403,7 +5403,6 @@
 0.0.0.0 api.veruta.com
 0.0.0.0 api.videoder.net
 0.0.0.0 api.videometrics.ted.com
-0.0.0.0 api.vidible.tv
 0.0.0.0 api.viglink.com
 0.0.0.0 api-visit.kameleoon.com
 0.0.0.0 api.vuukle.com
@@ -5414,7 +5413,6 @@
 0.0.0.0 api.wp.haokan.mobi
 0.0.0.0 api.wsq.umeng.com
 0.0.0.0 apiw-test.ensighten.com
-0.0.0.0 api.zhuti.xiaomi.com
 0.0.0.0 apkfdc.vass-24.net
 0.0.0.0 apkq-cm.ksmobile.net
 0.0.0.0 ap.lijit.com
@@ -27303,9 +27301,6 @@
 0.0.0.0 xssg5fz8hah7qfhqdys9ny4ejeaqm1504910791.nuid.imrworldwide.com
 0.0.0.0 x-traffic-director.videoplaza.tv
 0.0.0.0 xtrail-forum.de.intellitxt.com
-0.0.0.0 xtrapath1.izatcloud.net
-0.0.0.0 xtrapath2.izatcloud.net
-0.0.0.0 xtrapath3.izatcloud.net
 0.0.0.0 xtwzukfknhx.proxy.teads.tv
 0.0.0.0 xuuid.bc646439-8b73-4e0c-826e-cc3ea6705bd5.adk2x.com
 0.0.0.0 xuvzz.qlvfyxtzjh5.bapb.gdn
@@ -27655,7 +27650,6 @@
 0.0.0.0 zhnhos6t7zhuyrctdzk2czoizlsgf1514433112.nuid.imrworldwide.com
 0.0.0.0 zh_tw.statcounter.com
 0.0.0.0 zh-tw.statcounter.com
-0.0.0.0 zhuti.xiaomi.com
 0.0.0.0 zib78.voluumtrk.com
 0.0.0.0 zico.alphonso.tv
 0.0.0.0 ziffdavis697674298673.moatads.com
