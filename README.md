@@ -1,4 +1,4 @@
-### Host file to block trackers and advertisements
+## Host file to block trackers and advertisements
           
 A list of adserving and tracking sites maintained by me. This list will be updated frequently.   
 You can request additional domains or report exsisting domains via <a href="https://github.com/anudeepND/blacklist/issues">Issues</a> tab.
@@ -7,7 +7,9 @@ You can request additional domains or report exsisting domains via <a href="http
 
 ### Description
       
-This repo contains two files, `CoinMiner.txt` (*no longer maintained*) and `adservers.txt`. To block ads and trackers, add `adservers.txt` to your host file or blocklist.
+This repo contains two files, *`CoinMiner.txt`* (*no longer maintained*) and *`adservers.txt`*.          
+To block cyptojacking sites, add *`CoinMiner.txt`* to your host file or blocklist.      
+To block ads and trackers, add *`adservers.txt`* to your host file or blocklist.
 
 ***
  
@@ -19,24 +21,24 @@ This repo contains two files, `CoinMiner.txt` (*no longer maintained*) and `adse
            
 ### Location of your hosts file               
        
-**Mac OS X, iOS, Android, Linux:** `/etc/hosts file`          
-**Winodws:** `Windows: %SystemRoot%\system32\drivers\etc\hosts file`            
+***Mac OS X, iOS, Android, Linux:*** `/etc/hosts file`          
+***Winodws:*** `Windows: %SystemRoot%\system32\drivers\etc\hosts file`            
        
  ***
        
 ### Usage            
            
-**Windows:** Windows users can use this host file with [Hostman](http://www.abelhadigital.com/hostsman/), a software to manage host file.       
+***Windows:*** Windows users can use this host file with [Hostman](http://www.abelhadigital.com/hostsman/), a software to manage host file.       
      
-**Android:** For non-rooted devices, this host can be used with [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), a free and open-source ad-blocker.     
+***Android:*** For non-rooted devices, this host can be used with [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), a free and open-source ad-blocker.     
      
 For rooted device, this host file can be used with [AdAway](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.    
      
-**Linux:** An open-source host file manager called [hBlock](https://github.com/hectorm/hBlock).   
+***Linux:*** An open-source host file manager called [hBlock](https://github.com/hectorm/hBlock).   
        
-**Mac OS:** This host file can be used with [gasmask](https://github.com/2ndalpha/gasmask).    
+***Mac OS:*** This host file can be used with [gasmask](https://github.com/2ndalpha/gasmask).    
       
-*If you are using PI-Hole, you can add this to your blocklist.*      
+*If you are using Pi-Hole, you can add this to your blocklist.*      
 ```
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
