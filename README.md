@@ -36,7 +36,7 @@ For rooted device, this host file can be used with [AdAway](https://f-droid.org/
        
 **Mac OS:** This host file can be used with [gasmask](https://github.com/2ndalpha/gasmask).    
       
-*If you are using PI-Hole, you can add this to your blocklist.      
+*If you are using PI-Hole, you can add this to your blocklist.*      
 ```
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
