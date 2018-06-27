@@ -24,7 +24,7 @@ This repo contains two files, `CoinMiner.txt` (*no longer maintained*) and `adse
        
  ***
        
- #### Usage            
+### Usage            
            
 **Windows:** Windows users can use this host file with [Hostman](http://www.abelhadigital.com/hostsman/), a software to manage host file.       
      
