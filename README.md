@@ -27,11 +27,15 @@ This repo contains two files, `CoinMiner.txt` (*no longer maintained*) and `adse
  #### Usage            
            
 **Windows:** Windows users can use this host file with [Hostman](http://www.abelhadigital.com/hostsman/), a software to manage host file.       
-**Android:** For non-rooted devices, this host can be used with [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), a free and open-source ad-blocker.      
-For rooted device, this host file can be used with [AdAway](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.        
-**Linux:** An open-source host file manager called [hBlock](https://github.com/hectorm/hBlock).     
+     
+**Android:** For non-rooted devices, this host can be used with [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), a free and open-source ad-blocker.     
+     
+For rooted device, this host file can be used with [AdAway](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.    
+     
+**Linux:** An open-source host file manager called [hBlock](https://github.com/hectorm/hBlock).   
+       
 **Mac OS:** This host file can be used with [gasmask](https://github.com/2ndalpha/gasmask).    
-    
+      
 *If you are using PI-Hole, you can add this to your blocklist.      
 ```
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
