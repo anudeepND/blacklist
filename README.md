@@ -5,19 +5,19 @@ You can request additional domains or report exsisting domains via <a href="http
    
 *** 
 
-#### Description
+### Description
       
 This repo contains two files, `CoinMiner.txt` (*no longer maintained*) and `adservers.txt`. To block ads and trackers, add `adservers.txt` to your host file or blocklist.
 
 ***
  
- #### What is a host file?                 
+### What is a host file?                 
        
  A hosts file, named hosts, is a plain-text file used by all operating systems to map hostnames to IP addresses. Host file preferred over DNS so  if a domain name is resolved by the hosts file, the request never leaves your computer.
        
 ***
            
-#### Location of your hosts file               
+### Location of your hosts file               
        
 **Mac OS X, iOS, Android, Linux:** `/etc/hosts file`          
 **Winodws:** `Windows: %SystemRoot%\system32\drivers\etc\hosts file`            
@@ -40,23 +40,24 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
       
 ***    
        
-##### How do I determine an ad domain?
-
-***DNSthingy Assistant***
-
+### How do I determine an ad domain?     
+   
+***DNSthingy Assistant***      
+        
 <a href="https://chrome.google.com/webstore/detail/dnsthingy-assistant/fdmpekabnlekabjlimjkfmdjajnddgpc">This browser extension</a> will list all of the domains that are queried when a web page is loaded. You can often look at the list of domains and cherry pick the ones that appear to be ad-serving domains.
 
 
 ![Alt text](https://discourse.pi-hole.net/uploads/default/optimized/1X/6ce0e13813df930288677c87bf0fd5861c150898_1_690x320.png)
     
  
-***Using inbuilt Developer tool***
+***Using inbuilt Developer tool***         
+         
 For Chrome ctrl+shift+I will land you in Developer tools menu.
 ![Alt text](http://i.imgur.com/44CHRLV.png)
      
 ***
      
-#### Licence      
+### Licence      
 ```
 MIT License
 
