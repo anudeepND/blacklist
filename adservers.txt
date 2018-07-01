@@ -33984,4 +33984,8 @@
 0.0.0.0 vpnny2.contextweb.com
 0.0.0.0 web3.contextweb.com
 0.0.0.0 www3.contextweb.com
-telemetry.malwarebytes.com
+0.0.0.0 telemetry.malwarebytes.com
+0.0.0.0 telegraph.sdk.beemray.com
+0.0.0.0 telegraph.grapeshot.co.uk
+0.0.0.0 targeting.tronc.arcpublishing.com
+0.0.0.0 analytics.eip.telegraph.co.uk 
