@@ -1,5 +1,3 @@
-![logo](https://raw.githubusercontent.com/anudeepND/blacklist/master/images/logo.png)
-      
 ## Host file to block trackers and advertisements
           
 A list of adserving and tracking sites maintained by me. This list will be updated frequently.   
