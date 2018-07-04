@@ -8,7 +8,7 @@ You can request additional domains or report exsisting domains via <a href="http
 ### Description
       
 This repo contains two files, *`CoinMiner.txt`* (*no longer maintained*) and *`adservers.txt`*.          
-To block cyptojacking sites, add *`CoinMiner.txt`* to your host file or blocklist.      
+To block cryptojacking sites, add *`CoinMiner.txt`* to your host file or blocklist.      
 To block ads and trackers, add *`adservers.txt`* to your host file or blocklist.
 
 ***
@@ -22,7 +22,7 @@ To block ads and trackers, add *`adservers.txt`* to your host file or blocklist.
 ### Location of your hosts file               
        
 ***Mac OS X, iOS, Android, Linux:*** `/etc/hosts file`          
-***Winodws:*** `Windows: %SystemRoot%\system32\drivers\etc\hosts file`            
+***Winodws:*** `%SystemRoot%\system32\drivers\etc\hosts file`            
        
  ***
        
