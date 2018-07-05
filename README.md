@@ -63,12 +63,12 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
 For Chrome ctrl+shift+I will land you in Developer tools menu.
 
 <p align="center">
-  <img width="625" height="1000" src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/img2.jpeg">
+  <img src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/img2.jpeg">
 </p>
      
 ***Using an Android app*** 
      
-[Net Guard](https://play.google.com/store/apps/details?id=eu.faircode.netguard) is an android app that can be used to monitor any specific apps, works on unrooted devices too.   
+[Net Guard](https://play.google.com/store/apps/details?id=eu.faircode.netguard) is an Android app that can be used to monitor any specific apps, works on unrooted devices too.   
      
 <p align="center">
   <img width="460" height="380" src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/img3.jpeg">
