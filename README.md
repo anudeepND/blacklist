@@ -54,13 +54,25 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
 <a href="https://chrome.google.com/webstore/detail/dnsthingy-assistant/fdmpekabnlekabjlimjkfmdjajnddgpc">This browser extension</a> will list all of the domains that are queried when a web page is loaded. You can often look at the list of domains and cherry pick the ones that appear to be ad-serving domains.
 
 
-![Alt text](https://discourse.pi-hole.net/uploads/default/optimized/1X/6ce0e13813df930288677c87bf0fd5861c150898_1_690x320.png)
-    
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/img1.jpeg">
+</p>
  
 ***Using inbuilt Developer tool***         
          
 For Chrome ctrl+shift+I will land you in Developer tools menu.
-![Alt text](http://i.imgur.com/44CHRLV.png)
+
+<p align="center">
+  <img width="625" height="1000" src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/img2.jpeg">
+</p>
+     
+***Using an Android app*** 
+     
+[Net Guard](https://play.google.com/store/apps/details?id=eu.faircode.netguard) is an android app that can be used to monitor any specific apps, works on unrooted devices too.   
+     
+<p align="center">
+  <img width="460" height="380" src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/img3.jpeg">
+</p>
      
 ***
      
