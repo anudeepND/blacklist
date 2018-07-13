@@ -3785,8 +3785,6 @@
 0.0.0.0 accorchde.widget.criteo.com
 0.0.0.0 accorde.widget.criteo.com
 0.0.0.0 account.a.mouseflow.com
-0.0.0.0 account-email.crittercism.com
-0.0.0.0 account-email.eu.crittercism.com
 0.0.0.0 account.e.mouseflow.com
 0.0.0.0 account.h.mouseflow.com
 0.0.0.0 account.mouseflow.com
