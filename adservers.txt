@@ -33471,3 +33471,5 @@
 0.0.0.0 targeting.tronc.arcpublishing.com
 0.0.0.0 analytics.eip.telegraph.co.uk
 0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 17428.engine.mobileapptracking.com
+0.0.0.0 2z3.vawdcurticate.review
