@@ -23864,8 +23864,9 @@
 0.0.0.0 tool.cnzz.com
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 tools.ensighten.com
-0.0.0.0 tools.google.comtpc.googlesyndication.comtrk.vidible.tv
-0.0.0.0 tools.google.comtrk.vidible.tv
+0.0.0.0 tools.google.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 trk.vidible.tv
 0.0.0.0 tools.kissmetrics.com
 0.0.0.0 tools.mgid.com
 0.0.0.0 tools.pubmatic.com
@@ -27790,7 +27791,6 @@
 0.0.0.0 int.adgear.com
 0.0.0.0 ios.adgear.com
 0.0.0.0 ios4.adgear.com
-0.0.0.0 jobs.adgear.com
 0.0.0.0 lapresse.adgear.com
 0.0.0.0 api.lapresse.adgear.com
 0.0.0.0 reporting.lapresse.adgear.com
@@ -27845,8 +27845,6 @@
 0.0.0.0 rt.trader.adgear.com
 0.0.0.0 staging.trader.adgear.com
 0.0.0.0 pub.staging.trader.adgear.com
-0.0.0.0 reporting.staging.trader.adgear.com
-0.0.0.0 staging.reporting.staging.trader.adgear.com
 0.0.0.0 vx.adgear.com
 0.0.0.0 api.vx.adgear.com
 0.0.0.0 www.adgrx.com
@@ -30000,9 +29998,7 @@
 0.0.0.0 sap.appnext.com
 0.0.0.0 selfservice.appnext.com
 0.0.0.0 testing.appnext.com
-0.0.0.0 www.testing.appnext.com
-0.0.0.0 wiki.appnext.com
-0.0.0.0 www.wiki.appnext.com
+0.0.0.0 www.testing.appnext.comm
 0.0.0.0 www.appnexus.com
 0.0.0.0 01-vidyo-router.ams1.appnexus.com
 0.0.0.0 01.catchpoint.ams1.appnexus.com
@@ -30147,7 +30143,6 @@
 0.0.0.0 reth0.60.fw.nyc2.appnexus.com
 0.0.0.0 01.imap.nyc2.appnexus.com
 0.0.0.0 01.pbx.nyc2.appnexus.com
-0.0.0.0 01.smtp.nyc2.appnexus.com
 0.0.0.0 01.vidyo-gateway.nyc2.appnexus.com
 0.0.0.0 01.vidyo-gw.nyc2.appnexus.com
 0.0.0.0 01.vidyo-p.nyc2.appnexus.com
@@ -30166,11 +30161,6 @@
 0.0.0.0 bsg-rabbitmq-sand.nym2.appnexus.com
 0.0.0.0 bsg-sfdcgw-prod.nym2.appnexus.com
 0.0.0.0 bsg-sfdcgw-sand.nym2.appnexus.com
-0.0.0.0 01.compas-smtp.nym2.appnexus.com
-0.0.0.0 01.corp-backup-sand.nym2.appnexus.com
-0.0.0.0 01.corp-portal-dmz-prod.nym2.appnexus.com
-0.0.0.0 01.corp-portal-dmz-sand.nym2.appnexus.com
-0.0.0.0 01.corp-slackbot-prod.nym2.appnexus.com
 0.0.0.0 03.corpidp.nym2.appnexus.com
 0.0.0.0 03.corpwiki.nym2.appnexus.com
 0.0.0.0 01.credentials-api.nym2.appnexus.com
