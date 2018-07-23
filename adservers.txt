@@ -33411,3 +33411,14 @@
 0.0.0.0 17428.engine.mobileapptracking.com
 0.0.0.0 2z3.vawdcurticate.review
 0.0.0.0 sstats.adobe.com
+0.0.0.0 analytics.archive.org
+0.0.0.0 analytics-production.hapyak.com
+0.0.0.0 analytics.247sports.com
+0.0.0.0 analytics.bitrix.info
+0.0.0.0 analytics.htmedia.in
+0.0.0.0 analytics.icons8.com
+0.0.0.0 analytics.myfinance.com
+0.0.0.0 analytics.samdd.me
+0.0.0.0 analytics.swiggy.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 ad.wynk.in
