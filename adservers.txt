@@ -23813,7 +23813,6 @@
 0.0.0.0 tool.cnzz.com
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 tools.ensighten.com
-0.0.0.0 tools.google.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 trk.vidible.tv
 0.0.0.0 tools.kissmetrics.com
