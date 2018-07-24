@@ -27299,7 +27299,6 @@
 0.0.0.0 zenimaxmedia.d1.sc.omtrdc.net
 0.0.0.0 zenna.go2affise.com
 0.0.0.0 zenovia-match.dotomi.com
-0.0.0.0 zephir.monocul.us
 0.0.0.0 zephyr-digital-d.openx.net
 0.0.0.0 zer0day.000webhostapp.com
 0.0.0.0 zerohedge.hostedcart.buysellads.com
