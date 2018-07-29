@@ -226,7 +226,6 @@
 0.0.0.0 11872.engine.mobileapptracking.com
 0.0.0.0 118-som-724.mktoresp.com
 0.0.0.0 11916.engine.mobileapptracking.com
-0.0.0.0 119.29.196.104.bc.googleusercontent.com
 0.0.0.0 11b563cb1.webengage.co
 0.0.0.0 11b564088.webengage.co
 0.0.0.0 11b564193.webengage.co
@@ -550,7 +549,6 @@
 0.0.0.0 174982.engine.mobileapptracking.com
 0.0.0.0 175038.tlnk.io
 0.0.0.0 175062.engine.mobileapptracking.com
-0.0.0.0 175.220.196.104.bc.googleusercontent.com
 0.0.0.0 17560.engine.mobileapptracking.com
 0.0.0.0 175786.measurementapi.com
 0.0.0.0 176090.engine.mobileapptracking.com
@@ -13807,7 +13805,6 @@
 0.0.0.0 inplay-rcv12.tubemogul.com
 0.0.0.0 inplay.tubemogul.com
 0.0.0.0 inputs.alooma.com
-0.0.0.0 inputtools.google.com
 0.0.0.0 inquisitr.media.net
 0.0.0.0 inread-experience.teads.tv
 0.0.0.0 ins10.hotjar.com
@@ -24018,9 +24015,6 @@
 0.0.0.0 transcodedmedia.mobivite.net
 0.0.0.0 transcripts.touchcommerce.com
 0.0.0.0 trans.hiido.com
-0.0.0.0 translate.googleapis.comtrk.vidible.tv
-0.0.0.0 translate.google.comtranslate.googleapis.comtrk.vidible.tv
-0.0.0.0 translate.google.comtrk.vidible.tv
 0.0.0.0 trantor.permutive.com
 0.0.0.0 tra.rnznavoweriber.bid
 0.0.0.0 travel24de.widget.criteo.com
