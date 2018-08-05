@@ -33419,3 +33419,6 @@
 0.0.0.0 engine.addroplet.com
 0.0.0.0 dsp.batmobi.net
 0.0.0.0 engine.special-offers.online
+0.0.0.0 appsad-phone-mobile-techie.win
+0.0.0.0 appsadphonemobiletechie.win
+0.0.0.0 appsadphonetopapp.win
