@@ -33422,3 +33422,13 @@
 0.0.0.0 appsad-phone-mobile-techie.win
 0.0.0.0 appsadphonemobiletechie.win
 0.0.0.0 appsadphonetopapp.win
+0.0.0.0 apis.appnxt.net
+0.0.0.0 cdn.appnext.com
+0.0.0.0 cm.steepto.com
+0.0.0.0 combine.urbanairship.com
+0.0.0.0 data.appexnw.com
+0.0.0.0 gjapplog.ucweb.com
+0.0.0.0 ma312-r.analytics.edgekey.net
+0.0.0.0 port.sec.intl.miui.com
+0.0.0.0 sdkm.w.inmobi.com
+0.0.0.0 tracking.sharechat.com
