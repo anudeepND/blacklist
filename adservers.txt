@@ -6624,7 +6624,6 @@
 0.0.0.0 blkrad.rad.atdmt.com
 0.0.0.0 blkrpt.rad.atdmt.com
 0.0.0.0 blmj5.voluumtrk.com
-0.0.0.0 blocklists.settings.services.mozilla.com
 0.0.0.0 bloomu.az1.qualtrics.com
 0.0.0.0 blpb4wu1mxkehlxuwglp8mzch3cxr1509455380.nuid.imrworldwide.com
 0.0.0.0 blueeagle.smaato.net
@@ -11210,7 +11209,6 @@
 0.0.0.0 finnno.d3.sc.omtrdc.net
 0.0.0.0 fiozz.lyfd2xzauti9d8p.bapb.gdn
 0.0.0.0 firecreditunion.ca.102.112.2o7.net
-0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 firewall01.adlooxtracking.com
 0.0.0.0 firewall02.adlooxtracking.com
 0.0.0.0 firewall03.adlooxtracking.com
@@ -21270,7 +21268,6 @@
 0.0.0.0 share.vertamedia.com
 0.0.0.0 share.yandex.ru
 0.0.0.0 shareyourcontents.com
-0.0.0.0 shavar.services.mozilla.com
 0.0.0.0 shawconnect.ca.d1.sc.omtrdc.net
 0.0.0.0 shawconnect.ca.ssl.d1.sc.omtrdc.net
 0.0.0.0 shawtelevision.hb.omtrdc.net
