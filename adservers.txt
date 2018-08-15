@@ -33474,3 +33474,8 @@
 0.0.0.0 vodafone-de.zeotap.com
 0.0.0.0 www.vodafone-de.zeotap.com
 0.0.0.0 vodafone-uk.zeotap.com
+0.0.0.0 0w57c49k-faa6f664a38f20cc1710c4b438cdf5b982e24609-sac.d.aa.online-metrix.net
+0.0.0.0 airtel.d3.sc.omtrdc.net
+0.0.0.0 airtel.demdex.net
+0.0.0.0 js.appboycdn.com
+0.0.0.0 new-user-data-api.fungames-forfree.com
