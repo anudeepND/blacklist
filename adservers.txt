@@ -5294,7 +5294,6 @@
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobileapptracking.com
 0.0.0.0 api.mobile.cnzz.com
-0.0.0.0 api-mobileweb.soundcloud.com
 0.0.0.0 api-mobi.soundcloud.com
 0.0.0.0 api.mobojoy.baidu.com
 0.0.0.0 api.mobpalm.com
@@ -26261,7 +26260,6 @@
 0.0.0.0 www.client.dotomi.com
 0.0.0.0 www.clipartbest.com
 0.0.0.0 www.clksite.com
-0.0.0.0 www.cloudflare.com
 0.0.0.0 www.clubs-movil.com
 0.0.0.0 www.cmi.ironbeast.io
 0.0.0.0 www.cm.ksmobile.com
