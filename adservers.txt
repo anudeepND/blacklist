@@ -25213,7 +25213,6 @@
 0.0.0.0 vice.hb.omtrdc.net
 0.0.0.0 viceuk-d.openx.net
 0.0.0.0 vice.vemba.com
-0.0.0.0 vice-web-statics-cdn.vice.com
 0.0.0.0 vice--web--statics--cdn-vice-com.cdn.ampproject.org
 0.0.0.0 victor-dulin2009.mirtesen.ru
 0.0.0.0 victoriabrides.go2affise.com
