@@ -8417,7 +8417,6 @@
 0.0.0.0 csbsutah.co1.qualtrics.com
 0.0.0.0 c.scorecardresearch.com
 0.0.0.0 cs.gssprt.jp
-0.0.0.0 csi.gstatic.com
 0.0.0.0 c.skimresources.com
 0.0.0.0 csloggerorigin.media.net
 0.0.0.0 cs.media.net
@@ -20797,7 +20796,6 @@
 0.0.0.0 scollect.m-pathy.com
 0.0.0.0 scomcluster.cxense.com
 0.0.0.0 sc.omtrdc.net
-0.0.0.0 scontent.xx.fbcdn.netsecure.ace.advertising.comsecure.uac.advertising.comssw.live.comstatic.adsafeprotected.comt.skimresources.com
 0.0.0.0 scootco.t.domdex.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scoring.vertamedia.com
@@ -25213,7 +25211,6 @@
 0.0.0.0 vice.hb.omtrdc.net
 0.0.0.0 viceuk-d.openx.net
 0.0.0.0 vice.vemba.com
-0.0.0.0 vice--web--statics--cdn-vice-com.cdn.ampproject.org
 0.0.0.0 victor-dulin2009.mirtesen.ru
 0.0.0.0 victoriabrides.go2affise.com
 0.0.0.0 vid11000c.pubmatic.com
