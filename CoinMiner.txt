@@ -340,7 +340,6 @@
 0.0.0.0 global.wemineltc.com
 0.0.0.0 globalboosty.miningpoolhub.com
 0.0.0.0 gmc.suprnova.cc
-0.0.0.0 goodolddownloads.com
 0.0.0.0 google.gus.host
 0.0.0.0 grafana.minemonero.pro
 0.0.0.0 granite.miningpoolhub.com
