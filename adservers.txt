@@ -33531,3 +33531,10 @@
 0.0.0.0 d.affx2go.com
 0.0.0.0 www.affx2go.com
 0.0.0.0 smetrics.gettyimages.com
+0.0.0.0 ads5-noneu.truecaller.com
+0.0.0.0 clean.adups.com
+0.0.0.0 fota5.adups.com
+0.0.0.0 invictioner.club
+0.0.0.0 stats.kde.org
+0.0.0.0 tx8t.invictioner.club
+0.0.0.0 valyoo.sc.omtrdc.net
