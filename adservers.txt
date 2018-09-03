@@ -33542,3 +33542,7 @@
 0.0.0.0 6773942.fls.doubleclick.net
 0.0.0.0 8181038.fls.doubleclick.net
 0.0.0.0 8468614.fls.doubleclick.net
+0.0.0.0 189558.engine.mobileapptracking.com
+0.0.0.0 b1sync.zemanta.com
+0.0.0.0 metricfast.com
+0.0.0.0 pixel-sync.sitescout.com
