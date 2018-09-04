@@ -33546,3 +33546,12 @@
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 metricfast.com
 0.0.0.0 pixel-sync.sitescout.com
+0.0.0.0 ads-9gag-lol.9gaging.com
+0.0.0.0 ads.ebay.com
+0.0.0.0 ads.samba.tv
+0.0.0.0 ads.superawesome.tv
+0.0.0.0 ads.yieldmo.com
+0.0.0.0 ads5-asia-south1.truecaller.com
+0.0.0.0 adserverapi.onedigitalad.com
+0.0.0.0 adservice.google.ie
+0.0.0.0 adsheads.go2affise.com
