@@ -33555,3 +33555,16 @@
 0.0.0.0 adserverapi.onedigitalad.com
 0.0.0.0 adservice.google.ie
 0.0.0.0 adsheads.go2affise.com
+0.0.0.0 amountinue.info
+0.0.0.0 authorne.info
+0.0.0.0 c.parkingcrew.net
+0.0.0.0 e2ertt.com
+0.0.0.0 ministedik.info
+0.0.0.0 perf.cdnads.com
+0.0.0.0 pptchecker.club
+0.0.0.0 push5.adups.com
+0.0.0.0 spendentaly.info
+0.0.0.0 www.jzgtnetghdc.com
+0.0.0.0 www.olgjzpgp.com
+0.0.0.0 zukxd6fkxqn.com
+0.0.0.0 www.zukxd6fkxqn.com
