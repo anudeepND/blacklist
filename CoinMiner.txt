@@ -490,7 +490,6 @@
 0.0.0.0 ny1.minez.zone
 0.0.0.0 oc.suprnova.cc
 0.0.0.0 old.bitcoin.cz
-0.0.0.0 oload.info
 0.0.0.0 p2p-multipool.greengaming.de
 0.0.0.0 p2pool.in
 0.0.0.0 p2pool.info
