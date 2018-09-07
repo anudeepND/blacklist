@@ -9571,8 +9571,6 @@
 0.0.0.0 down3.ucweb.com
 0.0.0.0 download.appsflyer.com
 0.0.0.0 download.clck009-glaze.online
-0.0.0.0 download.cnet.com
-0.0.0.0 download.com
 0.0.0.0 download-cool-j-apps.com
 0.0.0.0 download-cool-y-apps.com
 0.0.0.0 download.cy-security.com
@@ -9737,7 +9735,6 @@
 0.0.0.0 d-watercraft.t.domdex.com
 0.0.0.0 dwlgy3cbzwx0epffr5ahotaey2xi81509193991.nuid.imrworldwide.com
 0.0.0.0 dwqzz.lyfd2xzauti9d8p.bapb.gdn
-0.0.0.0 dw.uptodown.com
 0.0.0.0 dxgui.crwdcntrl.net
 0.0.0.0 dxikjxrd2vncaiiljgp2hyuasv0g91516627765.nuid.imrworldwide.com
 0.0.0.0 dxp.baidu.com
@@ -26316,18 +26313,12 @@
 0.0.0.0 www.demo.touchcommerce.com
 0.0.0.0 www.deshmedia.com
 0.0.0.0 www.de.unbounce.com
-0.0.0.0 www.developer.fyber.com
-0.0.0.0 www.developer.pubmatic.com
-0.0.0.0 www-dev.ensighten.com
-0.0.0.0 www.dev.polarmobile.com
-0.0.0.0 www.dev.rubiconproject.com
 0.0.0.0 wwwdev.triskel.criteo.com
 0.0.0.0 www.dl.inmobi.com
 0.0.0.0 www.dmk.unbounce.com
 0.0.0.0 www.domdex.com
 0.0.0.0 www.domobile.com
 0.0.0.0 www.dotomi.com
-0.0.0.0 www.download.com
 0.0.0.0 www.dqusbshqrtv.bid
 0.0.0.0 www.dradvice.in
 0.0.0.0 www.d.switchadhub.com
