@@ -33920,3 +33920,6 @@
 0.0.0.0 spendentaly.info
 0.0.0.0 amountinue.info
 0.0.0.0 pptchecker.club
+0.0.0.0 analytics.kaltura.com
+0.0.0.0 applogmaster.test.uae.uc.cn
+0.0.0.0 bestfwdservice.com
