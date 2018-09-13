@@ -33929,3 +33929,9 @@
 0.0.0.0 admanager.uptodown.com
 0.0.0.0 crashstats-collector.opera.com
 0.0.0.0 tracking.india.miui.com
+0.0.0.0 data.api.kaffnet.com
+0.0.0.0 dot-a.op-mobile.opera.com
+0.0.0.0 eplocjhuxsoj.com
+0.0.0.0 img01.coofinder.com
+0.0.0.0 metadata.startappservice.com
+0.0.0.0 monditomasks.co
