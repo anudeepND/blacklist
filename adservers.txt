@@ -11108,7 +11108,6 @@
 0.0.0.0 feedburner.google.com
 0.0.0.0 feedcache.vizury.com
 0.0.0.0 feeder1.tynt.com
-0.0.0.0 feeds.feedburner.com
 0.0.0.0 feeds.sandbox.auditude.com
 0.0.0.0 feed.taboola.com
 0.0.0.0 fef4-d444-80a6-3e75.reporo.net
