@@ -33938,3 +33938,8 @@
 0.0.0.0 analytics-stage.ff.avast.com
 0.0.0.0 antinuef.info
 0.0.0.0 api.recotap.com
+0.0.0.0 ace2three-com.dcmn.com
+0.0.0.0 d8b981ea2ecd.bitsngo.net
+0.0.0.0 data.api.kaffnet.com
+0.0.0.0 docsconvert.club
+0.0.0.0 evt.izooto.com
