@@ -2,7 +2,7 @@
 #
 # Project home page: https://github.com/anudeepND/blacklist
 # Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
-#
+# Title: Anudeep's Blacklist
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
 # ===============================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
