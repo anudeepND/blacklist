@@ -1,10 +1,10 @@
-# Host file to block ads, tracking and more!
+# Host file to block ads, tracking and more! Updated daily
 #
 # Project home page: https://github.com/anudeepND/blacklist
 # Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
 # Title: Anudeep's Blacklist
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# ===============================================================
+# ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
 0.0.0.0 004-btr-463.mktoresp.com
@@ -11611,7 +11611,6 @@
 0.0.0.0 galaktika.mirtesen.ru
 0.0.0.0 galaxyperfumeuk.widget.criteo.com
 0.0.0.0 galaxy.sokrati.com
-0.0.0.0 g.alicdn.com
 0.0.0.0 galinulla.mirtesen.ru
 0.0.0.0 galleryapi.micloud.xiaomi.net
 0.0.0.0 gallery.smartadserver.com
