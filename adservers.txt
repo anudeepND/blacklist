@@ -11594,7 +11594,6 @@
 0.0.0.0 gaana.helpshift.com
 0.0.0.0 gadget.mirtesen.ru
 0.0.0.0 gadgetreview.t.domdex.com
-0.0.0.0 gadgets360.com
 0.0.0.0 gads11000c.pubmatic.com
 0.0.0.0 gads11000.pubmatic.com
 0.0.0.0 gads22000c.pubmatic.com
@@ -16204,7 +16203,6 @@
 0.0.0.0 msg.kingoapp.com
 0.0.0.0 msg.umengcloud.com
 0.0.0.0 msg.umeng.com
-0.0.0.0 m.shop.gadgetsnow.com
 0.0.0.0 msjzz.7jtalqshjo.firc.gdn
 0.0.0.0 m.skimresources.com
 0.0.0.0 msloc.qualtrics.com
@@ -21292,7 +21290,6 @@
 0.0.0.0 shopathome-uncategorized1.t.domdex.com
 0.0.0.0 shopbop.sp1.convertro.com
 0.0.0.0 shopbrand.t.domdex.com
-0.0.0.0 shop.gadgetsnow.com
 0.0.0.0 shopify.privy.com
 0.0.0.0 shopify.retargetapp.com
 0.0.0.0 shopify.smartlook.com
@@ -26606,7 +26603,6 @@
 0.0.0.0 www.sheshine.com
 0.0.0.0 www.shipit.unbounce.com
 0.0.0.0 www.shoelace.com
-0.0.0.0 www.shop.gadgetsnow.com
 0.0.0.0 www.shutter.unbounce.com
 0.0.0.0 www.signin.unbounce.com
 0.0.0.0 www.signup.taboola.com
