@@ -33864,3 +33864,12 @@
 0.0.0.0 data.api.kaffnet.com
 0.0.0.0 docsconvert.club
 0.0.0.0 evt.izooto.com
+0.0.0.0 track.special-offers.online
+0.0.0.0 tracking.prmtracking.com
+0.0.0.0 tvguru-lp.olympuswaymarketing.com
+0.0.0.0 usa.india-abc.com
+0.0.0.0 usa.teutorigos-phi.com
+0.0.0.0 wildbearads.go2affise.com
+0.0.0.0 www.adsclk.com
+0.0.0.0 xakdtbarkiest.review
+0.0.0.0 xml.revrtb.com
