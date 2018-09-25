@@ -8130,7 +8130,6 @@
 0.0.0.0 config-ltvp.inmobi.com
 0.0.0.0 config-ltvp.vip.uh1.inmobi.com
 0.0.0.0 config.parsely.com
-0.0.0.0 config.rcs.mnc861.mcc405.pub.3gppnetwork.org
 0.0.0.0 config.samqaicongen.com
 0.0.0.0 config.shazamid.com
 0.0.0.0 config-stg.ironbeast.io
@@ -10130,7 +10129,6 @@
 0.0.0.0 eos.co1.qualtrics.com
 0.0.0.0 ep3.performfeeds.com
 0.0.0.0 ep-apsoutheast.ifc.inmobi.com
-0.0.0.0 epdg.epc.mnc001.mcc001.pub.3gppnetwork.org
 0.0.0.0 ep-euwest.ifc.inmobi.com
 0.0.0.0 ephotozine-uk.intellitxt.com
 0.0.0.0 ep.ifc.inmobi.com
@@ -10307,7 +10305,6 @@
 0.0.0.0 evar7.d1.sc.omtrdc.net
 0.0.0.0 evdyhealth.co1.qualtrics.com
 0.0.0.0 evening-badlands-6215.herokuapp.com
-0.0.0.0 event.aes.mnc861.mcc405.pub.3gppnetwork.org
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 eventdbservice-ah.vertamedia.com
