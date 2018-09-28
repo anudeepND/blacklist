@@ -33917,3 +33917,12 @@
 0.0.0.0 speechwordstominutes.blogspot.com
 0.0.0.0 templateanditwillalwaysservethe.blogspot.com
 0.0.0.0 themeswritingpadandcustomise.blogspot.com
+0.0.0.0 advertisingcentral.yahoosearchmarketingin.com
+0.0.0.0 api.bignox.com
+0.0.0.0 bi.yeshen.com
+0.0.0.0 brilliant.applinzi.com
+0.0.0.0 dashboard.insticator.com
+0.0.0.0 device-api.urbanairship.com
+0.0.0.0 launcher-us.yeshen.com
+0.0.0.0 msdk-files.webengage.com
+0.0.0.0 res09.bignox.com
