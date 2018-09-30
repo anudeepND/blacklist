@@ -33926,3 +33926,8 @@
 0.0.0.0 launcher-us.yeshen.com
 0.0.0.0 msdk-files.webengage.com
 0.0.0.0 res09.bignox.com
+0.0.0.0 uod2quk646.com
+0.0.0.0 www.singular.net
+0.0.0.0 www.walftgaqiemcx.com
+0.0.0.0 www.wunccmpzjqvxe.com
+0.0.0.0 z-na.amazon-adsystems.com
