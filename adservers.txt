@@ -33938,3 +33938,13 @@
 0.0.0.0 ywadslkhaya.review
 0.0.0.0 zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com
 0.0.0.0 batchlogging4-noneu.truecaller.com
+0.0.0.0 newsupdatecard.info
+0.0.0.0 www.newsupdatecard.info
+0.0.0.0 click-now-on.me
+0.0.0.0 www.click-now-on.me
+0.0.0.0 notification-time.com
+0.0.0.0 www.notification-time.com
+0.0.0.0 livestream123.info
+0.0.0.0 www.livestream123.info
+0.0.0.0 premium-offers.space
+0.0.0.0 www.premium-offers.space
