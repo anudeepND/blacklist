@@ -7568,7 +7568,6 @@
 0.0.0.0 cdn.vp.videoplaza.tv
 0.0.0.0 cdn.vuukle.com
 0.0.0.0 cdn.wbtrk.net
-0.0.0.0 cdn.webclicks24.com
 0.0.0.0 cdn.widgets.webengage.com
 0.0.0.0 cdnx-mock.tribalfusion.com
 0.0.0.0 cdnx.tribalfusion.com
@@ -22745,7 +22744,6 @@
 0.0.0.0 staticvc.adsafeprotected.com
 0.0.0.0 static.vertamedia.com
 0.0.0.0 staticw2.yotpo.com
-0.0.0.0 static.webclicks24.com
 0.0.0.0 static-website.teads.tv
 0.0.0.0 static.yuhuads.com
 0.0.0.0 statistics.005.free-counters.co.uk
