@@ -33982,3 +33982,12 @@
 0.0.0.0 sync.graph.bluecava.com
 0.0.0.0 tool.justshopping.xyz
 0.0.0.0 zn_0pxrmhobblncaad-hpsupport.siteintercept.qualtrics.com
+0.0.0.0 collector1.xhamster.com
+0.0.0.0 comnewsupdate.info
+0.0.0.0 constintptr.com
+0.0.0.0 data.api.cnn.io
+0.0.0.0 dgafgadsgkjg.top
+0.0.0.0 exercially.mobi
+0.0.0.0 fedifice-prionald.com
+0.0.0.0 lander.bestsmartlink.xyz
+0.0.0.0 lanxiang.bestaffwajueji.com
