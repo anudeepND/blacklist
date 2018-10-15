@@ -33991,3 +33991,12 @@
 0.0.0.0 fedifice-prionald.com
 0.0.0.0 lander.bestsmartlink.xyz
 0.0.0.0 lanxiang.bestaffwajueji.com
+0.0.0.0 23o27znc-ca5f4b66e2581417983eaf939936461a5ef28a2a-sac.d.aa.online-metrix.net
+0.0.0.0 4399750608.log.optimizely.com
+0.0.0.0 ads-servebom-com.cdn.ampproject.org
+0.0.0.0 analytics.cohesionapps.com
+0.0.0.0 api.monetizer101.com
+0.0.0.0 api.optmnstr.com
+0.0.0.0 assets.adstage.io
+0.0.0.0 bluecava.com
+0.0.0.0 c.singular.net
