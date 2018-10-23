@@ -33997,3 +33997,8 @@
 0.0.0.0 assets.adstage.io
 0.0.0.0 bluecava.com
 0.0.0.0 c.singular.net
+0.0.0.0 a.yallboen.com
+0.0.0.0 acs.maribacaberita.com
+0.0.0.0 adcs.rqmob.com
+0.0.0.0 afclickoffers.com
+0.0.0.0 ag2hqdyt.site
