@@ -34002,3 +34002,5 @@
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 afclickoffers.com
 0.0.0.0 ag2hqdyt.site
+0.0.0.0 fp-analytics.hotstar.com
+0.0.0.0 hb-analytics.hotstar.com
