@@ -34004,3 +34004,10 @@
 0.0.0.0 ag2hqdyt.site
 0.0.0.0 fp-analytics.hotstar.com
 0.0.0.0 hb-analytics.hotstar.com
+0.0.0.0 api.lbesecapi.com
+0.0.0.0 api.wshareit.com
+0.0.0.0 api2.wshareit.com
+0.0.0.0 c.aaxads.com
+0.0.0.0 cdn.ushareit.com
+0.0.0.0 cdn.wshareit.com
+0.0.0.0 cdn2.wshareit.com
