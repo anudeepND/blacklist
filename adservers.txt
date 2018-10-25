@@ -34011,3 +34011,4 @@
 0.0.0.0 cdn.ushareit.com
 0.0.0.0 cdn.wshareit.com
 0.0.0.0 cdn2.wshareit.com
+0.0.0.0 st.wshareit.com
