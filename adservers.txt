@@ -34012,3 +34012,6 @@
 0.0.0.0 cdn.wshareit.com
 0.0.0.0 cdn2.wshareit.com
 0.0.0.0 st.wshareit.com
+0.0.0.0 adre.hasmobi.net
+0.0.0.0 adve.hasmobi.net
+0.0.0.0 adx.hasmobi.net
