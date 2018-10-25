@@ -34015,3 +34015,11 @@
 0.0.0.0 adre.hasmobi.net
 0.0.0.0 adve.hasmobi.net
 0.0.0.0 adx.hasmobi.net
+0.0.0.0 www.siliconanalytics.com
+0.0.0.0 siliconanalytics.com
+0.0.0.0 www.vidcpm.com
+0.0.0.0 vidcpm.com
+0.0.0.0 x.ss2.us
+0.0.0.0 xhr.yallboen.com
+0.0.0.0 xml.popmonetizer.com
+0.0.0.0 xrgrymutlq.com
