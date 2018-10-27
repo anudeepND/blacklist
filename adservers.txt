@@ -34023,3 +34023,11 @@
 0.0.0.0 xhr.yallboen.com
 0.0.0.0 xml.popmonetizer.com
 0.0.0.0 xrgrymutlq.com
+0.0.0.0 adimpression.startappservice.com
+0.0.0.0 amp-analytics.newshub.co.nz
+0.0.0.0 api.launcher.intl.miui.com
+0.0.0.0 appnext-a.akamaihd.net
+0.0.0.0 cdn.bss.wshareit.com
+0.0.0.0 cdn.ushareit.com
+0.0.0.0 cpitraffic.com
+0.0.0.0 crossmetrix.com
