@@ -10,8 +10,8 @@ You can request additional domains or report exsisting domains via <a href="http
       
 This repo contains two files, *`CoinMiner.txt`* (*no longer maintained*) and *`adservers.txt`*.          
 To block cryptojacking sites, add *`CoinMiner.txt`* to your host file or blocklist.      
-To block ads and trackers, add *`adservers.txt`* to your host file or blocklist.
-
+To block ads and trackers, add *`adservers.txt`* to your host file or blocklist.           
+To block all domains related to facebook.com, add *`facebook.txt`* to your host file or blocklist.
 ***
  
 ### What is a host file?                 
@@ -22,8 +22,9 @@ To block ads and trackers, add *`adservers.txt`* to your host file or blocklist.
            
 ### Location of your hosts file               
        
-***Mac OS X, iOS, Android, Linux:*** `/etc/hosts file`          
-***Winodws:*** `%SystemRoot%\system32\drivers\etc\hosts file`            
+***Mac OS X, Android, Linux:*** `/etc/hosts file`          
+***Winodws 7, 8.0, 8.1, 10:*** `C:\WINDOWS\system32\drivers\etc\hosts`         
+***Windows 2000:*** `C:\WINNT\system32\drivers\etc\hosts`
        
  ***
        
@@ -43,6 +44,7 @@ For rooted device, this host file can be used with [AdAway](https://f-droid.org/
 ```
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
+https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 ```
       
 ***    
