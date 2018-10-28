@@ -1,12 +1,11 @@
-# Host file to block crypto currency mining sites.
+# Host file to block ads, tracking and more! Updated daily
 #
 # Project home page: https://github.com/anudeepND/blacklist
 # Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
-#
+# Title: Anudeep's Blacklist
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-#
+# Domain count: 5,940
 # ===============================================================
-# 
 0.0.0.0 www.coinlab.biz
 0.0.0.0 coinlab.biz
 0.0.0.0 ajmyrtdiwvg.bid
