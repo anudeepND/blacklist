@@ -34031,3 +34031,4 @@
 0.0.0.0 cdn.ushareit.com
 0.0.0.0 cpitraffic.com
 0.0.0.0 crossmetrix.com
+0.0.0.0 d1cqwfp1e6p386.cloudfront.net
