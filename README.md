@@ -44,6 +44,7 @@ For rooted device, this host file can be used with [AdAway](https://f-droid.org/
 ```
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
+https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 ```
       
 ***    
