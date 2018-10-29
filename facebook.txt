@@ -2847,18 +2847,8 @@
 0.0.0.0 vupload2-shv-08-atn1.facebook.com
 0.0.0.0 vupload2-shv-08-prn2.facebook.com
 0.0.0.0 vupload2.facebook.com
-0.0.0.0 w1.web.whatsapp.com
-0.0.0.0 w2.web.whatsapp.com
-0.0.0.0 w3.web.whatsapp.com
-0.0.0.0 w4.web.whatsapp.com
-0.0.0.0 w5.web.whatsapp.com
-0.0.0.0 w6.web.whatsapp.com
-0.0.0.0 w7.web.whatsapp.com
-0.0.0.0 w8.web.whatsapp.com
-0.0.0.0 w9.web.whatsapp.com
 0.0.0.0 wapinger-bgp-01-sea1.facebook.com
 0.0.0.0 web.facebook.com
-0.0.0.0 web.whatsapp.com
 0.0.0.0 webdav.facebook.com
 0.0.0.0 whatsapp-cdn-shv-01-amt2.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-arn2.fbcdn.net
@@ -2901,7 +2891,6 @@
 0.0.0.0 whatsapp-chatd-edge-shv-01-mxp1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-sea1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-syd2.facebook.com
-0.0.0.0 whatsapp.com
 0.0.0.0 white.ish.instagram.com
 0.0.0.0 wit-edge-shv-01-mad1.facebook.com
 0.0.0.0 wit-edge-shv-01-sea1.facebook.com
@@ -2989,7 +2978,6 @@
 0.0.0.0 www.static.ak.connect.facebook.com
 0.0.0.0 www.static.ak.fbcdn.net
 0.0.0.0 www.symsrv.vip.facebook.com
-0.0.0.0 www.whatsapp.com
 0.0.0.0 www.z-1-lookaside.fbsbx.com
 0.0.0.0 www.z-p3-cdn.fbsbx.com
 0.0.0.0 wwww.facebook.com
