@@ -4,7 +4,7 @@
 # Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
 # Title: Anudeep's Facebook Blacklist
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 3143
+# Domain count: 3120
 # ===================================================================
 0.0.0.0 0-channel-proxy-07-ash2.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
@@ -297,7 +297,6 @@
 0.0.0.0 api.facebook.com
 0.0.0.0 api.fbcdn.com
 0.0.0.0 api.fbsbx.com
-0.0.0.0 api.instagram.com
 0.0.0.0 api2.facebook.com
 0.0.0.0 app.facebook.com
 0.0.0.0 apps-100328070574011.apps.fbsbx.com
@@ -730,7 +729,6 @@
 0.0.0.0 bidder-shv-05-frc3.facebook.com
 0.0.0.0 bidder-shv-10-frc1.facebook.com
 0.0.0.0 bigzipfiles.facebook.com
-0.0.0.0 black.ish.instagram.com
 0.0.0.0 blog.facebook.com
 0.0.0.0 bs-ba.facebook.com
 0.0.0.0 bt.intern.fbsbx.com
@@ -1728,7 +1726,6 @@
 0.0.0.0 huawei.facebook.com
 0.0.0.0 hyper-boundary-gate.vip.facebook.com
 0.0.0.0 hyper-boundary-gate.vvv.facebook.com
-0.0.0.0 i.instagram.com
 0.0.0.0 id-id.facebook.com
 0.0.0.0 ig-telegraph-shv-06-ash2.facebook.com
 0.0.0.0 ig-telegraph-shv-08-atn2.facebook.com
@@ -1986,8 +1983,6 @@
 0.0.0.0 instagram.fvga1-1.fna.fbcdn.net
 0.0.0.0 instagram.fwaw3-1.fna.fbcdn.net
 0.0.0.0 instagram.fyka1-1.fna.fbcdn.net
-0.0.0.0 instagramstatic-a.akamaihd.net
-0.0.0.0 instagramstatic-a.akamaihd.net.edgesuite.net
 0.0.0.0 integrated-plugin-canvas-134907593370788-1072560396.fbsbx.com
 0.0.0.0 integrated-plugin-canvas-134907593370788-1073134365.fbsbx.com
 0.0.0.0 integrated-plugin-canvas-134907593370788-1256398962.fbsbx.com
@@ -2273,7 +2268,6 @@
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pl-pl.facebook.com
 0.0.0.0 platform-lookaside.fbsbx.com
-0.0.0.0 platform.instagram.com
 0.0.0.0 playpen-shv-12-prn2.facebook.com
 0.0.0.0 playpen0.facebook.com
 0.0.0.0 playpen1.facebook.com
@@ -2417,7 +2411,6 @@
 0.0.0.0 scontent-gru2-2.xx.fbcdn.net
 0.0.0.0 scontent-hkg3-1.xx.fbcdn.net
 0.0.0.0 scontent-hkg3-2.xx.fbcdn.net
-0.0.0.0 scontent-iad3-1.cdninstagram.com
 0.0.0.0 scontent-iad3-1.xx.fbcdn.net
 0.0.0.0 scontent-icn1-1.xx.fbcdn.net
 0.0.0.0 scontent-lax.xx.fbcdn.net
@@ -2451,7 +2444,6 @@
 0.0.0.0 scontent-vie1-1.xx.fbcdn.net
 0.0.0.0 scontent-waw1-1.xx.fbcdn.net
 0.0.0.0 scontent-yyz1-1.xx.fbcdn.net
-0.0.0.0 scontent.cdninstagram.com
 0.0.0.0 scontent.facc1-1.fna.fbcdn.net
 0.0.0.0 scontent.fada1-1.fna.fbcdn.net
 0.0.0.0 scontent.fada1-10.fna.fbcdn.net
@@ -2746,7 +2738,6 @@
 0.0.0.0 symsrv.vip.facebook.com
 0.0.0.0 t.update.fbsbx.com
 0.0.0.0 tele2.facebook.com
-0.0.0.0 telegraph-ash.instagram.com
 0.0.0.0 tf1.facebook.com
 0.0.0.0 th-3.fbsbx.com
 0.0.0.0 th-th.facebook.com
@@ -2891,7 +2882,6 @@
 0.0.0.0 whatsapp-chatd-edge-shv-01-mxp1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-sea1.facebook.com
 0.0.0.0 whatsapp-chatd-edge-shv-01-syd2.facebook.com
-0.0.0.0 white.ish.instagram.com
 0.0.0.0 wit-edge-shv-01-mad1.facebook.com
 0.0.0.0 wit-edge-shv-01-sea1.facebook.com
 0.0.0.0 work-11642582.facebook.com
@@ -2965,7 +2955,6 @@
 0.0.0.0 www.fedora.mirror.facebook.net
 0.0.0.0 www.graph.facebook.com
 0.0.0.0 www.ia-tracker.fbsbx.com
-0.0.0.0 www.instagram.com
 0.0.0.0 www.login.facebook.com
 0.0.0.0 www.lookaside.fbsbx.com
 0.0.0.0 www.mirror.facebook.net
