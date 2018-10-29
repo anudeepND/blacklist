@@ -4,7 +4,7 @@
 # Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
 # Title: Anudeep's Blacklist
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 34,034
+# Domain count: 34,038
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -34033,3 +34033,7 @@
 0.0.0.0 cpitraffic.com
 0.0.0.0 crossmetrix.com
 0.0.0.0 d1cqwfp1e6p386.cloudfront.net
+0.0.0.0 www.afclickoffers.com
+0.0.0.0 www.afco2go.com
+0.0.0.0 www.audiencemanager.de
+0.0.0.0 www.pricee.com
