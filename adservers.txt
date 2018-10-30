@@ -25668,7 +25668,6 @@
 0.0.0.0 windowsarea.de.intellitxt.com
 0.0.0.0 windowsbbs-us.intellitxt.com
 0.0.0.0 windowsforum.de.intellitxt.com
-0.0.0.0 windscribe.com
 0.0.0.0 winecoolerdirect.com.102.112.2o7.net
 0.0.0.0 winfuture.de.intellitxt.com
 0.0.0.0 winfuture-forum.de.intellitxt.com
