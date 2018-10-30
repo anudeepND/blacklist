@@ -22,7 +22,7 @@ To block all domains related to facebook.com, add *`facebook.txt`* to your host 
            
 ### Location of your hosts file               
        
-***Mac OS X, Android, Linux:*** `/etc/hosts file`          
+***Mac OS X, Android, Linux:*** `/etc/hosts`          
 ***Winodws 7, 8.0, 8.1, 10:*** `C:\WINDOWS\system32\drivers\etc\hosts`         
 ***Windows 2000:*** `C:\WINNT\system32\drivers\etc\hosts`
        
