@@ -4,7 +4,7 @@
 # Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
 # Title: Anudeep's Blacklist
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 34,038
+# Domain count: 34,046
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -34037,3 +34037,11 @@
 0.0.0.0 www.afco2go.com
 0.0.0.0 www.audiencemanager.de
 0.0.0.0 www.pricee.com
+0.0.0.0 go.ero-advertising.com
+0.0.0.0 organicalews.info
+0.0.0.0 usertag.online
+0.0.0.0 video.landmange.com
+0.0.0.0 api.applink.site
+0.0.0.0 execution.conversation-memory.com
+0.0.0.0 in101.zog.link
+0.0.0.0 in100.zog.link
