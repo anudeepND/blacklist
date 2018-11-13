@@ -4,7 +4,7 @@
 # Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
 # Title: Anudeep's Blacklist
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 34,086
+# Domain count: 34,093
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -34092,3 +34092,10 @@
 0.0.0.0 stat.dsp.batmobi.net
 0.0.0.0 stra.hasmobi.net
 0.0.0.0 uipglob.semasio.net
+0.0.0.0 track.hockeycurve.com
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 chuknu.sokrati.com
+0.0.0.0 tag.hockeycurve.com
+0.0.0.0 tracking.sokrati.com
+0.0.0.0 hb.voot.com
+0.0.0.0 ma312-r.analytics.edgekey.net
