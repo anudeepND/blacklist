@@ -4,7 +4,7 @@
 # Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
 # Title: Anudeep's Blacklist
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 34,093
+# Domain count: 34,084
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -3583,15 +3583,6 @@
 0.0.0.0 9xdvje2hryzds9qkomvzoftdppirf1513879602.nuid.imrworldwide.com
 0.0.0.0 9ye1n.voluumtrk.com
 0.0.0.0 9z6k8pt7g6.kameleoon.eu
-0.0.0.0 a-0001.a-msedge.net
-0.0.0.0 a-0002.a-msedge.net
-0.0.0.0 a-0003.a-msedge.net
-0.0.0.0 a-0004.a-msedge.net
-0.0.0.0 a-0005.a-msedge.net
-0.0.0.0 a-0006.a-msedge.net
-0.0.0.0 a-0007.a-msedge.net
-0.0.0.0 a-0008.a-msedge.net
-0.0.0.0 a-0009.a-msedge.net
 0.0.0.0 a048.statcounter.com
 0.0.0.0 a0652e18-90fe-448b-aa80-29813bcfb2a0.nuid.imrworldwide.com
 0.0.0.0 a0.smi2.ru
