@@ -770,7 +770,6 @@
 0.0.0.0 connect.beta.facebook.net
 0.0.0.0 connect.facebook.com
 0.0.0.0 connect.facebook.net
-0.0.0.0 connect.facebook.net.edgekey.net
 0.0.0.0 connnect.facebook.net
 0.0.0.0 coralsprings.facebook.com
 0.0.0.0 cpan.mirror.facebook.net
@@ -780,7 +779,6 @@
 0.0.0.0 csn.fbsbx.com
 0.0.0.0 cstools.facebook.com
 0.0.0.0 Ct-m-fbx.fbsbx.com
-0.0.0.0 ct-m-fbx.fbsbx.com
 0.0.0.0 ctscan.facebook.com
 0.0.0.0 cube-attachment.fbsbx.com
 0.0.0.0 cyber.facebook.com
@@ -2343,7 +2341,6 @@
 0.0.0.0 ru-ru.facebook.com
 0.0.0.0 rupload.facebook.com
 0.0.0.0 s-static.ak.facebook.com
-0.0.0.0 s-static.ak.facebook.com.edgekey.net
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
 0.0.0.0 scgraph.facebook.com
@@ -2725,7 +2722,6 @@
 0.0.0.0 static-0.facebook.com
 0.0.0.0 static.ak.connect.facebook.com
 0.0.0.0 static.ak.facebook.com
-0.0.0.0 static.ak.facebook.com.edgesuite.net
 0.0.0.0 static.ak.fbcdn.net
 0.0.0.0 static.fbcdn.com
 0.0.0.0 static.fdel11-1.fna.fbcdn.net
