@@ -1842,7 +1842,6 @@
 0.0.0.0 instagram-shv-17-prn1.fbcdn.net
 0.0.0.0 instagram-shv-18-prn1.fbcdn.net
 0.0.0.0 instagram.c10r.facebook.com
-0.0.0.0 instagram.com
 0.0.0.0 instagram.facc1-1.fna.fbcdn.net
 0.0.0.0 instagram.fada1-1.fna.fbcdn.net
 0.0.0.0 instagram.fada1-10.fna.fbcdn.net
