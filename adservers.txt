@@ -33954,3 +33954,7 @@
 0.0.0.0 ec83cce4c209447a2af3d62f2.litix.io
 0.0.0.0 asia.bm.traakr.com
 0.0.0.0 js.assets.botman.ninja
+0.0.0.0 news-speaker.com
+0.0.0.0 www.news-speaker.com
+0.0.0.0 s9kkremkr0.com
+0.0.0.0 www.s9kkremkr0.com
