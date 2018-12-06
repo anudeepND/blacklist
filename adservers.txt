@@ -14280,7 +14280,6 @@
 0.0.0.0 js.agkn.com
 0.0.0.0 jsak.mmtcdn.com
 0.0.0.0 js-api-docs.mouseflow.com
-0.0.0.0 js.braintreegateway.com
 0.0.0.0 jsc1.mgid.com
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc-cdn.mgid.com
