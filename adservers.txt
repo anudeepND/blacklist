@@ -33957,3 +33957,9 @@
 0.0.0.0 www.news-speaker.com
 0.0.0.0 s9kkremkr0.com
 0.0.0.0 www.s9kkremkr0.com
+0.0.0.0 pushmobilenews.com
+0.0.0.0 www.pushmobilenews.com
+0.0.0.0 cobalten.com
+0.0.0.0 www.cobalten.com
+0.0.0.0 mine-soft-software-store.pw
+
