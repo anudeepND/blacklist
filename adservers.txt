@@ -33961,4 +33961,5 @@
 0.0.0.0 cobalten.com
 0.0.0.0 www.cobalten.com
 0.0.0.0 mine-soft-software-store.pw
-
+0.0.0.0 cornwallsdraft.club
+0.0.0.0 www.cornwallsdraft.club
