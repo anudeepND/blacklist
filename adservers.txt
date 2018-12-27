@@ -8431,7 +8431,6 @@
 0.0.0.0 ct6a.addthis.com
 0.0.0.0 ct6b.addthis.com
 0.0.0.0 ct6z.addthis.com
-0.0.0.0 c.tadst.com
 0.0.0.0 ctam.imrworldwide.com
 0.0.0.0 cta-redirect.hubspot.com
 0.0.0.0 c.targetserving.com
