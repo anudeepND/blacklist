@@ -33744,3 +33744,5 @@
 0.0.0.0 cdn.trfpump.com
 0.0.0.0 media.trfpump.com
 0.0.0.0 main.exoclick.com
+0.0.0.0 www.atozdealinfo.com
+0.0.0.0 atozdealinfo.com
