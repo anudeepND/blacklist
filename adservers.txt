@@ -3602,7 +3602,6 @@
 0.0.0.0 a3c6-8f2f-272c-6c42.reporo.net
 0.0.0.0 a3.smi2.ru
 0.0.0.0 a4.smi2.ru
-0.0.0.0 a4.tl2
 0.0.0.0 a522-3fae-f6ec-502a.reporo.net
 0.0.0.0 a553-1676-827a-bc8d.reporo.net
 0.0.0.0 a5ahe.voluumtrk.com
@@ -33737,10 +33736,10 @@
 0.0.0.0 2pn2.notifychheck.com
 0.0.0.0 z33y.notifychheck.com
 0.0.0.0 trfpump.com
-0.0.0.0 www.trfpump com
+0.0.0.0 www.trfpump.com
 0.0.0.0 stats.trfpump.com
 0.0.0.0 c.trfpump.com
-0.0.0.0 t.trfpump com
+0.0.0.0 t.trfpump.com
 0.0.0.0 cdn.trfpump.com
 0.0.0.0 media.trfpump.com
 0.0.0.0 main.exoclick.com
