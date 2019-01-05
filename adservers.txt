@@ -11474,7 +11474,6 @@
 0.0.0.0 g8n-q.tlnk.io
 0.0.0.0 g9.cnzz.com
 0.0.0.0 ga87z2o.com
-0.0.0.0 gaana.helpshift.com
 0.0.0.0 gadget.mirtesen.ru
 0.0.0.0 gadgetreview.t.domdex.com
 0.0.0.0 gads11000c.pubmatic.com
@@ -29480,7 +29479,6 @@
 0.0.0.0 www.appnext.com
 0.0.0.0 admin.appnext.com
 0.0.0.0 ads.appnext.com
-0.0.0.0 developers.appnext.com
 0.0.0.0 discover.appnext.com
 0.0.0.0 events.appnext.com
 0.0.0.0 lp1.appnext.com
@@ -29577,7 +29575,6 @@
 0.0.0.0 openldap.corp.lax1.appnexus.com
 0.0.0.0 01.corpidp.lax1.appnexus.com
 0.0.0.0 01.credentials-api.lax1.appnexus.com
-0.0.0.0 01.gerrit.lax1.appnexus.com
 0.0.0.0 ip765621.lax1.appnexus.com
 0.0.0.0 01.kdc.lax1.appnexus.com
 0.0.0.0 01.krbize.lax1.appnexus.com
