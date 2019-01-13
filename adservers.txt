@@ -33726,3 +33726,5 @@
 0.0.0.0 z1.news-subscribe.com
 0.0.0.0 zb.news-subscribe.com
 0.0.0.0 zt.news-subscribe.com
+0.0.0.0 b2bapi.zee5.com
+0.0.0.0 sb.voicefive.com
