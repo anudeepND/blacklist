@@ -11530,7 +11530,6 @@
 0.0.0.0 gate.smi2.net
 0.0.0.0 gateway.ifc.inmobi.com
 0.0.0.0 gatewaymedia-d.openx.net
-0.0.0.0 Gateway.smartadserver.com
 0.0.0.0 gateway.supersonicads.com
 0.0.0.0 gazetatrud.mirtesen.ru
 0.0.0.0 gb2-banners.adriver.ru
@@ -13371,7 +13370,6 @@
 0.0.0.0 images.dyn.perfectaudience.com
 0.0.0.0 imageserv.adtech.de
 0.0.0.0 images.e.switchadhub.com
-0.0.0.0 images-eu.ssl-images-mi-sale.free-offer
 0.0.0.0 images.f.switchadhub.com
 0.0.0.0 images-f.taboola.com
 0.0.0.0 images-geo.outbrain.com
@@ -13382,7 +13380,6 @@
 0.0.0.0 images.kameleoon.com
 0.0.0.0 images.mopub.com
 0.0.0.0 images.mxpnl.com
-0.0.0.0 images-na.ssl-images-mi-sale.free-offer
 0.0.0.0 images.parsely.com
 0.0.0.0 images.response.demandbase.com
 0.0.0.0 images.skimresources.com
@@ -13543,7 +13540,6 @@
 0.0.0.0 in12.zog.link
 0.0.0.0 in3.zog.link
 0.0.0.0 in4.zog.link
-0.0.0.0 In4.zog.link
 0.0.0.0 in6.zog.link
 0.0.0.0 in7.zog.link
 0.0.0.0 in9.zog.link
@@ -17712,7 +17708,6 @@
 0.0.0.0 pad.umeng.com
 0.0.0.0 paea.az1.qualtrics.com
 0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 Pagead46.i.doubleclick.net
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pages2.marketo.com
@@ -21486,7 +21481,6 @@
 0.0.0.0 speednetwork10.adk2x.com
 0.0.0.0 speednetwork13.adk2x.com
 0.0.0.0 speednetwork14.adk2.co
-0.0.0.0 speednetwork 14.adk2x.com
 0.0.0.0 speednetwork15.adk2x.com
 0.0.0.0 speednetwork1.adk2x.com
 0.0.0.0 speednetwork20.adk2x.com
@@ -26554,7 +26548,6 @@
 0.0.0.0 xwnzz.lyfd2xzauti9d8p.bapb.gdn
 0.0.0.0 xwrtizo5tu8.proxy.teads.tv
 0.0.0.0 xwuzz.lyfd2xzauti9d8p.bapb.gdn
-0.0.0.0 XX.atdmt.com
 0.0.0.0 xxhqq.voluumtrk.com
 0.0.0.0 xyo8s8qdiy.kameleoon.eu
 0.0.0.0 xyrsmmsqbxu.proxy.teads.tv
