@@ -13394,7 +13394,6 @@
 0.0.0.0 images.viglink.com
 0.0.0.0 images-yjp.taboola.com
 0.0.0.0 image.vidible.tv
-0.0.0.0 imasdk.googleapis.com
 0.0.0.0 im.b2a2c700.a80886f.ads.a4cdn.contentabc.com
 0.0.0.0 im.b2a2c700.e8cace3.ads.a4cdn.contentabc.com
 0.0.0.0 im.b2a2cd00.885d48e.ads.a4cdn.contentabc.com
