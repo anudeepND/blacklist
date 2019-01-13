@@ -23327,7 +23327,6 @@
 0.0.0.0 timeinc.demdex.net
 0.0.0.0 timeinc-d.openx.net
 0.0.0.0 timeinc.trc.taboola.com
-0.0.0.0 time.izatcloud.net
 0.0.0.0 timera-d.openx.net
 0.0.0.0 timetospa.com.102.112.2o7.net
 0.0.0.0 tinkoff.mirtesen.ru
