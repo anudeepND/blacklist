@@ -33728,3 +33728,16 @@
 0.0.0.0 zt.news-subscribe.com
 0.0.0.0 b2bapi.zee5.com
 0.0.0.0 sb.voicefive.com
+0.0.0.0 www.qgraph.io
+0.0.0.0 api.qgraph.io
+0.0.0.0 www.api.qgraph.io
+0.0.0.0 config-server.api.qgraph.io
+0.0.0.0 app.qgraph.io
+0.0.0.0 www.app.qgraph.io
+0.0.0.0 cdn.qgraph.io
+0.0.0.0 eic.qgraph.io
+0.0.0.0 www.eic.qgraph.io
+0.0.0.0 staging-app.qgraph.io
+0.0.0.0 staging-static-ui.qgraph.io
+0.0.0.0 static.qgraph.io
+0.0.0.0 static-ui.qgraph.io
