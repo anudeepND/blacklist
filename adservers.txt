@@ -6466,6 +6466,7 @@
 0.0.0.0 bg-mtg.a.videoplaza.tv
 0.0.0.0 bg-mtg.cdn.videoplaza.tv
 0.0.0.0 b-graph.accountkit.com
+0.0.0.0 graph.accountkit.com
 0.0.0.0 bgtalysteu10.112.2o7.net
 0.0.0.0 bgumanagement.qualtrics.com
 0.0.0.0 bh1.doubleclick.net
@@ -7474,7 +7475,6 @@
 0.0.0.0 cdn-s.amazon-adsystem.com
 0.0.0.0 cdn-sec.tacoda.at.atwola.com
 0.0.0.0 cdn.segment.com
-0.0.0.0 cdn.segment.com.prx2.unblocksites.co
 0.0.0.0 cdn.segment.io
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 cdns.eu1.gigya.com
@@ -33812,3 +33812,7 @@
 0.0.0.0 desr.fkapi.net
 0.0.0.0 desb.fkapi.net
 0.0.0.0 desa.fkapi.net
+0.0.0.0 geoapi.indiatimes.com
+0.0.0.0 jssocdn.indiatimes.com
+0.0.0.0 c.webengage.com
+0.0.0.0 r.remarketingpixel.com
