@@ -33809,3 +33809,6 @@
 0.0.0.0 nqs-wdc3.youboranqs01.com
 0.0.0.0 qs-lw3-lb2.youboranqs01.com
 0.0.0.0 nqs-hk1-c1.youboranqs01.com
+0.0.0.0 desr.fkapi.net
+0.0.0.0 desb.fkapi.net
+0.0.0.0 desa.fkapi.net
