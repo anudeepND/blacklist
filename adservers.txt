@@ -20901,7 +20901,6 @@
 0.0.0.0 sn-vgqs7n76.c.googlesyndication.com
 0.0.0.0 snwmedia.adk2x.com
 0.0.0.0 snxkttyjudkv7l1antizvxyjhl1mf1507564820.nuid.imrworldwide.com
-0.0.0.0 sO.2mdn.net
 0.0.0.0 soa.qualtrics.com
 0.0.0.0 sobytiya-info.mirtesen.ru
 0.0.0.0 sochi.ad.adriver.ru
