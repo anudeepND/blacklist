@@ -4,7 +4,7 @@
 # Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
 # Title: Anudeep's Blacklist
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 32,362
+# Domain count: 32,349
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -1212,7 +1212,6 @@
 0.0.0.0 2kbp2.voluumtrk.com
 0.0.0.0 2kygq.voluumtrk.com
 0.0.0.0 2luvcac3ldm1m8uobqsgnldyotdob1514630751.nuid.imrworldwide.com
-0.0.0.0 ml.pubnative.net
 0.0.0.0 2o4ssijizhvedi43sbkvj6vdxkg6p1504917111.nuid.imrworldwide.com
 0.0.0.0 2o53s.voluumtrk.com
 0.0.0.0 2o7.net
@@ -1624,7 +1623,6 @@
 0.0.0.0 3flv2.voluumtrk.com
 0.0.0.0 3gimg.qq.com
 0.0.0.0 3grs6.voluumtrk.com
-0.0.0.0 i.skimresources.com
 0.0.0.0 3jugr51ukshducidnj06ahszk8ptj1513558820.nuid.imrworldwide.com
 0.0.0.0 3k4hppja.stream
 0.0.0.0 3kn4ekvh6t.kameleoon.eu
@@ -6752,7 +6750,6 @@
 0.0.0.0 brx.pxl.ace.advertising.com
 0.0.0.0 bryant.qualtrics.com
 0.0.0.0 b.sc.omtrdc.net
-0.0.0.0 b.scorecardresearch.com
 0.0.0.0 bs-creatives-fix.fyber.com
 0.0.0.0 bs-creatives.fyber.com
 0.0.0.0 bsf-stage.vidible.tv
@@ -7505,7 +7502,6 @@
 0.0.0.0 cdn.taplytics.com
 0.0.0.0 cdn.targetserving.com
 0.0.0.0 cdn.target.smi2.net
-0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.test-ti-platform.com
 0.0.0.0 cdn.thumbs.glispa.com
 0.0.0.0 cdn.ti-platform.com
@@ -12492,7 +12488,6 @@
 0.0.0.0 sloadus.exelator.com
 0.0.0.0 s.smi2.ru
 0.0.0.0 ht.trailers.brazzerstv.contentabc.com
-0.0.0.0 trk.vidible.tv
 0.0.0.0 ht-webdunia.hoverr.media
 0.0.0.0 ht-znindia.hoverr.media
 0.0.0.0 hu2icej8vtzyo7lcbncvj78irgtvz1508204021.nuid.imrworldwide.com
@@ -16769,10 +16764,6 @@
 0.0.0.0 nqbyowmksid3s4kgkq9ji4ykybggy1504925732.nuid.imrworldwide.com
 0.0.0.0 nqnf8jxurl2pkolmo1l0ftjtumacw1510333832.nuid.imrworldwide.com
 0.0.0.0 nqqzudal2ipj0yi3brm06pfl8dpqv1516398081.nuid.imrworldwide.com
-0.0.0.0 nqs-lw3.youboranqs01.com
-0.0.0.0 nqs-nl1-c2.youboranqs01.com
-0.0.0.0 nqs-nl2.youboranqs01.com
-0.0.0.0 nqs-nl-c6-c2.youboranqs01.com
 0.0.0.0 nrc.co1.qualtrics.com
 0.0.0.0 nrc.ds.duapps.com
 0.0.0.0 nrc.sd.duapps.com
@@ -17703,7 +17694,6 @@
 0.0.0.0 p.ad.gt
 0.0.0.0 pad.mymovies.it
 0.0.0.0 padsquad-d.openx.net
-0.0.0.0 p.adsymptotic.com
 0.0.0.0 pad.umeng.com
 0.0.0.0 paea.az1.qualtrics.com
 0.0.0.0 pagead2.googlesyndication.com
@@ -17977,7 +17967,6 @@
 0.0.0.0 pixels.perfectaudience.com
 0.0.0.0 pixel.staticworld.net
 0.0.0.0 pixel.tapad.com
-0.0.0.0 pixel.tapad.comp.skimresources.com
 0.0.0.0 pixel-tracking.sonic-us.supersonicads.com
 0.0.0.0 pixel-us-east.rubiconproject.com
 0.0.0.0 pixel-us-west.rubiconproject.com
@@ -18700,7 +18689,6 @@
 0.0.0.0 psi.lbesecapi.com
 0.0.0.0 psi.tubemogul.com
 0.0.0.0 ps-jp.amazon-adsystem.com
-0.0.0.0 p.skimresources.com
 0.0.0.0 pso.ws.ev1.inmobi.com
 0.0.0.0 pstream.atdmt.com
 0.0.0.0 ps-us.amazon-adsystem.com
@@ -23285,7 +23273,6 @@
 0.0.0.0 ts.eu-west-1.p.xpanama.net
 0.0.0.0 ts.flurry.com
 0.0.0.0 ts.geo.p.xpanama.net
-0.0.0.0 t.skimresources.com
 0.0.0.0 tslogging-lax1.touchcommerce.com
 0.0.0.0 tslogging.touchcommerce.com
 0.0.0.0 ts.p.xpanama.net
