@@ -32355,3 +32355,5 @@
 0.0.0.0 touch.myntra.com
 0.0.0.0 track.tcppu.com
 0.0.0.0 sapi.wynk.in
+0.0.0.0 ms-ads.presage.io
+
