@@ -23759,7 +23759,6 @@
 0.0.0.0 urlaub-sri-lanka.de.intellitxt.com
 0.0.0.0 urlaubsziele.de.intellitxt.com
 0.0.0.0 urlauth.ksmobile.net
-0.0.0.0 p.skimresources.com
 0.0.0.0 urpnk4ychzddu1oq5zb53f47yw8fj1514984466.nuid.imrworldwide.com
 0.0.0.0 urs.cnet.com
 0.0.0.0 uruam.voluumtrk.com
