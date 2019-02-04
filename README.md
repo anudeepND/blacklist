@@ -1,4 +1,7 @@
-![logo](https://raw.githubusercontent.com/anudeepND/blacklist/master/images/logo.png) 
+<p align="center">
+  <img width="460" height="120" src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/logo.png">
+</p>
+     
 ## Host file to block trackers and advertisements
           
 A list of adserving and tracking sites maintained by me. This list will be updated frequently.   
