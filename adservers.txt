@@ -32355,4 +32355,6 @@
 0.0.0.0 track.tcppu.com
 0.0.0.0 sapi.wynk.in
 0.0.0.0 ms-ads.presage.io
-
+0.0.0.0 pubmine.com
+0.0.0.0 www.pubmine.com
+0.0.0.0 s.pubmine.com
