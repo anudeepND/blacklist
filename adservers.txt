@@ -32366,3 +32366,6 @@
 0.0.0.0 eaus2watcab02.blob.core.windows.net
 0.0.0.0 weus2watcab01.blob.core.windows.net
 0.0.0.0 weus2watcab02.blob.core.windows.net
+0.0.0.0 ecommerce.iap.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 cdp.cloud.unity3d.com
