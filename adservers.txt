@@ -4,7 +4,7 @@
 # Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
 # Title: Anudeep's Blacklist
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 32,349
+# Domain count: 32,405
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -32369,3 +32369,45 @@
 0.0.0.0 ecommerce.iap.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 www.a-ads.com
+0.0.0.0 a-ads.com
+0.0.0.0 acceptable.a-ads.com
+0.0.0.0 ad.a-ads.com
+0.0.0.0 ad001.a-ads.com
+0.0.0.0 ad004.a-ads.com
+0.0.0.0 ad005.a-ads.com
+0.0.0.0 ad007.a-ads.com
+0.0.0.0 ad009.a-ads.com
+0.0.0.0 ad011.a-ads.com
+0.0.0.0 ad012.a-ads.com
+0.0.0.0 ad013.a-ads.com
+0.0.0.0 ad014.a-ads.com
+0.0.0.0 ad015.a-ads.com
+0.0.0.0 ad203.a-ads.com
+0.0.0.0 ad210.a-ads.com
+0.0.0.0 ad212.a-ads.com
+0.0.0.0 ad217.a-ads.com
+0.0.0.0 ad218.a-ads.com
+0.0.0.0 ad222.a-ads.com
+0.0.0.0 ad302.a-ads.com
+0.0.0.0 adv0.a-ads.com
+0.0.0.0 adv1.a-ads.com
+0.0.0.0 adv2.a-ads.com
+0.0.0.0 adv3.a-ads.com
+0.0.0.0 adv4.a-ads.com
+0.0.0.0 adv5.a-ads.com
+0.0.0.0 adv6.a-ads.com
+0.0.0.0 adv7.a-ads.com
+0.0.0.0 app0.a-ads.com
+0.0.0.0 blog.a-ads.com
+0.0.0.0 chef.a-ads.com
+0.0.0.0 click.a-ads.com
+0.0.0.0 da.a-ads.com
+0.0.0.0 files.a-ads.com
+0.0.0.0 int.a-ads.com
+0.0.0.0 lb4.a-ads.com
+0.0.0.0 mm.a-ads.com
+0.0.0.0 ns2.a-ads.com
+0.0.0.0 s.a-ads.com
+0.0.0.0 ad.s.a-ads.com
+0.0.0.0 static.a-ads.com
