@@ -4,7 +4,7 @@
 # Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
 # Title: Anudeep's Blacklist
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 32,405
+# Domain count: 32,454
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -32435,3 +32435,28 @@
 0.0.0.0 ru.gameanalytics.com
 0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 sandbox-api.gameanalytics.com
+0.0.0.0 13.mizdok.com
+0.0.0.0 17.mizdok.com
+0.0.0.0 1phads.com
+0.0.0.0 45eijvhgj2.com
+0.0.0.0 48.mizdok.com
+0.0.0.0 49oa3o49b6.com
+0.0.0.0 52.mizdok.com
+0.0.0.0 53ba35bdfd7dc70def9fe8cd6644caff.s.adsco.re
+0.0.0.0 56.mizdok.com
+0.0.0.0 62.mizdok.com
+0.0.0.0 65.mizdok.com
+0.0.0.0 81.mizdok.com
+0.0.0.0 87.mizdok.com
+0.0.0.0 a63t9o1azf.com
+0.0.0.0 ads.exoclick.com
+0.0.0.0 adsco.re
+0.0.0.0 adt.shuzilm.cn
+0.0.0.0 bodelen.com
+0.0.0.0 c.adsco.re
+0.0.0.0 hbk.shuzilm.cn
+0.0.0.0 p8.hecherthepar.pro
+0.0.0.0 pixel.hecherthepar.pro
+0.0.0.0 tuxbpnne.com
+0.0.0.0 uhughed.club
+0.0.0.0 workersimkf.com
