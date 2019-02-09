@@ -32460,3 +32460,13 @@
 0.0.0.0 tuxbpnne.com
 0.0.0.0 uhughed.club
 0.0.0.0 workersimkf.com
+0.0.0.0 abtest.mistat.india.xiaomi.com
+0.0.0.0 api.input.intl.miui.com
+0.0.0.0 cdnegc.trafficfactory.biz
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 events.launchdarkly.com
+0.0.0.0 insurplan.info
+0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 api.sms.intl.miui.com
+0.0.0.0 in.o2o.api.xiaomi.com
+0.0.0.0 mads.amazon-adsystem.com
