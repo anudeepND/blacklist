@@ -32480,3 +32480,11 @@
 0.0.0.0 optimize.tercept.com
 0.0.0.0 serve.tercept.com
 0.0.0.0 trial.tercept.com
+0.0.0.0 clicktripz.com
+0.0.0.0 saxp.zedo.com
+0.0.0.0 entitlements.jwplayer.com
+0.0.0.0 821.tm.zedo.com
+0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 bodelen.com
+0.0.0.0 pushno.com
+0.0.0.0 timesnow.pushengage.com
