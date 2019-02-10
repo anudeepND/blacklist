@@ -32471,3 +32471,12 @@
 0.0.0.0 api.sms.intl.miui.com
 0.0.0.0 in.o2o.api.xiaomi.com
 0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 analytics.tercept.com
+0.0.0.0 analytics2.tercept.com
+0.0.0.0 api.tercept.com
+0.0.0.0 b-s.tercept.com
+0.0.0.0 cdn.tercept.com
+0.0.0.0 monitor.tercept.com
+0.0.0.0 optimize.tercept.com
+0.0.0.0 serve.tercept.com
+0.0.0.0 trial.tercept.com
