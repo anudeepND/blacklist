@@ -12302,11 +12302,7 @@
 0.0.0.0 hl-img.download.9appsinstall.com
 0.0.0.0 hl-img.peco.uodoo.com
 0.0.0.0 hlrke.voluumtrk.com
-0.0.0.0 hlsrv-a.prod.vidible.tv
-0.0.0.0 hlsrv.prod.vidible.tv
-0.0.0.0 hlsrv.vidible.tv
 0.0.0.0 hls.v.fwmrm.net
-0.0.0.0 hls.vidible.tv
 0.0.0.0 hm1.cnzz.com
 0.0.0.0 hm2.cnzz.com
 0.0.0.0 hm3.cnzz.com
