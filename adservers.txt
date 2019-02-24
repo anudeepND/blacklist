@@ -4056,7 +4056,7 @@
 0.0.0.0 admaster.union.ucweb.com
 0.0.0.0 admaven.adk2x.com
 0.0.0.0 admaym.com
-0.0.0.0 admaym.com cs.genieesspv.jp
+0.0.0.0 cs.genieesspv.jp
 0.0.0.0 adm.cnzz.com
 0.0.0.0 ad.mediaplex.com
 0.0.0.0 admediaspace-d.openx.net
@@ -23592,7 +23592,7 @@
 0.0.0.0 ultradentproductsinc.demdex.net
 0.0.0.0 ultraoranges.com
 0.0.0.0 um2.eqads.com
-0.0.0.0 um2.eqads.com x.skimresources.com
+0.0.0.0 x.skimresources.com
 0.0.0.0 umassamherst.co1.qualtrics.com
 0.0.0.0 umasspsych.co1.qualtrics.com
 0.0.0.0 umass.qualtrics.com
