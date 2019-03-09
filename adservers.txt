@@ -32112,7 +32112,6 @@
 0.0.0.0 mine-soft-software-store.pw
 0.0.0.0 cornwallsdraft.club
 0.0.0.0 www.cornwallsdraft.club
-0.0.0.0 ptpb.pw
 0.0.0.0 naganoadigei.com
 0.0.0.0 22xsd.tk
 0.0.0.0 www.22xsd.tk
