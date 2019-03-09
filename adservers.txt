@@ -7778,7 +7778,6 @@
 0.0.0.0 click-haproxy.supersonicads.com
 0.0.0.0 click.j-a-net.jp
 0.0.0.0 click.link2ads.com
-0.0.0.0 click.linksynergy.com
 0.0.0.0 click.mtburn.com
 0.0.0.0 clicknj.taboola.com
 0.0.0.0 clickopon.com
