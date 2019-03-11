@@ -5,7 +5,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 32,454
+# Domain count: 32,489
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -32490,3 +32490,9 @@
 0.0.0.0 ad.bullguard.com
 0.0.0.0 adv.bullguard.com
 0.0.0.0 deals.bullguard.com
+0.0.0.0 www.safedk.com
+0.0.0.0 api.safedk.com
+0.0.0.0 config.safedk.com
+0.0.0.0 mobile-sdk-data-trends.safedk.com
+0.0.0.0 mp.safedk.com
+0.0.0.0 pr.safedk.com
