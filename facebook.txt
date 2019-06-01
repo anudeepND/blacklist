@@ -5,7 +5,7 @@
 # Title: Anudeep's Facebook Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 3120
+# Domain count: 3124
 # ===================================================================
 0.0.0.0 0-channel-proxy-07-ash2.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
@@ -3126,3 +3126,7 @@
 0.0.0.0 zh-cn.facebook.com
 0.0.0.0 zh-hk.facebook.com
 0.0.0.0 zh-tw.facebook.com
+0.0.0.0 instagram.fcdg1-1.fna.fbcdn.net
+0.0.0.0 instagram.felp1-1.fna.fbcdn.net
+0.0.0.0 instagram.flux1-1.fna.fbcdn.net
+0.0.0.0 instagram.fkgf1-1.fna.fbcdn.net
