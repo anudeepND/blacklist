@@ -10948,7 +10948,6 @@
 0.0.0.0 fe1.brandreachsys.com
 0.0.0.0 fe1x.brandreachsys.com
 0.0.0.0 fe2.brandreachsys.com
-0.0.0.0 fe2.update.microsoft.com.akadns.net
 0.0.0.0 fe2x.brandreachsys.com
 0.0.0.0 fe3.brandreachsys.com
 0.0.0.0 fe3x.brandreachsys.com
@@ -20794,7 +20793,6 @@
 0.0.0.0 sloanreview-d.openx.net
 0.0.0.0 s.logsss.com
 0.0.0.0 slot.union.ucweb.com
-0.0.0.0 sls.update.microsoft.com.akadns.net
 0.0.0.0 sltrib-d.openx.net
 0.0.0.0 slu.az1.qualtrics.com
 0.0.0.0 slx4o1meprwg0pg5edxy1qbsupltd1507558400.nuid.imrworldwide.com
@@ -22035,7 +22033,6 @@
 0.0.0.0 statserv.net
 0.0.0.0 stats.exoclick.com
 0.0.0.0 statsfe1.ws.microsoft.com
-0.0.0.0 statsfe2.update.microsoft.com.akadns.net
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.jpush.cn
