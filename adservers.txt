@@ -31634,7 +31634,6 @@
 0.0.0.0 usllpic0-bbd3fb6c4f9537740a098408f1e14a19b015517b-sac.d.aa.online-metrix.net
 0.0.0.0 pixel.bild.de
 0.0.0.0 rem-track.bild.de
-0.0.0.0 bilder.bild.de
 0.0.0.0 json.bild.de
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 axel-springer-d.openx.net
