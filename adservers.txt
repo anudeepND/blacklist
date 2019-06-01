@@ -5,7 +5,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 32,489
+# Domain count: 32,484
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -11553,6 +11553,7 @@
 0.0.0.0 g.dyn.crwdcntrl.net
 0.0.0.0 ge-2007.112.2o7.net
 0.0.0.0 ge6e4.voluumtrk.com
+0.0.0.0 getclicky.com
 0.0.0.0 ge-ar2006.112.2o7.net
 0.0.0.0 gearburn.za.intellitxt.com
 0.0.0.0 gebadu.com
