@@ -1,7 +1,13 @@
 <p align="center">
   <img width="460" height="120" src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/logo.png">
 </p>
-     
+<br>     
+<p align="center">  
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N6RDWAAZSW5T6&source=url"><img alt="Donate using Paypal" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
+  &nbsp;&nbsp;
+  <a href="https://liberapay.com/Anudeep/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+</p>
+
 ## Host file to block trackers and advertisements
           
 A list of adserving and tracking sites maintained by me. This list will be updated frequently.   
@@ -81,11 +87,20 @@ For Chrome ctrl+shift+I will land you in Developer tools menu.
      
 ***
      
+### Donation
+
+All donations are welcome and any amount of money will help me to maintain this project :)
+<p align="center">  
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N6RDWAAZSW5T6&source=url"><img alt="Donate using Paypal" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
+  &nbsp;&nbsp;
+  <a href="https://liberapay.com/Anudeep/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+</p>
+     
 ### Licence      
 ```
 MIT License
 
-Copyright (c) 2018 Anudeep ND <anudeep@protonmail.com>
+Copyright (c) 2019 Anudeep ND <anudeep@protonmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
