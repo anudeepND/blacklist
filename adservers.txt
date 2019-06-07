@@ -5,7 +5,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,033
+# Domain count: 33,053
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33040,3 +33040,23 @@
 0.0.0.0 986141672.keywordblocks.com
 0.0.0.0 find.keywordblocks.com
 0.0.0.0 search.keywordblocks.com
+0.0.0.0 1339402.collect.igodigital.com
+0.0.0.0 519-jvy-663.mktoresp.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 acdn.adnxs.com
+0.0.0.0 adipolo.tagcombiner.com
+0.0.0.0 ads-bidder-api.twitter.com
+0.0.0.0 ads2.servebom.com
+0.0.0.0 adserver-us.adtech.advertising.com
+0.0.0.0 adservice.google.ca
+0.0.0.0 alb.reddit.com
+0.0.0.0 amplify.outbrain.com
+0.0.0.0 analytics.ovh.com
+0.0.0.0 api.rlcdn.com
+0.0.0.0 api.rqmob.com
+0.0.0.0 api.shareitgames.com
+0.0.0.0 apis.kostprice.com
+0.0.0.0 app-09.engage.jio.com
+0.0.0.0 app-analytics.huami.com
+0.0.0.0 app.engage.jio.com
+0.0.0.0 arescadon.com
