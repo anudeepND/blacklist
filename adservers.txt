@@ -5,7 +5,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,053
+# Domain count: 33,065
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33060,3 +33060,15 @@
 0.0.0.0 app-analytics.huami.com
 0.0.0.0 app.engage.jio.com
 0.0.0.0 arescadon.com
+0.0.0.0 b.stats.paypal.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 c.union.ucweb.com
+0.0.0.0 cdn-gl.imrworldwide.com
+0.0.0.0 cdn.connatix.com
+0.0.0.0 cdn.pushnami.com
+0.0.0.0 cdn2.shareitgames.com
+0.0.0.0 cdns.connatix.com
+0.0.0.0 cf.hermes.wshareit.com
+0.0.0.0 ck.connatix.com
+0.0.0.0 cmd.hermes.wshareit.com
