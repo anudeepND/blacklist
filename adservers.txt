@@ -5,7 +5,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,065
+# Domain count: 33,106
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33072,3 +33072,44 @@
 0.0.0.0 cf.hermes.wshareit.com
 0.0.0.0 ck.connatix.com
 0.0.0.0 cmd.hermes.wshareit.com
+0.0.0.0 vv88.andalbrighth.pro
+0.0.0.0 pixel.andalbrighth.pro
+0.0.0.0 secure-us.imrworldwide.com
+0.0.0.0 wpni.112.207.net
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 telegraphmediagroup.sc.omtrdc.net
+0.0.0.0 jioads.akamaized.net
+0.0.0.0 push-cdn.wshareit.com
+0.0.0.0 gcmapi.wshareit.com
+0.0.0.0 static.rqmob.com
+0.0.0.0 sgbid.prod.sift.co
+0.0.0.0 sift-campaign-creatives.sift.co
+0.0.0.0 huosu-static-test.shareitgames.com
+0.0.0.0 tcheck.outbrainimg.com
+0.0.0.0 log.outbrainimg.com
+0.0.0.0 mid.rkdms.com
+0.0.0.0 polarcdn-terrax.com
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 www.rkdms.com
+0.0.0.0 rtb.connatix.com
+0.0.0.0 connatix-d.openx.net
+0.0.0.0 core.connatix.com
+0.0.0.0 trk.connatix.com
+0.0.0.0 i.connatix.com
+0.0.0.0 w.estat.com
+0.0.0.0 remote-data.urbanairship.com
+0.0.0.0 in.api.glance.inmobi.com
+0.0.0.0 log2.musical.ly
+0.0.0.0 media-static.adsafeprotected.com
+0.0.0.0 services.ludokingapi.com
+0.0.0.0 misc-services.ludokingapi.com
+0.0.0.0 json.ludokingapi.com
+0.0.0.0 d.applvn.com
+0.0.0.0 live.chartboost.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 e.reddit.com
+0.0.0.0 nexus.ensighten.com
+0.0.0.0 nova.collect.igodigital.com
+0.0.0.0 producebreed.com
+0.0.0.0 ibeat.indiatimes.com
+0.0.0.0 s3.buysellads.com
