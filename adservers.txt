@@ -5,7 +5,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,106
+# Domain count: 33,128
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33113,3 +33113,25 @@
 0.0.0.0 producebreed.com
 0.0.0.0 ibeat.indiatimes.com
 0.0.0.0 s3.buysellads.com
+0.0.0.0 vrtzads.com
+0.0.0.0 www.vrtzads.com
+0.0.0.0 adm.vrtzads.com
+0.0.0.0 adm-cdn.vrtzads.com
+0.0.0.0 banner.vrtzads.com
+0.0.0.0 betabanner.vrtzads.com
+0.0.0.0 bidder.vrtzads.com
+0.0.0.0 bidwin.vrtzads.com
+0.0.0.0 c.vrtzads.com
+0.0.0.0 cltr.vrtzads.com
+0.0.0.0 conv.vrtzads.com
+0.0.0.0 cookie.vrtzads.com
+0.0.0.0 creative.vrtzads.com
+0.0.0.0 dspimp.vrtzads.com
+0.0.0.0 hb.vrtzads.com
+0.0.0.0 imp.vrtzads.com
+0.0.0.0 mobile.vrtzads.com
+0.0.0.0 ron.vrtzads.com
+0.0.0.0 testcookie.vrtzads.com
+0.0.0.0 track.vrtzads.com
+0.0.0.0 video.vrtzads.com
+0.0.0.0 vu.vrtzads.com
