@@ -5,7 +5,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,128
+# Domain count: 33,124
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -6396,7 +6396,6 @@
 0.0.0.0 beta-api.pubmatic.com
 0.0.0.0 betachic.com
 0.0.0.0 beta-dashboard.mgid.com
-0.0.0.0 beta.developers.marketo.com
 0.0.0.0 betadfp.doubleclick.net
 0.0.0.0 beta-editorial.outbrain.com
 0.0.0.0 beta-imageserver.adtechus.com
@@ -7120,12 +7119,6 @@
 0.0.0.0 careerbliss-careers.t.domdex.com
 0.0.0.0 careerbuilderca.sl.advertising.com
 0.0.0.0 careerbuilder.sl.advertising.com
-0.0.0.0 careers.hotjar.com
-0.0.0.0 careers.inmobi.com
-0.0.0.0 careers.media.net
-0.0.0.0 careers.taboola.com
-0.0.0.0 careers.unbounce.com
-0.0.0.0 careers.yieldmo.com
 0.0.0.0 carey.qualtrics.com
 0.0.0.0 carfax250.112.2o7.net
 0.0.0.0 cargurus-d.openx.net
@@ -8425,11 +8418,7 @@
 0.0.0.0 curse-d.openx.net
 0.0.0.0 curtaincows.com
 0.0.0.0 custom2.supersonicads.com
-0.0.0.0 customer.cludo.com
 0.0.0.0 customerexperience.co1.qualtrics.com
-0.0.0.0 customer-pages.leanplum.com
-0.0.0.0 customers.kameleoon.com
-0.0.0.0 customersupport.fyber.com
 0.0.0.0 custom.exoclick.com
 0.0.0.0 custom.supersonicads.com
 0.0.0.0 cutecushion.com
@@ -9405,8 +9394,6 @@
 0.0.0.0 dobriymir.mirtesen.ru
 0.0.0.0 doc.adtech.de
 0.0.0.0 doc.cnzz.com
-0.0.0.0 docker.smartlook.com
-0.0.0.0 docker.vidible.tv
 0.0.0.0 docking.co1.qualtrics.com
 0.0.0.0 dock.inmobi.com
 0.0.0.0 docksalmon.com
@@ -10095,7 +10082,6 @@
 0.0.0.0 es-sunicontent_test.videoplaza.tv
 0.0.0.0 es-sunicontent.videoplaza.tv
 0.0.0.0 es-suntaringa.videoplaza.tv
-0.0.0.0 e.staging.usefomo.com
 0.0.0.0 es.tubemogul.com
 0.0.0.0 es.unbounce.com
 0.0.0.0 esurance.inq.com
@@ -10297,7 +10283,6 @@
 0.0.0.0 experience.teads.tv
 0.0.0.0 expertode.widget.criteo.com
 0.0.0.0 experts-exchange.hostedcart.buysellads.com
-0.0.0.0 explorer-staging.flurry.com
 0.0.0.0 export.admitad.com
 0.0.0.0 express.mgid.com
 0.0.0.0 ext.admitad.com
@@ -10412,7 +10397,6 @@
 0.0.0.0 faa.demdex.net
 0.0.0.0 faas.mtraction.com
 0.0.0.0 fabric8.default.console.ws.adacts.com
-0.0.0.0 fabric8-docker-registry.default.console.ws.adacts.com
 0.0.0.0 fabzwh3g40zxurch0mow7itnwehtc1516628654.nuid.imrworldwide.com
 0.0.0.0 fac.co1.qualtrics.com
 0.0.0.0 facebook.co1.qualtrics.com
@@ -11360,7 +11344,6 @@
 0.0.0.0 fsnecommerce.demdex.net
 0.0.0.0 fsres.advertising.com
 0.0.0.0 fsr.lenovomm.com
-0.0.0.0 f.staging.usefomo.com
 0.0.0.0 fstt4.voluumtrk.com
 0.0.0.0 fsu.qualtrics.com
 0.0.0.0 fsuser.advertising.com
@@ -11638,10 +11621,6 @@
 0.0.0.0 girlscoutsusa.ca1.qualtrics.com
 0.0.0.0 girlshideout.us.intellitxt.com
 0.0.0.0 giswd40.112.2o7.net
-0.0.0.0 git.01l.xyz
-0.0.0.0 git.petametrics.com
-0.0.0.0 git.pubmatic.com
-0.0.0.0 git.ws.adacts.com
 0.0.0.0 giymdemo.pubmatic.com
 0.0.0.0 gj.applog.uc.cn
 0.0.0.0 gjapplog.uc.cn
@@ -11933,11 +11912,6 @@
 0.0.0.0 grader.localytics.com
 0.0.0.0 grady.co1.qualtrics.com
 0.0.0.0 gradyhealth.co1.qualtrics.com
-0.0.0.0 grafana.fyber.com
-0.0.0.0 grafana.prod.leanplum.com
-0.0.0.0 grafana.segment.com
-0.0.0.0 grafana.staging.leanplum.com
-0.0.0.0 grafana.stickyadstv.com
 0.0.0.0 grahammedia-d.openx.net
 0.0.0.0 gran-canaria-virtuell.de.intellitxt.com
 0.0.0.0 grandonmedia.com
@@ -13691,7 +13665,6 @@
 0.0.0.0 insights.hotjar.com
 0.0.0.0 insights.parsely.com
 0.0.0.0 insights.sokrati.com
-0.0.0.0 insights-staging.hotjar.com
 0.0.0.0 insightstatistical.co1.qualtrics.com
 0.0.0.0 insight-test.magnetic.com
 0.0.0.0 insight.ucweb.com
@@ -25326,7 +25299,6 @@
 0.0.0.0 www.buzzclicks.com
 0.0.0.0 www.bw.bidder.inmobi.com
 0.0.0.0 www.c2.popads.net
-0.0.0.0 www.careers.unbounce.com
 0.0.0.0 www.ccde.events.marketo.com
 0.0.0.0 www.cdn02.adriver.ru
 0.0.0.0 www.cdn.adsnative.com
@@ -25839,10 +25811,6 @@
 0.0.0.0 www.training.demandbase.com
 0.0.0.0 www.treasuredata.com
 0.0.0.0 www.triplelift.com
-0.0.0.0 www.try.getsocial.io
-0.0.0.0 www.try.treasuredata.com
-0.0.0.0 www.try.unbounce.com
-0.0.0.0 www.tryzapier.unbounce.com
 0.0.0.0 www.t.skimresources.com
 0.0.0.0 www.t.teads.tv
 0.0.0.0 www.tt.onthe.io
@@ -26018,7 +25986,6 @@
 0.0.0.0 xrxdiuijt3.kameleoon.eu
 0.0.0.0 xrxdiuijt3.mentalist.kameleoon.com
 0.0.0.0 xsdk.adkmob.com
-0.0.0.0 x.skimresources.com
 0.0.0.0 xsltbfhmda.mentalist.kameleoon.com
 0.0.0.0 xslt.mediaplex.com
 0.0.0.0 xslttest.la.mediaplex.com
@@ -26593,8 +26560,6 @@
 0.0.0.0 www.contentrequest.act-on.com
 0.0.0.0 cp.act-on.com
 0.0.0.0 de.act-on.com
-0.0.0.0 developer.act-on.com
-0.0.0.0 www.developer.act-on.com
 0.0.0.0 es.act-on.com
 0.0.0.0 gamma.act-on.com
 0.0.0.0 interactive.act-on.com
@@ -28312,7 +28277,6 @@
 0.0.0.0 crowd.amobee.com
 0.0.0.0 crush.amobee.com
 0.0.0.0 devsite.amobee.com
-0.0.0.0 docker-registry.amobee.com
 0.0.0.0 dsp.amobee.com
 0.0.0.0 eqix-ema-dc.amobee.com
 0.0.0.0 eqix-ema-sv.amobee.com
@@ -28352,8 +28316,6 @@
 0.0.0.0 www.pulsedm-ap.amobee.com
 0.0.0.0 pulsedm-ap-test.amobee.com
 0.0.0.0 repo.amobee.com
-0.0.0.0 docker.repo.amobee.com
-0.0.0.0 docker-registry.repo.amobee.com
 0.0.0.0 reports.amobee.com
 0.0.0.0 www.reports.amobee.com
 0.0.0.0 rrmprod.amobee.com
@@ -32431,14 +32393,10 @@
 0.0.0.0 cdn.tercept.com
 0.0.0.0 monitor.tercept.com
 0.0.0.0 optimize.tercept.com
-0.0.0.0 serve.tercept.com
 0.0.0.0 trial.tercept.com
 0.0.0.0 clicktripz.com
-0.0.0.0 saxp.zedo.com
 0.0.0.0 entitlements.jwplayer.com
-0.0.0.0 821.tm.zedo.com
 0.0.0.0 client-event-reporter.twitch.tv
-0.0.0.0 bodelen.com
 0.0.0.0 pushno.com
 0.0.0.0 timesnow.pushengage.com
 0.0.0.0 onclkds.com
@@ -32470,7 +32428,6 @@
 0.0.0.0 amplitude.com
 0.0.0.0 amplify.amplitude.com
 0.0.0.0 analytics.amplitude.com
-0.0.0.0 api.amplitude.com
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 cerulean.amplitude.com
 0.0.0.0 crash.amplitude.com
@@ -33117,7 +33074,6 @@
 0.0.0.0 www.vrtzads.com
 0.0.0.0 adm.vrtzads.com
 0.0.0.0 adm-cdn.vrtzads.com
-0.0.0.0 banner.vrtzads.com
 0.0.0.0 betabanner.vrtzads.com
 0.0.0.0 bidder.vrtzads.com
 0.0.0.0 bidwin.vrtzads.com
@@ -33128,10 +33084,49 @@
 0.0.0.0 creative.vrtzads.com
 0.0.0.0 dspimp.vrtzads.com
 0.0.0.0 hb.vrtzads.com
-0.0.0.0 imp.vrtzads.com
 0.0.0.0 mobile.vrtzads.com
 0.0.0.0 ron.vrtzads.com
 0.0.0.0 testcookie.vrtzads.com
 0.0.0.0 track.vrtzads.com
 0.0.0.0 video.vrtzads.com
 0.0.0.0 vu.vrtzads.com
+0.0.0.0 main.dynsrvbaa.com
+0.0.0.0 www.ezoic.com
+0.0.0.0 e.serverbid.com
+0.0.0.0 gift-connect-d.openx.net
+0.0.0.0 pixel.advertising.com
+0.0.0.0 sbnationbidder-d.openx.net
+0.0.0.0 serverbid-sync.nyc3.cdn.digitaloceanspaces.com
+0.0.0.0 sync.go.sonobi.com
+0.0.0.0 sofia.trustx.org
+0.0.0.0 cgi.connect.qq.com
+0.0.0.0 g.3gl.net
+0.0.0.0 ecdn.liveclicker.net
+0.0.0.0 consumable.com
+0.0.0.0 concertads-configs.vox-cdn.com
+0.0.0.0 optimize-stats.voxmedia.com
+0.0.0.0 meter-svc.nytimes.com
+0.0.0.0 cdneast2-xch.media.net
+0.0.0.0 js-sec.indexww.com
+0.0.0.0 contextual.media.net
+0.0.0.0 pbs01.automatad.com
+0.0.0.0 a.opmnstr.com
+0.0.0.0 3dp-s.tlnk.io
+0.0.0.0 click.inplayable.com
+0.0.0.0 click.howdoesin.net
+0.0.0.0 cdn.mediavoice.com
+0.0.0.0 c.o5o4o6.com
+0.0.0.0 c.snnd.co
+0.0.0.0 clk.cpi.leapmobs.com
+0.0.0.0 clk.ecsdk.com
+0.0.0.0 clk.hopemobi.net
+0.0.0.0 clk.imobsky.com
+0.0.0.0 collector-pxss13u803.perimeterx.net
+0.0.0.0 det.hasmobi.net
+0.0.0.0 heapanalytics.com
+0.0.0.0 iapclick.gowadogo.com
+0.0.0.0 tracking.icubeswire.com
+0.0.0.0 tracking.lenzmx.com
+0.0.0.0 trk.aduclick.club
+0.0.0.0 trk.superads.cn
+0.0.0.0 tpl-065.aflemy.com
