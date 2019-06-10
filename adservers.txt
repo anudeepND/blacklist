@@ -1,11 +1,10 @@
 # Host file to block ads, tracking and more! Updated daily
-#
 # Homepage: https://github.com/anudeepND/blacklist
 # Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,124
+# Domain count: 33,127
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33130,3 +33129,8 @@
 0.0.0.0 trk.aduclick.club
 0.0.0.0 trk.superads.cn
 0.0.0.0 tpl-065.aflemy.com
+0.0.0.0 www.apptrk.io
+0.0.0.0 apptrk.io
+0.0.0.0 c.apptrk.io
+0.0.0.0 d.apptrk.io
+0.0.0.0 go.apptrk.io
