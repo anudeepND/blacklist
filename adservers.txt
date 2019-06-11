@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,146
+# Domain count: 33,153
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33152,3 +33152,10 @@
 0.0.0.0 tracking01.ad4game.com
 0.0.0.0 tracking02.ad4game.com
 0.0.0.0 traffic.ad4game.com
+0.0.0.0 vip5.afdorigin-prod-am02.afdogw.com
+0.0.0.0 co4.telecommand.telemetry.microsoft.com
+0.0.0.0 cs1137.wpc.gammacdn.net
+0.0.0.0 modern.watson.data.microsoft.com
+0.0.0.0 wpc.v0cdn.net
+0.0.0.0 iriscoremetadataprod.blob.core.windows.net
+0.0.0.0 cs11.wpc.v0cdn.net
