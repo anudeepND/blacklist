@@ -26063,7 +26063,6 @@
 0.0.0.0 yapi.apk.v-mate.mobi
 0.0.0.0 yardbarker.tags.crwdcntrl.net
 0.0.0.0 yashin.alphonso.tv
-0.0.0.0 yastatic.net
 0.0.0.0 yatra.demdex.net
 0.0.0.0 yatraonline.sc.omtrdc.net
 0.0.0.0 yauc11mqs7i.proxy.teads.tv
