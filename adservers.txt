@@ -9897,7 +9897,6 @@
 0.0.0.0 elv3-tslogging.touchcommerce.com
 0.0.0.0 elvweb04.touchcommerce.com
 0.0.0.0 emai.unbounce.com
-0.0.0.0 embed.tawk.to
 0.0.0.0 emc.122.2o7.net
 0.0.0.0 emc.demdex.net
 0.0.0.0 emea-bidder.mathtag.com
