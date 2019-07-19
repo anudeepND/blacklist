@@ -5,7 +5,7 @@
 # Title: Anudeep's Facebook Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 3124
+# Domain count: 3121
 # ===================================================================
 0.0.0.0 0-channel-proxy-07-ash2.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
@@ -765,7 +765,6 @@
 0.0.0.0 clientsidetesticici.facebook.com
 0.0.0.0 cn.fbsbx.com
 0.0.0.0 cnd.fbsbx.com
-0.0.0.0 code.facebook.com
 0.0.0.0 com.mirror.facebook.net
 0.0.0.0 conectadosbancogalicia.facebook.com
 0.0.0.0 connect.beta.facebook.net
@@ -792,12 +791,10 @@
 0.0.0.0 de.facebook.com
 0.0.0.0 dev.facebook.com
 0.0.0.0 dev.vvv.facebook.com
-0.0.0.0 developer.facebook.com
-0.0.0.0 developers.facebook.com
 0.0.0.0 dewey-lfs.vip.facebook.com
 0.0.0.0 dewey.vip.facebook.com
 0.0.0.0 dn.fbsbx.com
-0.0.0.0 download..facebook.com
+0.0.0.0 download.facebook.com
 0.0.0.0 dreamstream.facebook.com
 0.0.0.0 echo.facebook.com
 0.0.0.0 edge-atlas-proxyprotocol-shv-01-ash5.facebook.com
