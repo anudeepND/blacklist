@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,192
+# Domain count: 33,210
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33186,3 +33186,33 @@
 0.0.0.0 track.superads.cn
 0.0.0.0 tracking.superads.cn
 0.0.0.0 trk.superads.cn
+0.0.0.0 www.adxxx.com
+0.0.0.0 adxxx.com
+0.0.0.0 aab.adxxx.com
+0.0.0.0 b.adxxx.com
+0.0.0.0 cn.adxxx.com
+0.0.0.0 cs.adxxx.com
+0.0.0.0 de.adxxx.com
+0.0.0.0 endpoint.adxxx.com
+0.0.0.0 es.adxxx.com
+0.0.0.0 iframe.adxxx.com
+0.0.0.0 iframe2.adxxx.com
+0.0.0.0 n.adxxx.com
+0.0.0.0 pl.adxxx.com
+0.0.0.0 pr.adxxx.com
+0.0.0.0 ru.adxxx.com
+0.0.0.0 samples.adxxx.com
+0.0.0.0 scan.adxxx.com
+0.0.0.0 self-service.adxxx.com
+0.0.0.0 self-service-adm.adxxx.com
+0.0.0.0 self-service-pay.adxxx.com
+0.0.0.0 st.adxxx.com
+0.0.0.0 st-n.adxxx.com
+0.0.0.0 static.adxxx.com
+0.0.0.0 static-src.adxxx.com
+0.0.0.0 static2-src.adxxx.com
+0.0.0.0 teasers.adxxx.com
+0.0.0.0 tr.adxxx.com
+0.0.0.0 track.adxxx.com
+0.0.0.0 tracking.adxxx.com
+0.0.0.0 vi.adxxx.com
