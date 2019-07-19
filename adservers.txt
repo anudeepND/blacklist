@@ -767,11 +767,6 @@
 0.0.0.0 192023.engine.mobileapptracking.com
 0.0.0.0 192081.engine.mobileapptracking.com
 0.0.0.0 192103.tlnk.io
-0.0.0.0 192.168.ads2.contentabc.com
-0.0.0.0 192.168.ads.trafficjunky.net
-0.0.0.0 192.168.cdn11.contentabc.com
-0.0.0.0 192.168.cdn-a2.contentabc.com
-0.0.0.0 192.168.media.trafficjunky.net
 0.0.0.0 192183.engine.mobileapptracking.com
 0.0.0.0 192217.engine.mobileapptracking.com
 0.0.0.0 192299.tlnk.io
@@ -7284,7 +7279,11 @@
 0.0.0.0 cdn12.contentabc.com
 0.0.0.0 cdn12.vizury.com
 0.0.0.0 cdn18.vizury.com
+0.0.0.0 cdn.ads.contentabc.com
 0.0.0.0 cdn1.ads.contentabc.com
+0.0.0.0 cdn2.ads.contentabc.com
+0.0.0.0 ads.contentabc.com
+0.0.0.0 ads2.contentabc.com
 0.0.0.0 cdn1.clksite.com
 0.0.0.0 cdn1.ctxt.tribalfusion.com
 0.0.0.0 cdn1-f1.stickyadstv.com
