@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,210
+# Domain count: 33,209
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -8944,7 +8944,6 @@
 0.0.0.0 dealply-pricerabbit.t.domdex.com
 0.0.0.0 deals.deployads.com
 0.0.0.0 dealspricer.t.domdex.com
-0.0.0.0 deals.thehackernews.com
 0.0.0.0 dealzon-electronics.t.domdex.com
 0.0.0.0 de.at.atwola.com
 0.0.0.0 debug.engine.mobileapptracking.com
