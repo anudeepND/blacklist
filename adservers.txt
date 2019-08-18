@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,347
+# Domain count: 33,380
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33353,3 +33353,36 @@
 0.0.0.0 e-eu-central-1.serverbid.com
 0.0.0.0 rtb.serverbid.com
 0.0.0.0 sync.serverbid.com
+0.0.0.0 www.liveclicker.net
+0.0.0.0 liveclicker.net
+0.0.0.0 api.liveclicker.net
+0.0.0.0 cdn.liveclicker.net
+0.0.0.0 cp.liveclicker.net
+0.0.0.0 edge.liveclicker.net
+0.0.0.0 em.liveclicker.net
+0.0.0.0 hcdn.liveclicker.net
+0.0.0.0 jb.liveclicker.net
+0.0.0.0 sc.liveclicker.net
+0.0.0.0 sc-va.liveclicker.net
+0.0.0.0 scdn.liveclicker.net
+0.0.0.0 static.liveclicker.net
+0.0.0.0 sv.liveclicker.net
+0.0.0.0 sv-va.liveclicker.net
+0.0.0.0 vcdn.liveclicker.net
+0.0.0.0 www.consumable.com
+0.0.0.0 consumable.com
+0.0.0.0 fridge.consumable.com
+0.0.0.0 kitchen.consumable.com
+0.0.0.0 landing.consumable.com
+0.0.0.0 publishers.consumable.com
+0.0.0.0 showcase.consumable.com
+0.0.0.0 vid.consumable.com
+0.0.0.0 welcome.consumable.com
+0.0.0.0 yummy.consumable.com
+0.0.0.0 vip5.afdorigin-prod-am02.afdogw.com
+0.0.0.0 co4.telecommand.telemetry.microsoft.com
+0.0.0.0 cs1137.wpc.gammacdn.net
+0.0.0.0 modern.watson.data.microsoft.com
+0.0.0.0 wpc.v0cdn.net
+0.0.0.0 iriscoremetadataprod.blob.core.windows.net
+0.0.0.0 cs11.wpc.v0cdn.net
