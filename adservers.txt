@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,380
+# Domain count: 33,396
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33386,3 +33386,17 @@
 0.0.0.0 wpc.v0cdn.net
 0.0.0.0 iriscoremetadataprod.blob.core.windows.net
 0.0.0.0 cs11.wpc.v0cdn.net
+0.0.0.0 airtel.sc.omtrdc.net
+0.0.0.0 ali-stats.jpush.cn
+0.0.0.0 api.exc.mob.com
+0.0.0.0 api2.branch.io
+0.0.0.0 apis.kostprice.com
+0.0.0.0 batchlogging4-noneu.truecaller.com
+0.0.0.0 image.moengage.com
+0.0.0.0 in.api.glance.inmobi.com
+0.0.0.0 kvinit-prod.api.kochava.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 net.rayjump.com
+0.0.0.0 norma-external-collect.meizu.com
+0.0.0.0 setting.rayjump.com
+0.0.0.0 srv-2019-08-17-17.pixel.parsely.com
