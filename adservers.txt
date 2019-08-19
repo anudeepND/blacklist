@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,396
+# Domain count: 33,426
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33400,3 +33400,35 @@
 0.0.0.0 norma-external-collect.meizu.com
 0.0.0.0 setting.rayjump.com
 0.0.0.0 srv-2019-08-17-17.pixel.parsely.com
+0.0.0.0 tracking.india.miui.com
+0.0.0.0 mitv.tracking.india.miui.com
+0.0.0.0 india.activity.browser.intl.miui.com
+0.0.0.0 collect.content.intl.miui.com
+0.0.0.0 sync.content.intl.miui.com
+0.0.0.0 api.collect.data.intl.miui.com
+0.0.0.0 log.avlyun.sec.intl.miui.com
+0.0.0.0 data.sec.intl.miui.com
+0.0.0.0 protect.dev.sec.intl.miui.com
+0.0.0.0 tracking.intl.miui.com
+0.0.0.0 mitv.tracking.intl.miui.com
+0.0.0.0 miuiboot.tracking.intl.miui.com
+0.0.0.0 tracking.rus.miui.com
+0.0.0.0 mitv.tracking.rus.miui.com
+0.0.0.0 analytics.ff.avast.sec.miui.com
+0.0.0.0 log-abroad.avlyun.sec.miui.com
+0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 data.sec.miui.com
+0.0.0.0 sentry.sec.miui.com
+0.0.0.0 stats.miui.com
+0.0.0.0 log.stats.miui.com
+0.0.0.0 mier.stats.miui.com
+0.0.0.0 staging.mier.stats.miui.com
+0.0.0.0 staging.stats.miui.com
+0.0.0.0 geofence.sys.miui.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 fcanr.tracking.miui.com
+0.0.0.0 mitv.tracking.miui.com
+0.0.0.0 miuiboot.tracking.miui.com
+0.0.0.0 router.tracking.miui.com
+0.0.0.0 sa.data.xk.miui.com
+0.0.0.0 fb.xk.miui.com
