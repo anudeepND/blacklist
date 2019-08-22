@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,495
+# Domain count: 33,533
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -9389,18 +9389,7 @@
 0.0.0.0 do20lhyguk.mentalist.kameleoon.com
 0.0.0.0 doane.qualtrics.com
 0.0.0.0 dobriymir.mirtesen.ru
-0.0.0.0 doc.adtech.de
-0.0.0.0 doc.cnzz.com
-0.0.0.0 docking.co1.qualtrics.com
-0.0.0.0 dock.inmobi.com
-0.0.0.0 docksalmon.com
-0.0.0.0 docmorrisde.widget.criteo.com
-0.0.0.0 doc.onthe.io
 0.0.0.0 doctorpk.mywibes.com
-0.0.0.0 documentation.unbounce.com
-0.0.0.0 documents.marketo.com
-0.0.0.0 documents.supersonicads.com
-0.0.0.0 doc.vidible.tv
 0.0.0.0 dolgozhitel.mirtesen.ru
 0.0.0.0 dolphinmusicuk.widget.criteo.com
 0.0.0.0 domaindevcorp-d.openx.net
@@ -31258,7 +31247,6 @@
 0.0.0.0 cx.contextweb.com
 0.0.0.0 demo.contextweb.com
 0.0.0.0 dht.contextweb.com
-0.0.0.0 doc.contextweb.com
 0.0.0.0 drts.contextweb.com
 0.0.0.0 ds.contextweb.com
 0.0.0.0 ds2.contextweb.com
@@ -33501,3 +33489,59 @@
 0.0.0.0 resources.admost.com
 0.0.0.0 run.admost.com
 0.0.0.0 web.admost.com
+0.0.0.0 vs-api.wshareit.com
+0.0.0.0 preitem.wshareit.com
+0.0.0.0 go.koten.zone
+0.0.0.0 reliancecorporateit.tt.omtrdc.net
+0.0.0.0 rum-collector-2.pingdom.net
+0.0.0.0 track.nextsmart.me
+0.0.0.0 dtm.advertising.com
+0.0.0.0 idiagnostics.apple.com
+0.0.0.0 log.tiktokv.com
+0.0.0.0 web.vortex.data.msn.com
+0.0.0.0 outcome-ssp.supersonicads.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 cf.iadsdk.apple.com
+0.0.0.0 tr.iadsdk.apple.com
+0.0.0.0 init.supersonicads.com
+0.0.0.0 cdn.adnxs.com
+0.0.0.0 googleadapis.l.google.com
+0.0.0.0 data.ad-score.com
+0.0.0.0 js.ad-score.com
+0.0.0.0 sin1.mobile.adnxs.com
+0.0.0.0 sdk-ios.ad.smaato.net
+0.0.0.0 video-api.yql.yahoo.com
+0.0.0.0 adspaces.ero-advertising.com
+0.0.0.0 aka-cdn.adtechus.com
+0.0.0.0 data.ero-advertising.com
+0.0.0.0 potternalballip.info
+0.0.0.0 prod-m-node-2111.ssp.advertising.com
+0.0.0.0 i.snssdk.com
+0.0.0.0 gd-stats.jpush.cn
+0.0.0.0 ladon.wshareit.com
+0.0.0.0 logger.suibyuming.com
+0.0.0.0 metok-ccc.intl.xiaomi.com
+0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 apps.ad.snappea.com
+0.0.0.0 mads.amazon.com
+0.0.0.0 ads.greengeeks.com
+0.0.0.0 tagan.adlightning.com
+0.0.0.0 track.vdo.ai
+0.0.0.0 f-log-mobile-ios.grammarly.io
+0.0.0.0 log-eap-in.coloros.com
+0.0.0.0 log.snow.me
+0.0.0.0 xlog-va.musical.ly
+0.0.0.0 adash.man.aliyuncs.com
+0.0.0.0 analytics.worldtable.co
+0.0.0.0 ca.intentmedia.net
+0.0.0.0 remarket.clicktripz.com
+0.0.0.0 prg.smartadserver.com
+0.0.0.0 cdn-ads.54646.co
+0.0.0.0 newads.rediff.com
+0.0.0.0 ad-delivery.net
+0.0.0.0 ad-cdn.technoratimedia.com
+0.0.0.0 tag.sp.advertising.com
+0.0.0.0 track.saygames.io
+0.0.0.0 service.idsync.analytics.yahoo.com
+0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 tag.idsync.analytics.yahoo.com
