@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,532
+# Domain count: 33,585
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33544,3 +33544,50 @@
 0.0.0.0 service.idsync.analytics.yahoo.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 tag.idsync.analytics.yahoo.com
+0.0.0.0 www.adgebra.in
+0.0.0.0 adgebra.in
+0.0.0.0 adtech.adgebra.in
+0.0.0.0 aktcdn.adgebra.in
+0.0.0.0 cdn.adgebra.in
+0.0.0.0 cnd.adgebra.in
+0.0.0.0 exchange1.adgebra.in
+0.0.0.0 gallery.adgebra.in
+0.0.0.0 preprod.login.adgebra.in
+0.0.0.0 native.adgebra.in
+0.0.0.0 preprodbe.adgebra.in
+0.0.0.0 preprodcft.adgebra.in
+0.0.0.0 products.adgebra.in
+0.0.0.0 publisher.adgebra.in
+0.0.0.0 adgebra.co.in
+0.0.0.0 www.adgebra.co.in
+0.0.0.0 intentmedia.net
+0.0.0.0 www.intentmedia.net
+0.0.0.0 a.intentmedia.net
+0.0.0.0 eu.a.intentmedia.net
+0.0.0.0 us-east-1.a.intentmedia.net
+0.0.0.0 adcache.intentmedia.net
+0.0.0.0 alb.intentmedia.net
+0.0.0.0 applink.intentmedia.net
+0.0.0.0 ca.intentmedia.net
+0.0.0.0 cdn.intentmedia.net
+0.0.0.0 a.cdn.intentmedia.net
+0.0.0.0 a1.cdn.intentmedia.net
+0.0.0.0 a2.cdn.intentmedia.net
+0.0.0.0 adapters.cdn.intentmedia.net
+0.0.0.0 m.cdn.intentmedia.net
+0.0.0.0 custom-audience.intentmedia.net
+0.0.0.0 eu.intentmedia.net
+0.0.0.0 internal.intentmedia.net
+0.0.0.0 dashportal.internal.intentmedia.net
+0.0.0.0 m.intentmedia.net
+0.0.0.0 multiregionca.intentmedia.net
+0.0.0.0 partner.intentmedia.net
+0.0.0.0 bookit.partner.intentmedia.net
+0.0.0.0 hipmunk.partner.intentmedia.net
+0.0.0.0 justfly.partner.intentmedia.net
+0.0.0.0 liligo.partner.intentmedia.net
+0.0.0.0 rentalhomes.partner.intentmedia.net
+0.0.0.0 reservations.partner.intentmedia.net
+0.0.0.0 routard.partner.intentmedia.net
+0.0.0.0 trivago.partner.intentmedia.net
+0.0.0.0 performance.intentmedia.net
