@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,585
+# Domain count: 33,606
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33591,3 +33591,24 @@
 0.0.0.0 routard.partner.intentmedia.net
 0.0.0.0 trivago.partner.intentmedia.net
 0.0.0.0 performance.intentmedia.net
+0.0.0.0 www.connectad.io
+0.0.0.0 connectad.io
+0.0.0.0 cdn.connectad.io
+0.0.0.0 connected-by.connectad.io
+0.0.0.0 connectedby.connectad.io
+0.0.0.0 control.connectad.io
+0.0.0.0 deliveredby.connectad.io
+0.0.0.0 demand.connectad.io
+0.0.0.0 e.connectad.io
+0.0.0.0 eu-1a.connectad.io
+0.0.0.0 eu-central-1b.connectad.io
+0.0.0.0 gbalancer.connectad.io
+0.0.0.0 i.connectad.io
+0.0.0.0 insight.connectad.io
+0.0.0.0 not-useast.connectad.io
+0.0.0.0 pilatus.connectad.io
+0.0.0.0 realtime.connectad.io
+0.0.0.0 sync.connectad.io
+0.0.0.0 sync-eu.connectad.io
+0.0.0.0 testing.connectad.io
+0.0.0.0 update.connectad.io
