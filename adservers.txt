@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,607
+# Domain count: 33,629
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33613,3 +33613,25 @@
 0.0.0.0 testing.connectad.io
 0.0.0.0 update.connectad.io
 0.0.0.0 events.api.bosecm.com
+0.0.0.0 www.cpmstar.com
+0.0.0.0 cpmstar.com
+0.0.0.0 bcdn.cpmstar.com
+0.0.0.0 cdn.cpmstar.com
+0.0.0.0 cdn2.cpmstar.com
+0.0.0.0 cdn3.cpmstar.com
+0.0.0.0 cdne.cpmstar.com
+0.0.0.0 ec.cdne.cpmstar.com
+0.0.0.0 ssl.cdne.cpmstar.com
+0.0.0.0 del2cdn.cpmstar.com
+0.0.0.0 l.cpmstar.com
+0.0.0.0 lw2cdn.cpmstar.com
+0.0.0.0 lw3cdn.cpmstar.com
+0.0.0.0 lwcdn.cpmstar.com
+0.0.0.0 origincdn.cpmstar.com
+0.0.0.0 pcdn.cpmstar.com
+0.0.0.0 server.cpmstar.com
+0.0.0.0 a2.server.cpmstar.com
+0.0.0.0 d5.server.cpmstar.com
+0.0.0.0 p3.server.cpmstar.com
+0.0.0.0 x1.server.cpmstar.com
+0.0.0.0 whalecdn.cpmstar.com
