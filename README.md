@@ -7,12 +7,20 @@
   &nbsp;&nbsp;
   <a href="https://liberapay.com/Anudeep/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 </p>
-
+          
 ## Host file to block trackers and advertisements
           
 A list of adserving and tracking sites maintained by me. This list will be updated frequently.   
 You can request additional domains or report exsisting domains via <a href="https://github.com/anudeepND/blacklist/issues">Issues</a> tab.
-   
+
+<br>          
+           
+|   Host File   | Domain Count |                                                                                                                                                                      Description                                                                                                                                                                      | Update Frequency |                                      Raw Link                                      |
+|:-------------:|:------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------:|:----------------------------------------------------------------------------------:|
+| adservers.txt | 33,685       | A reliable host file containing advertising domains, trackers, malwares and other unsafe domains. I collect these domains from my Pi-Hole and I test them for a few days before adding to the list. You can request additional domains or report existing domains via [issues](https://github.com/anudeepND/blacklist/issues) tab.                  | Frequently       | [link](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt) |
+| facebook.txt  | 3,121        | Host file containing domains related to facebook.com. This file doesn't block other Facebook products such as WhatsApp, Instagram etc. If you want to block all Facebook related services, use this [list](https://www.github.developerdan.com/hosts/lists/facebook-extended.txt) created by [lightswitch05](https://github.com/lightswitch05/hosts). | Occasionally     | [link](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt)   |
+| coinminer.txt | 5,940        | This host file was created when JavaScript miners were added to torrent sites. Most of the domain in this file are still active today. I recommend you to use [CoinBlockerLists](https://gitlab.com/ZeroDot1/CoinBlockerLists) by ZeroDot1 along with this list.                                                                                      | Discontinued     | [link](https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt) |
+      
 *** 
 
 ### Description
