@@ -22,15 +22,6 @@ You can request additional domains or report exsisting domains via <a href="http
 | coinminer.txt | 5,940        | This host file was created when JavaScript miners were added to torrent sites. Most of the domain in this file are still active today. I recommend you to use [CoinBlockerLists](https://gitlab.com/ZeroDot1/CoinBlockerLists) by ZeroDot1 along with this list.                                                                                      | Discontinued     | [link](https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt) |
       
 *** 
-
-### Description
-      
-This repo contains two files, *`CoinMiner.txt`* (*no longer maintained*) and *`adservers.txt`*.          
-To block cryptojacking sites, add *`CoinMiner.txt`* to your host file or blocklist.      
-To block ads and trackers, add *`adservers.txt`* to your host file or blocklist.           
-To block all domains related to facebook.com, add *`facebook.txt`* to your host file or blocklist.
-***
- 
 ### What is a host file?                 
        
  A hosts file, named hosts, is a plain-text file used by all operating systems to map hostnames to IP addresses. Host file preferred over DNS so  if a domain name is resolved by the hosts file, the request never leaves your computer.
