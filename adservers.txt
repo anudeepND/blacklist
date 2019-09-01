@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,629
+# Domain count: 33,685
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33635,3 +33635,59 @@
 0.0.0.0 p3.server.cpmstar.com
 0.0.0.0 x1.server.cpmstar.com
 0.0.0.0 whalecdn.cpmstar.com
+0.0.0.0 adserver.pressboard.ca
+0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 abtest-va-tiktok.byteoversea.com
+0.0.0.0 an.batmobi.net
+0.0.0.0 events-collector.spot.im
+0.0.0.0 img-cdn.wshareit.com
+0.0.0.0 ploy.batmobi.net
+0.0.0.0 static.trafficjunky.com
+0.0.0.0 z-na.amazon-adsystem.com
+0.0.0.0 fls-na.amazon-adsystem.com
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 gstaticadssl.l.google.com
+0.0.0.0 cdn4.buysellads.net
+0.0.0.0 ad.turn.com
+0.0.0.0 abc5.adtelligent.com
+0.0.0.0 abc4.adtelligent.com
+0.0.0.0 abc3.adtelligent.com
+0.0.0.0 abc2.adtelligent.com
+0.0.0.0 abc1.adtelligent.com
+0.0.0.0 cdn.adx1.com
+0.0.0.0 click.eu.adopexchange.com
+0.0.0.0 r.adport.io
+0.0.0.0 logger.unsplash.com
+0.0.0.0 xlog.byteoversea.com
+0.0.0.0 analytics.smallpdf.com
+0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
+0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
+0.0.0.0 publisher-config.unityads.unity3d.com
+0.0.0.0 c.one97adworks.com
+0.0.0.0 log.byteoversea.com
+0.0.0.0 mas-log.paas.paytm.com
+0.0.0.0 analytics.notifyvisitors.com
+0.0.0.0 api.c1oudmobi.net
+0.0.0.0 c.statcounter.com
+0.0.0.0 cdn.lenmit.com
+0.0.0.0 click.playstationmail.net
+0.0.0.0 cm-10-35.igexin.com
+0.0.0.0 config.quantumgraph.com
+0.0.0.0 dmx.districtm.io
+0.0.0.0 dmtracking2.alibaba.com
+0.0.0.0 events.airtel.tv
+0.0.0.0 ggsoftware-d.openx.net
+0.0.0.0 hb.aralego.com
+0.0.0.0 hb.emxdgt.com
+0.0.0.0 prebid.technoratimedia.com
+0.0.0.0 s.g.l.inmobicdn.net
+0.0.0.0 s2s.singular.net
+0.0.0.0 sdk.open.talk.igexin.com
+0.0.0.0 tracker.nitropay.com
+0.0.0.0 wv.inner-active.mobi
+0.0.0.0 display.bfmio.com
+0.0.0.0 logs.supersonic.com
+0.0.0.0 tag.marinsm.com
+0.0.0.0 tataunistore.demdex.net
+0.0.0.0 tataunistore.tt.omtrdc.net
+0.0.0.0 tataunistorelimited.sc.omtrdc.net
