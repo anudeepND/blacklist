@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 33,820
+# Domain count: 33,866
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33826,3 +33826,49 @@
 0.0.0.0 sdk.open.talk.igexin.com
 0.0.0.0 yunyi.talk.igexin.com
 0.0.0.0 testapn.igexin.com
+0.0.0.0 www.marinsm.com
+0.0.0.0 marinsm.com
+0.0.0.0 2ftracker.marinsm.com
+0.0.0.0 4123ml2969.marinsm.com
+0.0.0.0 412zyxpfmadi0918.marinsm.com
+0.0.0.0 ad.marinsm.com
+0.0.0.0 ads.marinsm.com
+0.0.0.0 bt3.marinsm.com
+0.0.0.0 cs.marinsm.com
+0.0.0.0 htttracker.marinsm.com
+0.0.0.0 larkspur.marinsm.com
+0.0.0.0 msuuid.marinsm.com
+0.0.0.0 pro.marinsm.com
+0.0.0.0 qa-tracker.marinsm.com
+0.0.0.0 racker.marinsm.com
+0.0.0.0 t3.marinsm.com
+0.0.0.0 t3-testing.marinsm.com
+0.0.0.0 t3bcp-orig.marinsm.com
+0.0.0.0 tag.marinsm.com
+0.0.0.0 tags.marinsm.com
+0.0.0.0 track.marinsm.com
+0.0.0.0 track-er.marinsm.com
+0.0.0.0 tracker.marinsm.com
+0.0.0.0 w-tracker.marinsm.com
+0.0.0.0 w2.marinsm.com
+0.0.0.0 x22tracker.marinsm.com
+0.0.0.0 www.inner-active.mobi
+0.0.0.0 inner-active.mobi
+0.0.0.0 ad-tag.inner-active.mobi
+0.0.0.0 cdn1.inner-active.mobi
+0.0.0.0 cdn2.inner-active.mobi
+0.0.0.0 client-events.inner-active.mobi
+0.0.0.0 event.inner-active.mobi
+0.0.0.0 event-staging.inner-active.mobi
+0.0.0.0 ia-cert.inner-active.mobi
+0.0.0.0 ia-client01.inner-active.mobi
+0.0.0.0 ia-vast.inner-active.mobi
+0.0.0.0 m2m1.inner-active.mobi
+0.0.0.0 register.inner-active.mobi
+0.0.0.0 retargeting.inner-active.mobi
+0.0.0.0 sdk-analytics.inner-active.mobi
+0.0.0.0 sdk-events.inner-active.mobi
+0.0.0.0 vast-events.inner-active.mobi
+0.0.0.0 vast-events-staging.inner-active.mobi
+0.0.0.0 video.inner-active.mobi
+0.0.0.0 wv.inner-active.mobi
