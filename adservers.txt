@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 34,111
+# Domain count: 34,110
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -32155,7 +32155,6 @@
 0.0.0.0 z1.news-subscribe.com
 0.0.0.0 zb.news-subscribe.com
 0.0.0.0 zt.news-subscribe.com
-0.0.0.0 b2bapi.zee5.com
 0.0.0.0 sb.voicefive.com
 0.0.0.0 www.qgraph.io
 0.0.0.0 api.qgraph.io
