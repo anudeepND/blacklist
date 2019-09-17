@@ -33484,7 +33484,6 @@
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 cdn.adnxs.com
-0.0.0.0 googleadapis.l.google.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 js.ad-score.com
 0.0.0.0 sin1.mobile.adnxs.com
@@ -34380,3 +34379,7 @@
 0.0.0.0 swoop.media.net
 0.0.0.0 testle.media.net
 0.0.0.0 whitelabelns.media.net
+0.0.0.0 stat.flashget.com
+0.0.0.0 supertracker.flashget.com
+0.0.0.0 cplog.flashget.com
+0.0.0.0 post.7p.com
