@@ -37337,3 +37337,11 @@
 0.0.0.0 qmjo2-z47jc.ads.tremorhub.com
 0.0.0.0 analytics.foresee.com
 0.0.0.0 trace.svc.ui.com
+0.0.0.0 d1vl8wytztdz.cloudfront.net
+0.0.0.0 edge-mcdn-beacon.secure.yahoo.com
+0.0.0.0 yahoovod.hs.llnwd.net
+0.0.0.0 vop-yahoo.akamaized.net
+0.0.0.0 edgecast-vod.yahoo.net
+0.0.0.0 vop-yahoo.akamaized.net
+0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 fundingchoices.google.com
