@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 37,331
+# Domain count: 37,358
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -37345,3 +37345,22 @@
 0.0.0.0 vop-yahoo.akamaized.net
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 fundingchoices.google.com
+0.0.0.0 www.datafirst.io
+0.0.0.0 datafirst.io
+0.0.0.0 bloom.datafirst.io
+0.0.0.0 boole.datafirst.io
+0.0.0.0 r.boole.datafirst.io
+0.0.0.0 carroll.datafirst.io
+0.0.0.0 creatives.datafirst.io
+0.0.0.0 fu.datafirst.io
+0.0.0.0 go.datafirst.io
+0.0.0.0 hawking.datafirst.io
+0.0.0.0 monitor.datafirst.io
+0.0.0.0 p.datafirst.io
+0.0.0.0 pascal.datafirst.io
+0.0.0.0 team.datafirst.io
+0.0.0.0 test.datafirst.io
+0.0.0.0 tracking.datafirst.io
+0.0.0.0 turing.datafirst.io
+0.0.0.0 vpn.datafirst.io
+0.0.0.0 yu.datafirst.io
