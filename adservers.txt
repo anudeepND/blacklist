@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 37,360
+# Domain count: 37,357
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33472,7 +33472,6 @@
 0.0.0.0 rum-collector-2.pingdom.net
 0.0.0.0 track.nextsmart.me
 0.0.0.0 dtm.advertising.com
-0.0.0.0 idiagnostics.apple.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 web.vortex.data.msn.com
 0.0.0.0 outcome-ssp.supersonicads.com
