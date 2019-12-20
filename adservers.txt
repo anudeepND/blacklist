@@ -5422,7 +5422,6 @@
 0.0.0.0 appapi.adsafeprotected.com
 0.0.0.0 app.appsflyer.com
 0.0.0.0 app-b.marketo.com
-0.0.0.0 app.box.com
 0.0.0.0 appboy.com
 0.0.0.0 appboy-images.com
 0.0.0.0 app.chat.xiaomi.net
