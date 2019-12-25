@@ -56,7 +56,14 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 ```
       
 ***    
+
+### Validation
+You can test if your ad blocker is working properly or not by visiting these websites:       
+https://ads-blocker.com/testing/            
+https://blockads.fivefilters.org/            
        
+***              
+            
 ### How do I determine an ad domain?     
    
 ***DNSthingy Assistant***      
