@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 37,357
+# Domain count: 37,414
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -37363,3 +37363,60 @@
 0.0.0.0 yu.datafirst.io
 0.0.0.0 propellerclick.com
 0.0.0.0 ie8eamus.com
+0.0.0.0 www.iwoop.com
+0.0.0.0 advertiser.iwoop.com
+0.0.0.0 api.iwoop.com
+0.0.0.0 postback.iwoop.com
+0.0.0.0 publisher.iwoop.com
+0.0.0.0 track.iwoop.com
+0.0.0.0 www.hexcan.com
+0.0.0.0 admin.hexcan.com
+0.0.0.0 advertiser.hexcan.com
+0.0.0.0 api.hexcan.com
+0.0.0.0 postback.hexcan.com
+0.0.0.0 publisher.hexcan.com
+0.0.0.0 track.hexcan.com
+0.0.0.0 www.altrooz.com
+0.0.0.0 c.altrooz.com
+0.0.0.0 imp.altrooz.com
+0.0.0.0 publisher.altrooz.com
+0.0.0.0 tracking.altrooz.com
+0.0.0.0 www.tracking.altrooz.com
+0.0.0.0 www.xapads.com
+0.0.0.0 acdn.xapads.com
+0.0.0.0 affiliates.xapads.com
+0.0.0.0 apps.xapads.com
+0.0.0.0 cake-admin.xapads.com
+0.0.0.0 cdn.xapads.com
+0.0.0.0 con1.xapads.com
+0.0.0.0 default.xapads.com
+0.0.0.0 dsp.xapads.com
+0.0.0.0 www.dsp.xapads.com
+0.0.0.0 dsp-us.xapads.com
+0.0.0.0 eu.xapads.com
+0.0.0.0 lp.xapads.com
+0.0.0.0 c.lp.xapads.com
+0.0.0.0 mad.xapads.com
+0.0.0.0 madserve.xapads.com
+0.0.0.0 mclick.xapads.com
+0.0.0.0 optimize.xapads.com
+0.0.0.0 pb.xapads.com
+0.0.0.0 pixel.xapads.com
+0.0.0.0 rtb.xapads.com
+0.0.0.0 www.rtb.xapads.com
+0.0.0.0 rtb-support.xapads.com
+0.0.0.0 delivery.s.xapads.com
+0.0.0.0 ssp.xapads.com
+0.0.0.0 supply.xapads.com
+0.0.0.0 track.xapads.com
+0.0.0.0 tracking.xapads.com
+0.0.0.0 trk.xapads.com
+0.0.0.0 us.xapads.com
+0.0.0.0 www.us.xapads.com
+0.0.0.0 vid.xapads.com
+0.0.0.0 vid-cpm.xapads.com
+0.0.0.0 vid-rtb.xapads.com
+0.0.0.0 xml-console.xapads.com
+0.0.0.0 xml-default.xapads.com
+0.0.0.0 xml-rtb.xapads.com
+0.0.0.0 xsp1.xapads.com
