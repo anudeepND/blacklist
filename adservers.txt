@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 37,731
+# Domain count: 37,730
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -20246,7 +20246,6 @@
 0.0.0.0 s.effectivemeasure.net
 0.0.0.0 segapi.quantserve.com
 0.0.0.0 segment-data.zqtk.net
-0.0.0.0 segment.hotstar.com
 0.0.0.0 segments.adaptv.advertising.com
 0.0.0.0 se-hd.cdn.videoplaza.tv
 0.0.0.0 se-hd.videoplaza.tv
