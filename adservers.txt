@@ -5243,7 +5243,6 @@
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobileapptracking.com
 0.0.0.0 api.mobile.cnzz.com
-0.0.0.0 api-mobi.soundcloud.com
 0.0.0.0 api.mobojoy.baidu.com
 0.0.0.0 api.mobpalm.com
 0.0.0.0 api.mobpowertech.com
