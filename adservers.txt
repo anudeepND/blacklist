@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 38,354
+# Domain count: 38,349
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -12338,7 +12338,6 @@
 0.0.0.0 hqczz.6hqk9cjhg.bapb.gdn
 0.0.0.0 hq.kissmetrics.com
 0.0.0.0 hqqsnz.mirtesen.ru
-0.0.0.0 hqq.tv
 0.0.0.0 hqq.watch
 0.0.0.0 hqs10.cnzz.com
 0.0.0.0 hqs11.cnzz.com
@@ -14116,7 +14115,6 @@
 0.0.0.0 json.moatads.com
 0.0.0.0 jsonp.moatads.com
 0.0.0.0 js.ptengine.cn
-0.0.0.0 js.pusher.com
 0.0.0.0 js.rekl.mirtesen.ru
 0.0.0.0 jss.adroll.com
 0.0.0.0 js-sdk.atom-data.io
@@ -25602,7 +25600,6 @@
 0.0.0.0 www.pablo.unbounce.com
 0.0.0.0 www.pagefair.com
 0.0.0.0 www.pages03.net
-0.0.0.0 www.parimatch.ru
 0.0.0.0 www.parsely.com
 0.0.0.0 www.partners.crittercism.com
 0.0.0.0 www.pcpop.com
@@ -31907,7 +31904,6 @@
 0.0.0.0 siliconanalytics.com
 0.0.0.0 www.vidcpm.com
 0.0.0.0 vidcpm.com
-0.0.0.0 x.ss2.us
 0.0.0.0 xhr.yallboen.com
 0.0.0.0 xml.popmonetizer.com
 0.0.0.0 xrgrymutlq.com
@@ -32049,7 +32045,6 @@
 0.0.0.0 ci.facebook-info.co
 0.0.0.0 nj.facebook-info.co
 0.0.0.0 f4.facebook-info.co
-0.0.0.0 arc.msn.com
 0.0.0.0 www.news-subscribe.com
 0.0.0.0 1c.news-subscribe.com
 0.0.0.0 1k.news-subscribe.com
