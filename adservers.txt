@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 38,348
+# Domain count: 38,340
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -7670,8 +7670,6 @@
 0.0.0.0 choate.co1.qualtrics.com
 0.0.0.0 choice.atdmt.com
 0.0.0.0 choice.demdex.net
-0.0.0.0 choice.microsoft.com
-0.0.0.0 choice.microsoft.com.nsatc.net
 0.0.0.0 chrisl1.112.2o7.net
 0.0.0.0 christde.widget.criteo.com
 0.0.0.0 christushealthsjc.d1.sc.omtrdc.net
@@ -21799,10 +21797,6 @@
 0.0.0.0 starwoodhotels.102.112.2o7.net
 0.0.0.0 stash.revcontent.com
 0.0.0.0 stas.outbrain.com
-0.0.0.0 stat1.moneycontrol.com
-0.0.0.0 stat2.moneycontrol.com
-0.0.0.0 stat3.moneycontrol.com
-0.0.0.0 stat4.moneycontrol.com
 0.0.0.0 statcounter.com
 0.0.0.0 statebankrewardz.com
 0.0.0.0 statesmanjournal.com.ssl.d1.sc.omtrdc.net
@@ -24933,7 +24927,6 @@
 0.0.0.0 wsp.hiido.com
 0.0.0.0 wsp.mgid.com
 0.0.0.0 wsp.steepto.com
-0.0.0.0 ws.pusherapp.com
 0.0.0.0 wsq.umeng.com
 0.0.0.0 wss.cnzz.com
 0.0.0.0 wss.pollfish.com
