@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 38,340
+# Domain count: 38,337
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -33021,9 +33021,6 @@
 0.0.0.0 in.api.glance.inmobi.com
 0.0.0.0 log2.musical.ly
 0.0.0.0 media-static.adsafeprotected.com
-0.0.0.0 services.ludokingapi.com
-0.0.0.0 misc-services.ludokingapi.com
-0.0.0.0 json.ludokingapi.com
 0.0.0.0 d.applvn.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 ms.applovin.com
