@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 38,337
+# Domain count: 38,334
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -8335,7 +8335,6 @@
 0.0.0.0 cruyff.alphonso.tv
 0.0.0.0 crv-forum.de.intellitxt.com
 0.0.0.0 crystalski.ie.102.112.2o7.net
-0.0.0.0 cs1.wpc.v0cdn.net
 0.0.0.0 cs.332-d.com
 0.0.0.0 cs9hjajhfwpfgbjgyyspeg6z6jd8x1508207690.nuid.imrworldwide.com
 0.0.0.0 cs.ace.advertising.com
@@ -33117,9 +33116,7 @@
 0.0.0.0 co4.telecommand.telemetry.microsoft.com
 0.0.0.0 cs1137.wpc.gammacdn.net
 0.0.0.0 modern.watson.data.microsoft.com
-0.0.0.0 wpc.v0cdn.net
 0.0.0.0 iriscoremetadataprod.blob.core.windows.net
-0.0.0.0 cs11.wpc.v0cdn.net
 0.0.0.0 tracking-opi.fonpit.de
 0.0.0.0 www.heapanalytics.com
 0.0.0.0 cdn.heapanalytics.com
