@@ -14461,7 +14461,6 @@
 0.0.0.0 kzyrg.voluumtrk.com
 0.0.0.0 l1.konotor.com
 0.0.0.0 l1.zedo.com
-0.0.0.0 l2.io
 0.0.0.0 l2.visiblemeasures.com
 0.0.0.0 l3-assets.applovin.com
 0.0.0.0 l3-img.applovin.com
