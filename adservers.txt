@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 38,713
+# Domain count: 38,718
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -38718,3 +38718,8 @@
 0.0.0.0 ua-campaign-creation-api.voodoo.io
 0.0.0.0 ua-campaign-creation-ui.voodoo.io
 0.0.0.0 v2-publidash-api.voodoo.io
+0.0.0.0 co4.telecommand.telemetry.microsoft.com.akadns.net
+0.0.0.0 co4.telecommand.telemetry.microsoft.com
+0.0.0.0 tls.telemetry.swe.quicinc.com
+0.0.0.0 telemetry.dropbox.com
+0.0.0.0 telemetry.v.dropbox.com
