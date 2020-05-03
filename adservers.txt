@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 38,569
+# Domain count: 38,590
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -38575,3 +38575,24 @@
 0.0.0.0 trackla.stackla.com
 0.0.0.0 onclicktop.com
 0.0.0.0 velocecdn.com
+0.0.0.0 vz-cdn2.adtng.com
+0.0.0.0 hw-cdn2.adtng.com
+0.0.0.0 mobile-http-intake.logs.datadoghq.com
+0.0.0.0 adtrack.ministerial5.com
+0.0.0.0 an.yandex.ru
+0.0.0.0 dapi.hmdglobal.net
+0.0.0.0 marketplace-analytics.postaffiliatepro.com
+0.0.0.0 smetrics.puma.com
+0.0.0.0 metrics.articulate.com
+0.0.0.0 stats.count.ly
+0.0.0.0 pps-log.op-mobile.opera.com
+0.0.0.0 pixel.sellics.com
+0.0.0.0 app-06.engage.jio.com
+0.0.0.0 metric.nimo.tv
+0.0.0.0 sms-in.ads.oppomobile.com
+0.0.0.0 stat.gamedl.qq.com
+0.0.0.0 ad2.mobring.co
+0.0.0.0 ads.mobring.co
+0.0.0.0 js.hsadspixel.net
+0.0.0.0 hsadspixel.net
+0.0.0.0 www.hsadspixel.net
