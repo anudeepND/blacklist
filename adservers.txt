@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 40,824
+# Domain count: 40,821
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -19703,7 +19703,6 @@
 0.0.0.0 s3import.vidible.tv
 0.0.0.0 s3.smi2.net
 0.0.0.0 s3so.tlnk.io
-0.0.0.0 s3.tradingview.com
 0.0.0.0 s3.vuukle.com
 0.0.0.0 s40.cnzz.com
 0.0.0.0 s40is.histats.com
@@ -20713,7 +20712,6 @@
 0.0.0.0 sneakystamp.com
 0.0.0.0 sneezy.aws.rubiconproject.com
 0.0.0.0 snet.onthe.io
-0.0.0.0 s-new.tradingview.com
 0.0.0.0 sng-d.openx.net
 0.0.0.0 snhu.qualtrics.com
 0.0.0.0 sni.co1.qualtrics.com
@@ -21993,7 +21991,6 @@
 0.0.0.0 stormyshock.com
 0.0.0.0 stormysponge.com
 0.0.0.0 storstockholmslokaltrafik.d1.sc.omtrdc.net
-0.0.0.0 s.tradingview.com
 0.0.0.0 strah.mirtesen.ru
 0.0.0.0 straightnest.com
 0.0.0.0 straighttalk.inq.com
@@ -24648,7 +24645,6 @@
 0.0.0.0 widget.cnzz.com
 0.0.0.0 widget.criteo.com
 0.0.0.0 widget.crowdynews.com
-0.0.0.0 widgetdata.tradingview.com
 0.0.0.0 widget.dynamic.advertising.com
 0.0.0.0 widget.eu.criteo.com
 0.0.0.0 widget.fr.eu.criteo.com
@@ -40830,3 +40826,4 @@
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 web-analytics.smile.io
 0.0.0.0 track.wattpad.com
+0.0.0.0 snowplow-pixel.tradingview.com
