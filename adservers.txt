@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 40,821
+# Domain count: 40,815
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -5728,7 +5728,6 @@
 0.0.0.0 assets2.getsocial.io
 0.0.0.0 assets2.rubiconproject.com
 0.0.0.0 assets3.getsocial.io
-0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.adtech.de
 0.0.0.0 assets.adtechus.com
 0.0.0.0 assets.alphonso.tv
@@ -10055,7 +10054,6 @@
 0.0.0.0 etihad.eu.qualtrics.com
 0.0.0.0 etisalat.au1.qualtrics.com
 0.0.0.0 et.kissmetrics.com
-0.0.0.0 etl.tindersparks.com
 0.0.0.0 etomtailorde.widget.criteo.com
 0.0.0.0 etrzz.qlvfyxtzjh5.bapb.gdn
 0.0.0.0 ets-cn-north-1.smaato.net
@@ -14774,7 +14772,6 @@
 0.0.0.0 logging.at.atwola.com
 0.0.0.0 logging.glogging.ar.atwola.com
 0.0.0.0 logging.trakingpixel.com
-0.0.0.0 loggly.com
 0.0.0.0 log.hiido.com
 0.0.0.0 log.hm.baidu.com
 0.0.0.0 logicimmoloc.widget.criteo.com
@@ -24226,8 +24223,6 @@
 0.0.0.0 video.unbounce.com
 0.0.0.0 vi.dev.fwmrm.net
 0.0.0.0 vidgyor.com
-0.0.0.0 vidibledemo.vidible.tv
-0.0.0.0 vidible.tv
 0.0.0.0 vidilife.crwdcntrl.net
 0.0.0.0 vid.pubmatic.com
 0.0.0.0 vid.springserve.com
@@ -26021,7 +26016,6 @@
 0.0.0.0 yts.moatads.com
 0.0.0.0 yts.moatads.comyts.moatads.com
 0.0.0.0 ytzcom.adk2x.com
-0.0.0.0 yui.yahooapis.com
 0.0.0.0 yum.kissmetrics.com
 0.0.0.0 yuriyudaev.mirtesen.ru
 0.0.0.0 yuwvkeaje1zksz2j9x4zsmmgfev9q1510351550.nuid.imrworldwide.com
