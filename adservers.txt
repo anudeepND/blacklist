@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 43,108
+# Domain count: 43,111
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -12195,7 +12195,6 @@
 0.0.0.0 hotelreservierungde.widget.criteo.com
 0.0.0.0 hotels.tlnk.io
 0.0.0.0 hothardware-electronics.t.domdex.com
-0.0.0.0 hotstar.worldgravity.com
 0.0.0.0 hotwire.com.102.112.2o7.net
 0.0.0.0 housead.umeng.com
 0.0.0.0 housetripde.widget.criteo.com
@@ -37432,7 +37431,6 @@
 0.0.0.0 sitestats.ets.org
 0.0.0.0 analytics.spayee.in
 0.0.0.0 www.yusp.com
-0.0.0.0 hotstar-sin.gravityrd-services.com
 0.0.0.0 persona.hotstar.com
 0.0.0.0 reveal.clearbit.com
 0.0.0.0 cdn.emetriq.de
@@ -43114,3 +43112,8 @@
 0.0.0.0 us.linkury.com
 0.0.0.0 vc-stats.linkury.com
 0.0.0.0 ws-cloud.linkury.com
+0.0.0.0 logfiles.zoom.us
+0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
+0.0.0.0 clicks.beap.bc.yahoo.com
+0.0.0.0 bifrost-api.hotstar.com
+0.0.0.0 vs.hotstar.com
