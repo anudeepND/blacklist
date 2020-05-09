@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,654
+# Domain count: 42,597
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -39483,63 +39483,6 @@
 0.0.0.0 t.riverhit.com
 0.0.0.0 riverhit.com
 0.0.0.0 www.riverhit.com
-0.0.0.0 www.trafficdeposit.com
-0.0.0.0 trafficdeposit.com
-0.0.0.0 c1.trafficdeposit.com
-0.0.0.0 c10.trafficdeposit.com
-0.0.0.0 c11.trafficdeposit.com
-0.0.0.0 c2.trafficdeposit.com
-0.0.0.0 c3.trafficdeposit.com
-0.0.0.0 c4.trafficdeposit.com
-0.0.0.0 c5.trafficdeposit.com
-0.0.0.0 c6.trafficdeposit.com
-0.0.0.0 c7.trafficdeposit.com
-0.0.0.0 c8.trafficdeposit.com
-0.0.0.0 c9.trafficdeposit.com
-0.0.0.0 cs.trafficdeposit.com
-0.0.0.0 issou.trafficdeposit.com
-0.0.0.0 s1.trafficdeposit.com
-0.0.0.0 s1-1.trafficdeposit.com
-0.0.0.0 s10.trafficdeposit.com
-0.0.0.0 s10-1.trafficdeposit.com
-0.0.0.0 s11.trafficdeposit.com
-0.0.0.0 s11-1.trafficdeposit.com
-0.0.0.0 s12.trafficdeposit.com
-0.0.0.0 s12-1.trafficdeposit.com
-0.0.0.0 s13.trafficdeposit.com
-0.0.0.0 s13-1.trafficdeposit.com
-0.0.0.0 s14.trafficdeposit.com
-0.0.0.0 s14-1.trafficdeposit.com
-0.0.0.0 s15.trafficdeposit.com
-0.0.0.0 s15-1.trafficdeposit.com
-0.0.0.0 s16.trafficdeposit.com
-0.0.0.0 s16-1.trafficdeposit.com
-0.0.0.0 s17.trafficdeposit.com
-0.0.0.0 s17-1.trafficdeposit.com
-0.0.0.0 s18.trafficdeposit.com
-0.0.0.0 s18-1.trafficdeposit.com
-0.0.0.0 s19.trafficdeposit.com
-0.0.0.0 s19-1.trafficdeposit.com
-0.0.0.0 s2.trafficdeposit.com
-0.0.0.0 s2-1.trafficdeposit.com
-0.0.0.0 s20.trafficdeposit.com
-0.0.0.0 s20-1.trafficdeposit.com
-0.0.0.0 s3.trafficdeposit.com
-0.0.0.0 s3-1.trafficdeposit.com
-0.0.0.0 s4.trafficdeposit.com
-0.0.0.0 s4-1.trafficdeposit.com
-0.0.0.0 s5.trafficdeposit.com
-0.0.0.0 s5-1.trafficdeposit.com
-0.0.0.0 s6.trafficdeposit.com
-0.0.0.0 s6-1.trafficdeposit.com
-0.0.0.0 s7.trafficdeposit.com
-0.0.0.0 s7-1.trafficdeposit.com
-0.0.0.0 s8.trafficdeposit.com
-0.0.0.0 s8-1.trafficdeposit.com
-0.0.0.0 s9.trafficdeposit.com
-0.0.0.0 s9-1.trafficdeposit.com
-0.0.0.0 sql.trafficdeposit.com
-0.0.0.0 sql2.trafficdeposit.com
 0.0.0.0 adserver.adreactor.com
 0.0.0.0 adreactor.com
 0.0.0.0 www.adreactor.com
