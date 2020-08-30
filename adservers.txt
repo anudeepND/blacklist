@@ -39508,6 +39508,7 @@
 0.0.0.0 static.runative.com
 0.0.0.0 runative.com
 0.0.0.0 cdn.runative-syndicate.com
+0.0.0.0 lcdn.runative-syndicate.com
 0.0.0.0 pixel.runative-syndicate.com
 0.0.0.0 runative-syndicate.com
 0.0.0.0 www.runative-syndicate.com
