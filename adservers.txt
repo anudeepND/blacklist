@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,596
+# Domain count: 42,592
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -4687,7 +4687,6 @@
 0.0.0.0 afj.co1.qualtrics.com
 0.0.0.0 afn2emkeuxv9sg2kvc2jtgk1o42vk1509495120.nuid.imrworldwide.com
 0.0.0.0 afon2.voluumtrk.com
-0.0.0.0 aforismi.meglio.it
 0.0.0.0 afrikaroman.de.intellitxt.com
 0.0.0.0 afrika-travel.de.intellitxt.com
 0.0.0.0 afs.moatads.com
@@ -7925,7 +7924,6 @@
 0.0.0.0 cocacola360.qualtrics.com
 0.0.0.0 codanforsikring.d1.sc.omtrdc.net
 0.0.0.0 code.crazyegg.com
-0.0.0.0 code.ionicframework.com
 0.0.0.0 code.kissmetrics.com
 0.0.0.0 codeofduty.criteo.com
 0.0.0.0 code.revcontent.com
@@ -8923,7 +8921,6 @@
 0.0.0.0 delaware.ca1.qualtrics.com
 0.0.0.0 delaware.qualtrics.com
 0.0.0.0 delegatediscussion.com
-0.0.0.0 del.icio.us
 0.0.0.0 delightdriving.com
 0.0.0.0 deliver.marketo.com
 0.0.0.0 delivery11.trafficjunky.net
@@ -20569,7 +20566,6 @@
 0.0.0.0 smarttravel-d.openx.net
 0.0.0.0 smart.txexp.exelator.com
 0.0.0.0 smeal.qualtrics.com
-0.0.0.0 s-media-cache-ak0.pinimg.com
 0.0.0.0 smehbezgranic.mirtesen.ru
 0.0.0.0 sme.prod.vidible.tv
 0.0.0.0 sme.stage.vidible.tv
@@ -31722,7 +31718,6 @@
 0.0.0.0 newsupdatewe.info
 0.0.0.0 p45866.clksite.com
 0.0.0.0 seriencev.com
-0.0.0.0 statics.streamable.com
 0.0.0.0 tracker.rqmob.com
 0.0.0.0 myshopify-admin-privacy.ml
 0.0.0.0 ec83cce4c209447a2af3d62f2.litix.io
