@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,591
+# Domain count: 42,585
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -17545,7 +17545,6 @@
 0.0.0.0 payments.stage.vertamedia.com
 0.0.0.0 paypal.d1.sc.omtrdc.net
 0.0.0.0 paypalssl.doubleclick.net
-0.0.0.0 paytmofferlive.wpengine.com
 0.0.0.0 pay-tm-partner.in
 0.0.0.0 paytm-postcard.new-free-offer.in
 0.0.0.0 pb.adriver.ru
@@ -18158,7 +18157,6 @@
 0.0.0.0 pl-goldbach.videoplaza.tv
 0.0.0.0 plista.com
 0.0.0.0 pl.ksmobile.net
-0.0.0.0 pls.marketo.comm
 0.0.0.0 pluralsight.hb.omtrdc.net
 0.0.0.0 pluralsight.tt.omtrdc.net
 0.0.0.0 pl-v2.presage.io
@@ -20761,7 +20759,6 @@
 0.0.0.0 speednetwork8.adk2x.com
 0.0.0.0 speednetwork9.adk2x.com
 0.0.0.0 speedousa.com.102.112.2o7.net
-0.0.0.0 speedtest.com
 0.0.0.0 speed.trkmobile.xyz
 0.0.0.0 spf.qualtrics.com
 0.0.0.0 spg.demandbase.com
@@ -31594,7 +31591,6 @@
 0.0.0.0 collector1.xhamster.com
 0.0.0.0 comnewsupdate.info
 0.0.0.0 constintptr.com
-0.0.0.0 data.api.cnn.io
 0.0.0.0 dgafgadsgkjg.top
 0.0.0.0 exercially.mobi
 0.0.0.0 fedifice-prionald.com
@@ -39350,7 +39346,6 @@
 0.0.0.0 dbpartner.propellerads.com
 0.0.0.0 dbread.propellerads.com
 0.0.0.0 dbticket.propellerads.com
-0.0.0.0 deploy.propellerads.comm
 0.0.0.0 ecpm_api.propellerads.com
 0.0.0.0 erpdev.propellerads.com
 0.0.0.0 fa.propellerads.com
@@ -42469,7 +42464,6 @@
 0.0.0.0 attribution.impactradius.com
 0.0.0.0 cdn.impactradius.com
 0.0.0.0 trk.chn.impactradius.com
-0.0.0.0 1-envato-market.ct.impactradius.com
 0.0.0.0 affiliate-alpharooms-com.ct.impactradius.com
 0.0.0.0 afflnk-microsoft-com.ct.impactradius.com
 0.0.0.0 go-corsair-com.ct.impactradius.com
