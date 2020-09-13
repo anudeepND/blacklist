@@ -1,112 +1,187 @@
-<p align="center">
-  <img width="460" height="120" src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/logo.png">
-</p>
-<br>     
-<p align="center">  
-  <a href="https://paypal.me/anudeepND" target="_blank"><img alt="Donate using Paypal" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
-  &nbsp;&nbsp;
-  <a href="https://liberapay.com/Anudeep/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
-</p>
-          
-## Host file to block trackers and advertisements
-          
-A list of adserving and tracking sites maintained by me. This list will be updated frequently.   
-You can request additional domains or report exsisting domains via <a href="https://github.com/anudeepND/blacklist/issues">Issues</a> tab.
+<div align="center">  
+  <img width="440" height="110" src="https://github.com/anudeepnd/blacklist/blob/master/blacklist-logo.png" alt="logo" />
+</div>
+&nbsp;
+&nbsp;
 
-<br>          
-           
-|   Host File   | Domain Count |                                                                                                                                                                      Description                                                                                                                                                                      | Update Frequency |                                      Raw Link                                      |
-|:-------------:|:------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------:|:----------------------------------------------------------------------------------:|
-| adservers.txt | 42,585      | A reliable host file containing advertising domains, trackers, malwares and other unsafe domains. I collect these domains from my Pi-Hole and I test them for a few days before adding to the list. You can request additional domains or report existing domains via [issues](https://github.com/anudeepND/blacklist/issues) tab.                  | Frequently       | [link](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt) |
-| facebook.txt  | 4,000        | Host file containing domains related to facebook.com. This file doesn't block other Facebook products such as WhatsApp, Instagram etc. If you want to block all Facebook related services, use this [list](https://www.github.developerdan.com/hosts/lists/facebook-extended.txt) created by [lightswitch05](https://github.com/lightswitch05/hosts). | Occasionally     | [link](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt)   |
-| coinminer.txt | 5,940        | This host file was created when JavaScript miners were added to torrent sites. Most of the domain in this file are still active today. I recommend you to use [CoinBlockerLists](https://gitlab.com/ZeroDot1/CoinBlockerLists) by ZeroDot1 along with this list.                                                                                      | Discontinued     | [link](https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt) |
-      
-*** 
-### What is a host file?                 
-       
- A hosts file, named hosts, is a plain-text file used by all operating systems to map hostnames to IP addresses. Host file preferred over DNS so  if a domain name is resolved by the hosts file, the request never leaves your computer.
-       
+<div align="center"> 
+  <a href="#" > 
+    <img src="https://img.shields.io/github/repo-size/anudeepnd/blacklist?label=Repo%20Size&color=orange" alt="repo size" >
+  <a/>  
+   <a href="#" > 
+    <img src="https://img.shields.io/github/last-commit/anudeepnd/blacklist?label=Last%20Updated" alt="last updated" >
+  <a/>
+   <a href="https://github.com/anudeepND/blacklist/commits/master" > 
+    <img src="https://img.shields.io/github/commit-activity/m/anudeepnd/blacklist?label=Commit%20Activity" alt="commit activity" >
+  <a/>
+  <a href="https://hosts-status.anudeep.me/" > 
+    <img src="https://img.shields.io/uptimerobot/ratio/7/m785959073-f59c0148484c7e812c476c57?label=Mirror%20Uptime" alt="Mirror Uptime" >
+  <a/>
+  <a href="https://github.com/anudeepND/blacklist/issues" > 
+    <img src="https://img.shields.io/github/issues-raw/anudeepnd/blacklist?label=Open%20Issues&color=critical" alt="open issues" >
+  <a/>
+  <a href="https://github.com/anudeepND/blacklist/issues?q=is%3Aissue+is%3Aclosed" > 
+    <img src="https://img.shields.io/github/issues-closed-raw/anudeepnd/blacklist?label=Closed%20Issues&color=inactive" alt="closed issues" >
+  <a/>
+  <a href="https://github.com/anudeepND/blacklist/graphs/contributors" > 
+    <img src="https://img.shields.io/github/contributors/anudeepnd/blacklist?label=Contributors&color=yellow" alt="contributors" >
+  <a/>
+  <a href="https://github.com/anudeepND/blacklist/blob/master/LICENSE" > 
+    <img src="https://img.shields.io/github/license/anudeepnd/blacklist?label=License&color=blueviolet" alt="license" >
+  <a/>
+
+</div>
+
+<div align="center">
+  <h1>Curated host file to block trackers and advertisements</h1> 
+</div>
+
+</div>
+<div align="center">
+A well-maintained and curated host file containing domains that serve ads, tracking scripts and malware. Each domain and tested and verified before addding to the list. Any reported false positives will be removed as soon as possible. You can request additional domains or report false positives via <a href="https://github.com/anudeepND/blacklist/issues">Issues</a> tab.
+</div>
+
+<div align="center">
+  <h3>
+    <a href="https://blockads.fivefilters.org/">
+      Check
+    </a>
+    <span> | </span>
+    <a href="https://hosts.anudeep.me/mirror/">
+      Mirror
+    </a>
+    <span> | </span>
+    <a href="https://github.com/anudeepND/blacklist/issues">
+      Submit Issue
+    </a>
+    <span> | </span>
+    <a href="https://github.com/anudeepND/blacklist/pulls">
+      Submit PR
+    </a>
+    <span> | </span>
+    <a href="https://www.paypal.com/paypalme/anudeepND">
+      Donate
+    </a>
+  </h3>
+</div>       
+&nbsp;
+&nbsp;
+
 ***
-           
-### Location of your hosts file               
-       
-***Mac OS X, Android, Linux:*** `/etc/hosts`          
-***Winodws 7, 8.0, 8.1, 10:*** `C:\WINDOWS\system32\drivers\etc\hosts`         
-***Windows 2000:*** `C:\WINNT\system32\drivers\etc\hosts`
-       
- ***
-       
-### Usage            
-           
-***Windows:*** Windows users can use this host file with [Hostman](http://www.abelhadigital.com/hostsman/), a software to manage host file.       
-     
-***Android:*** For non-rooted devices, this host can be used with [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), a free and open-source ad-blocker.     
-     
-For rooted device, this host file can be used with [AdAway](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.    
-     
-***Linux:*** An open-source host file manager called [hBlock](https://github.com/hectorm/hBlock).   
-       
-***Mac OS:*** This host file can be used with [gasmask](https://github.com/2ndalpha/gasmask).    
-      
-*If you are using Pi-Hole, you can add this to your blocklist.*      
-```
-https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
-https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
-```
-      
-***    
 
-### Validation
+## <ins>Table of contents</ins>
+- [Features](#features)
+- [Who can use this file](#who-can-use-this-file)
+- [Overview](#overview)
+- [Usage](#usage)
+- [Validation](#validation)
+- [How do I determine an ad domain?](#how-do-i-determine-an-ad-domain)
+- [Featured in](#featured-in)
+- [Stargazers over time ](#stargazers-over-time)
+- [Support](#support)
+- [License ](#license)
+
+***
+
+## <ins>Features</ins>
+- __Host file:__ Based on `hosts` file, all the bad domains are blocked with `0.0.0.0`
+- __Any device:__ Compatible with all devices, regardless of OS.
+- __Blockings:__ Strictly blocks `advertisements, malwares, spams, spyware & trackers` and prevents your system from connecting to them.
+- __Page load time:__ Quicker loading and cleaner looking web pages with fewer distractions.
+- __Privacy:__ Helps to `increase` privacy by blocking online trackers.
+- __Efficient:__ Lower resource waste (bandwidth, CPU, memory, battery etc.).
+- __Curated:__ Each domain and tested and verified before adding to the list.
+- __Well maintained:__ Domains are regularly updated and false positives will be addressed quickly. 
+- __Mirror:__ All the files are available in mirror which provides `Last-Modified` header and has [__`99.99% uptime`__](https://hosts-status.anudeep.me/).
+
+## <ins>Who can use this file?</ins>
+
+These host files for Unix-like systems, the list contain domains that serve ads, tracking scripts and malware after adding this list to your setup, it prevents your system from connecting to them. Host file preferred over DNS so if a domain name is resolved by the hosts file, the request never leaves your computer.
+
+## <ins>Overview</ins>
+
+<div align="center">
+  
+  __It is highly recommended to use the mirror link as it provides `Last-Modified` header which ensures that you are getting the latest version. And the mirror has [`99.99% uptime`](https://hosts-status.anudeep.me/).__
+  
+| Host File | Domain Count | Description | Update Frequency | Raw Link | Mirror Link |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| adservers.txt | 42,585 | A reliable host file containing advertising domains, trackers, malwares and other unsafe domains. I collect these domains from my Pi-Hole and I test them for a few days before adding to the list. You can request additional domains or report existing domains via [issues](https://github.com/anudeepND/blacklist/issues) tab. | Frequently | [link](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt) | [link](https://hosts.anudeep.me/mirror/adservers.txt) |
+| facebook.txt | 4,000 | Host file containing domains related to facebook.com. This file doesn't block other Facebook products such as WhatsApp, Instagram etc. If you want to block all Facebook related services, use this [list](https://www.github.developerdan.com/hosts/lists/facebook-extended.txt) created by [lightswitch05](https://github.com/lightswitch05/hosts). | Occasionally | [link](https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt) | [link](https://hosts.anudeep.me/mirror/facebook.txt) |
+| coinminer.txt | 5,940 | This host file was created when JavaScript miners were added to torrent sites. Most of the domain in this file are still active today. I recommend you to use [CoinBlockerLists](https://gitlab.com/ZeroDot1/CoinBlockerLists) by ZeroDot1 along with this list. | Discontinued | [link](https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt) | [link](https://hosts.anudeep.me/mirror/CoinMiner.txt) |
+  
+</div>
+
+## <ins>Usage</ins>
+
+This host file can be used on any device including Android, iOS, Linux, MacOS, routers with custom firmware etc.   __It is highly recommended to use the mirror link as it provides `Last-Modified` header which ensures that you are getting the latest version. And the mirror has [`99.99% uptime`](https://hosts-status.anudeep.me/).__
+
+- __Rooted Android:__ For rooted device, this host file can be used with [__`AdAway`__](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.
+- __Non-rooted Android:__ For non-rooted devices, you can use [__`DNS66`__](https://github.com/julian-klode/dns66), [__`BLOKADA`__](https://blokada.org/), [__`Personal DNS Filter`__](https://www.zenz-solutions.de/personaldnsfilter/) or [__`Nebulo`__](https://nebulo.app/source).
+- __iOS:__ You can use [__`BLOKADA`__](https://apps.apple.com/us/app/blokada/id1508341781)
+__MacOS:__ This host file can be used with [__`gasmask`__](https://github.com/2ndalpha/gasmask).    
+- __Windows:__ On Windows, you can use [__`HostsMan`__](http://www.abelhadigital.com/hostsman/) to get the best Windows Hosts Usage Experience. Make sure to disable DNS Client Service.
+- __Linux:__ There are many scripts available on the Internet that will add the hosts to you. Or you can modify the `/etc/hosts`.
+- __DNS based adblockers:__ These files are compatible with DNS based adblockers such as [__`Pi-hole`__](https://github.com/pi-hole/pi-hole) and [__`AdGuardHome`__](https://github.com/AdguardTeam/AdGuardHome).
+- __Adblockers:__ This list is compatible with [__`uBlock`__](https://github.com/gorhill/uBlock), [__`AdGuard`__](https://adguard.com/en/welcome.html) or any other extension, software & app.
+
+For further assistance, you can send a DM to me on [`Twitter`](https://twitter.com/anudeepnd).  
+
+## <ins>Validation</ins>
 You can test if your ad blocker is working properly or not by visiting these websites:       
 https://ads-blocker.com/testing/            
-https://blockads.fivefilters.org/            
-       
-***              
+https://blockads.fivefilters.org/                         
             
-### How do I determine an ad domain?     
-   
-***DNSthingy Assistant***      
-        
-<a href="https://chrome.google.com/webstore/detail/dnsthingy-assistant/fdmpekabnlekabjlimjkfmdjajnddgpc">This browser extension</a> will list all of the domains that are queried when a web page is loaded. You can often look at the list of domains and cherry pick the ones that appear to be ad-serving domains.
+## <ins>How do I determine an ad domain?</ins>
+- __Adam:ONE Assistant (formerly DNSthingy Assistant):__ <a href="https://chrome.google.com/webstore/detail/adamone-assistant/fdmpekabnlekabjlimjkfmdjajnddgpc">This browser extension</a> will list all of the domains that are queried when a web page is loaded. You can often look at the list of domains and cherry pick the ones that appear to be ad-serving domains.
+- __Using inbuilt Developer tool:__ For Chrome and Firefox, __`ctrl+shift+I`__ will land you in Developer tools menu.
+- __Using an Android app:__ [__`Net Guard`__](https://play.google.com/store/apps/details?id=eu.faircode.netguard) is an Android app that can be used to monitor any specific apps, works on unrooted devices too.
 
+## <ins>Featured in:</ins>
+This project is also available in many host file aggregators and other services. 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/img1.jpeg">
-</p>
- 
-***Using inbuilt Developer tool***         
-         
-For Chrome ctrl+shift+I will land you in Developer tools menu.
+<div align="center"> 
+  <a href="https://nextdns.io/" > 
+    <img src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/nextdns-logo.png" width="190" height="55" alt="NextDNS logo" >
+  <a/>
+  &nbsp; &nbsp;
+  <a href="https://hblock.molinero.dev/" > 
+    <img src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/hblock-logo.png" width="170" height="60" alt="hBlock logo" >
+  <a/>
+  &nbsp; &nbsp;
+  <a href="https://github.com/collinbarrett/FilterLists" > 
+    <img src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/filterlists-logo.png" width="170" height="60" alt="FilterLists logo" >
+  <a/>
+  &nbsp; &nbsp;
+  <a href="https://oisd.nl/" > 
+    <img src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/oisd.nl-logo.png" width="160" height="60" alt="oisd.nl logo" >
+  <a/>
+  &nbsp; &nbsp;
+  <a href="https://energized.pro/" > 
+    <img src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/energized-protection-logo.png" width="160" height="60" alt="EnergizedProtections logo" >
+  <a/>
+</div>
+<br />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/img2.jpeg">
-</p>
-     
-***Using an Android app*** 
-     
-[Net Guard](https://play.google.com/store/apps/details?id=eu.faircode.netguard) is an Android app that can be used to monitor any specific apps, works on unrooted devices too.   
-     
-<p align="center">
-  <img width="460" height="380" src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/img3.jpeg">
-</p>
-     
-***
-     
-### Donation
+## <ins>Stargazers over time</ins>
+<br />
 
-All donations are welcome and any amount of money will help me to maintain this project :)
-<p align="center">  
+[![Stargazers over time](https://starchart.cc/anudeepND/blacklist.svg)](https://starchart.cc/anudeepND/blacklist)
+
+## <ins>Support</ins>
+Maintaining a quality host file takes a lot of time. I have been contributing to this project over 3 years. Your support will help me to keep the project running and provide you quality service. If you have any queries related to PayPal or donation, you can send a DM to me on [`Twitter`](https://twitter.com/anudeepnd).  
+<div align="center">   
   <a href="https://paypal.me/anudeepND" target="_blank"><img alt="Donate using Paypal" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
-  &nbsp;&nbsp;
+  &nbsp;
+  &nbsp;
   <a href="https://liberapay.com/Anudeep/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
-</p>
-     
-### Licence      
+</div>
+
+## <ins>License </ins>     
 ```
 MIT License
 
-Copyright (c) 2019 Anudeep ND <anudeep@protonmail.com>
+Copyright (c) 2020 Anudeep ND <anudeep@protonmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
