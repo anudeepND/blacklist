@@ -29,7 +29,6 @@
   <a href="https://github.com/anudeepND/blacklist/blob/master/LICENSE" > 
     <img src="https://img.shields.io/github/license/anudeepnd/blacklist?label=License&color=blueviolet" alt="license" >
   <a/>
-
 </div>
 
 <div align="center">
@@ -65,9 +64,6 @@ A well-maintained and curated host file containing domains that serve ads, track
   </h3>
 </div>       
 &nbsp;
-&nbsp;
-
-***
 
 ## <ins>Table of contents</ins>
 - [Features](#features)
@@ -80,8 +76,6 @@ A well-maintained and curated host file containing domains that serve ads, track
 - [Stargazers over time ](#stargazers-over-time)
 - [Support](#support)
 - [License ](#license)
-
-***
 
 ## <ins>Features</ins>
 - __Host file:__ Based on `hosts` file, all the bad domains are blocked with `0.0.0.0`
