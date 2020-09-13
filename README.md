@@ -1,5 +1,5 @@
 <div align="center">  
-  <img width="440" height="110" src="https://github.com/anudeepnd/blacklist/blob/master/blacklist-logo.png" alt="logo" />
+  <img width="440" height="110" src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/blacklist-logo.png" alt="logo" />
 </div>
 &nbsp;
 &nbsp;
