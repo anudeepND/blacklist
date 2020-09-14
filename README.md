@@ -67,12 +67,13 @@ A well-maintained and curated host file containing domains that serve ads, track
 
 ## <ins>Table of contents</ins>
 - [Features](#features)
-- [Who can use this file](#who-can-use-this-file)
+- [Who can use this file?](#who-can-use-this-file)
 - [Overview](#overview)
 - [Usage](#usage)
 - [Validation](#validation)
 - [How do I determine an ad domain?](#how-do-i-determine-an-ad-domain)
 - [Featured in](#featured-in)
+- [Common Issues](#common-issues)
 - [Stargazers over time ](#stargazers-over-time)
 - [Support](#support)
 - [License ](#license)
@@ -157,6 +158,21 @@ This project is also available in many host file aggregators and other services.
 </div>
 <br />
 
+## <ins>Common Issues</ins>
+
+This host file blocks trackers regardless of whether it collects PII (Personally Identifiable Information) or not. Some domains need to be whitelisted for certain services to work properly. This table helps you to find the affected domain and whitelist accordingly.
+
+| Domains | Description | Services Affected |
+|:-:|:-:|:-:|
+| uapi.adrise.tv | The Tubi TV Roku App requires the following host to function | Tubi TV streams |
+| cdns.gigya.com | Breaks search function in [National Express](www.nationalexpress.com) and other websites. One should note that Gigya is also used for tracking behavioral data about the visitors. It is extensively used in News Portals, Entertainment and e-commerce sites. | 'Find my journey' search suggestions |
+| watson.telemetry.microsoft.com   web.vortex.data.microsoft.com   v10.events.data.microsoft.com   v10.vortex-win.data.microsoft.com   v20.vortex-win.data.microsoft.com | Blocking these domains will fail to track Xbox Live Achievements and stats. However these domains are also used to upload crash logs from Windows OS. Depending on the privacy level on your operating system, the crash logs may contain PII. | Xbox Live Achievement  and Microsoft Defender Advanced Threat Protection |
+| manifest.auditude.com | Unable to play videos in Watch TNT app on Roku. The Adobe® Auditude® platform is used by companies that want to provide relevant content and advertisements in videos you watch on the web. Categorized under Advertising, Location, Identity, Tracking | Unable to play videos on Watch TNT app on Roku |
+| s.amazon-adsystem.com | Unable to play videos on Twitch Client in Windows and MacOS. However Twitch webapp is not affected | Windows and MacOS Twitch Client |
+| s0.2mdn.net   c.evidon.com | Unable to play videos on several news and entertainment sites. Some of the affected sites are: [techrepublic](https://techrepublic.com) and [zdnet](www.zdnet.com). s0.2mdn.net is blocked in most of the hostfiles since it's a known tracker. | Videos in news and entertainment sites |
+| s.zkcdn.net | Unable to play content on DirecTV Now. This domain is also used to serve ads, measure impressions etc. | DirecTV Now |
+| graph.instagram.com | The Instagram Graph API allows Instagram Professional accounts — Businesses and Creators — to use your app to manage their presence on Instagram. However, it is also used to track users on the Internet. Developers who use Facebook/IG APIs should whitelist the domain. | Instagram and Facebook |
+
 ## <ins>Stargazers over time</ins>
 <br />
 
@@ -171,7 +187,7 @@ Maintaining a quality host file takes a lot of time. I have been contributing to
   <a href="https://liberapay.com/Anudeep/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 </div>
 
-## <ins>License </ins>     
+## <ins>License</ins>     
 ```
 MIT License
 
