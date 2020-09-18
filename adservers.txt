@@ -4,7 +4,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 43,276
+# Domain count: 43,272
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -5333,7 +5333,6 @@
 0.0.0.0 api.videometrics.ted.com
 0.0.0.0 api.viglink.com
 0.0.0.0 api-visit.kameleoon.com
-0.0.0.0 api.vuukle.com
 0.0.0.0 api.webengage.com
 0.0.0.0 apiw.ensighten.com
 0.0.0.0 api.w.inmobi.com
@@ -22446,7 +22445,6 @@
 0.0.0.0 testtest.onthe.io
 0.0.0.0 test.touchcommerce.com
 0.0.0.0 test.vidible.tv
-0.0.0.0 test.vuukle.com
 0.0.0.0 test-www.taboola.com
 0.0.0.0 test.yieldmo.com
 0.0.0.0 tetongravityresearch.d1.sc.omtrdc.net
@@ -25605,7 +25603,6 @@
 0.0.0.0 www.vision.taboola.com
 0.0.0.0 www.vizury.com
 0.0.0.0 www.vpaid.adsafeprotected.com
-0.0.0.0 www.vuukle.com
 0.0.0.0 www.vwbvandbj.bid
 0.0.0.0 www.wafra.adk2x.com
 0.0.0.0 www.webcast.rubiconproject.com
@@ -42518,7 +42515,6 @@
 0.0.0.0 a.impactradius-tag.com
 0.0.0.0 jupiter.intl.sys.miui.com
 0.0.0.0 wbut.adj.st
-0.0.0.0 vuukle.com
 0.0.0.0 www.growthrx.in
 0.0.0.0 api.growthrx.in
 0.0.0.0 sso.growthrx.in
