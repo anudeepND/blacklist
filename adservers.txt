@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 43,332
+# Domain count: 43,331
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -43103,7 +43103,6 @@
 0.0.0.0 bads.creative-serving.com
 0.0.0.0 su.ff.avast.com
 0.0.0.0 mbs.cloudberrylab.com
-0.0.0.0 clients6.google.com
 0.0.0.0 spoc-pool-gtm.norton.com
 0.0.0.0 digitrust.creative-serving.com
 0.0.0.0 ds.creative-serving.com
