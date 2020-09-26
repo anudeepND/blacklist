@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 40,874
+# Domain count: 40,871
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -6555,13 +6555,11 @@
 0.0.0.0 ca.akamai.startappservice.com
 0.0.0.0 cab.gbc.criteo.com
 0.0.0.0 cac-api.urbanairship.com
-0.0.0.0 cache1.googlevideo.com
 0.0.0.0 cache.addthis.com
 0.0.0.0 cache.brandreachsys.com
 0.0.0.0 cache.cnzz.com
 0.0.0.0 cached.liveshows.contentabc.com
 0.0.0.0 cache-fast.addthis.com
-0.0.0.0 cache.googlevideo.com
 0.0.0.0 cache-test.addthis.com
 0.0.0.0 cache-uat.addthis.com
 0.0.0.0 cache-uat-fast.addthis.com
@@ -7076,7 +7074,6 @@
 0.0.0.0 cgizz.qlvfyxtzjh5.bapb.gdn
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 c.googlesyndication.com
-0.0.0.0 c.googlevideo.com
 0.0.0.0 ch1aqu.atdmt.com
 0.0.0.0 ch1trk.atdmt.com
 0.0.0.0 chagnavstretchy.mirtesen.ru
