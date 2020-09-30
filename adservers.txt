@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 40,969
+# Domain count: 40,985
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -40977,3 +40977,19 @@
 0.0.0.0 streaming.api.naiadsystems.com
 0.0.0.0 internal.streaming.api.naiadsystems.com
 0.0.0.0 log.happymod.com
+0.0.0.0 onetag-sys.com
+0.0.0.0 www.onetag-sys.com
+0.0.0.0 ads.onetag-sys.com
+0.0.0.0 bid.onetag-sys.com
+0.0.0.0 bid-apac.onetag-sys.com
+0.0.0.0 bid-eu.onetag-sys.com
+0.0.0.0 bid-g.onetag-sys.com
+0.0.0.0 bid-us.onetag-sys.com
+0.0.0.0 bid-us-east.onetag-sys.com
+0.0.0.0 debug.onetag-sys.com
+0.0.0.0 preprod.onetag-sys.com
+0.0.0.0 telemetry.dailymotion.com
+0.0.0.0 collector.unsplash.com
+0.0.0.0 stats.videodelivery.net
+0.0.0.0 tml.clmbtech.com
+0.0.0.0 ad-assets.wynk.in
