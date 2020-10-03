@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 40,985
+# Domain count: 40,945
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -40395,46 +40395,6 @@
 0.0.0.0 gs.adspeed.net
 0.0.0.0 pdaorg.adspeed.net
 0.0.0.0 videocdn.adspeed.net
-0.0.0.0 www.heytapmobile.com
-0.0.0.0 heytapmobile.com
-0.0.0.0 cl-data-id.ads.heytapmobile.com
-0.0.0.0 album-in01a-ocloud.heytapmobile.com
-0.0.0.0 appconf-eu.heytapmobile.com
-0.0.0.0 appconf-in.heytapmobile.com
-0.0.0.0 appconf-sgp.heytapmobile.com
-0.0.0.0 i-in.browser.heytapmobile.com
-0.0.0.0 i-sg.browser.heytapmobile.com
-0.0.0.0 i-th.browser.heytapmobile.com
-0.0.0.0 i-vn.browser.heytapmobile.com
-0.0.0.0 iflow-in.browser.heytapmobile.com
-0.0.0.0 iflow-sg.browser.heytapmobile.com
-0.0.0.0 iflow-th.browser.heytapmobile.com
-0.0.0.0 iflow-vn.browser.heytapmobile.com
-0.0.0.0 conf-in-dc.heytapmobile.com
-0.0.0.0 u-th.cpc.heytapmobile.com
-0.0.0.0 dragate-in-dc.heytapmobile.com
-0.0.0.0 htms.heytapmobile.com
-0.0.0.0 img-sg-opay.heytapmobile.com
-0.0.0.0 io56-ocloud.heytapmobile.com
-0.0.0.0 io56a-ocloud.heytapmobile.com
-0.0.0.0 io91a-ocloud.heytapmobile.com
-0.0.0.0 io91b-ocloud.heytapmobile.com
-0.0.0.0 i-in.magazine.heytapmobile.com
-0.0.0.0 i-sg.magazine.heytapmobile.com
-0.0.0.0 ostorage-in01a-ocloud.heytapmobile.com
-0.0.0.0 pcio56-ocloud.heytapmobile.com
-0.0.0.0 pcio56a-ocloud.heytapmobile.com
-0.0.0.0 pcio91b-ocloud.heytapmobile.com
-0.0.0.0 rest-in01a-ocloud.heytapmobile.com
-0.0.0.0 static-in01a-ocloud.heytapmobile.com
-0.0.0.0 api-gl.theme.heytapmobile.com
-0.0.0.0 api-id.theme.heytapmobile.com
-0.0.0.0 api-in.theme.heytapmobile.com
-0.0.0.0 api-my.theme.heytapmobile.com
-0.0.0.0 api-ph.theme.heytapmobile.com
-0.0.0.0 api-th.theme.heytapmobile.com
-0.0.0.0 api-tw.theme.heytapmobile.com
-0.0.0.0 api-vn.theme.heytapmobile.com
 0.0.0.0 www.ksapisrv.com
 0.0.0.0 ksapisrv.com
 0.0.0.0 acfun-log-sdk.ksapisrv.com
