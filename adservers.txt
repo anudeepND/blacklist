@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 40,945
+# Domain count: 40,942
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -6326,7 +6326,6 @@
 0.0.0.0 buecherde.widget.criteo.com
 0.0.0.0 bugbeta.umeng.com
 0.0.0.0 buildasignss1.112.2o7.net
-0.0.0.0 builder-assets.unbounce.com
 0.0.0.0 builder.smartlook.com
 0.0.0.0 builder.ws.adacts.com
 0.0.0.0 buldumbuldumtr.widget.criteo.com
@@ -7958,7 +7957,6 @@
 0.0.0.0 d99a-31f2-38c4-eed3.reporo.net
 0.0.0.0 d99b-86bd-7dfb-28da.reporo.net
 0.0.0.0 d9c6-8247-16bb-f423.reporo.net
-0.0.0.0 d9hhrg4mnvzow.cloudfront.net
 0.0.0.0 d9iwc.voluumtrk.com
 0.0.0.0 d9ytu.voluumtrk.com
 0.0.0.0 da2.manifest.auditude.com
@@ -20332,7 +20330,6 @@
 0.0.0.0 syndication-p.exoclick.com
 0.0.0.0 syndication.site.yahoo.net
 0.0.0.0 syndication.standard.co.uk
-0.0.0.0 syndication.twitter.com
 0.0.0.0 syndication-whk1.exoclick.com
 0.0.0.0 synergycu.ca.102.112.2o7.net
 0.0.0.0 syn.torlock.com
