@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 41,049
+# Domain count: 41,071
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -41057,3 +41057,25 @@
 0.0.0.0 vps25.adsplay.in
 0.0.0.0 vps7.adsplay.in
 0.0.0.0 vps8.adsplay.in
+0.0.0.0 ad.samsungadhub.com
+0.0.0.0 ads.samsungads.com
+0.0.0.0 apu.samsungelectronics.com
+0.0.0.0 bpu.samsungelectronics.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 cpu.samsungelectronics.com
+0.0.0.0 dpu.samsungelectronics.com
+0.0.0.0 events.samsungads.com
+0.0.0.0 insights.samsung.com
+0.0.0.0 invitation.samsungiotcloud.com
+0.0.0.0 kpu.samsungelectronics.com
+0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 lcprd2.samsungcloudsolution.net
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 oempprd.samsungcloudsolution.com
+0.0.0.0 oempprd.samsungcloudsolution.net
+0.0.0.0 rd.samsungadhub.com
+0.0.0.0 samsungads.com
+0.0.0.0 upu.samsungelectronics.com
+0.0.0.0 vdterms.samsungcloudsolution.com
+0.0.0.0 xpu.samsungelectronics.com
+0.0.0.0 zpu.samsungelectronics.com
