@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 41,192
+# Domain count: 41,246
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -41200,3 +41200,57 @@
 0.0.0.0 s.ero-advertising.com
 0.0.0.0 ero-advertising.com
 0.0.0.0 wwww.ero-advertising.com
+0.0.0.0 mattel.demdex.net
+0.0.0.0 ads.qz.com
+0.0.0.0 tracking.prmtracking2.com
+0.0.0.0 prmtracking2.com
+0.0.0.0 www.prmtracking2.com
+0.0.0.0 p377939.clksite.com
+0.0.0.0 graizoah.com
+0.0.0.0 www.graizoah.com
+0.0.0.0 stats.bannersnack.com
+0.0.0.0 smetrics.sharekhan.com
+0.0.0.0 tracking.lg.com
+0.0.0.0 pixel.digitalkites.com
+0.0.0.0 r1.fwpixel.com
+0.0.0.0 fwpixel.com
+0.0.0.0 p1.fwpixel.com
+0.0.0.0 heatmap-events-collector.instapage.com
+0.0.0.0 pubads-g-doubleclick-net.cdn.ampproject.org
+0.0.0.0 telemetrics.klaviyo.com
+0.0.0.0 ulog-sdk.gifshow.com
+0.0.0.0 ulog-sdk.ksapisrv.com
+0.0.0.0 collector.gamezop.com
+0.0.0.0 javalog.ichamet.com
+0.0.0.0 stickaloger.tango.me
+0.0.0.0 www.iyfnzgb.com
+0.0.0.0 iyfnzgb.com
+0.0.0.0 app.adjust.world
+0.0.0.0 evt.mxplay.com
+0.0.0.0 buttsnthighs.com
+0.0.0.0 service.hotstar.com
+0.0.0.0 inapps.appsflyer.com
+0.0.0.0 conversions.appsflyer.com
+0.0.0.0 gcdsdk.appsflyer.com
+0.0.0.0 segment.hotstar.com
+0.0.0.0 in-o2o-api.zilivideo.com
+0.0.0.0 0bxxaty1ad.execute-api.us-east-1.amazonaws.com
+0.0.0.0 secure-gl.imrworldwide.com
+0.0.0.0 sdkconfig.ad.india.xiaomi.com
+0.0.0.0 www.loadingpagesson.club
+0.0.0.0 loadingpagesson.club
+0.0.0.0 www.ojajum.space
+0.0.0.0 ojajum.space
+0.0.0.0 www.ogorax.xyz
+0.0.0.0 ogorax.xyz
+0.0.0.0 www.hoexoxg.site
+0.0.0.0 hoexoxg.site
+0.0.0.0 cc.1clickcdn.ru
+0.0.0.0 1clickcdn.ru
+0.0.0.0 www.1clickcdn.ru
+0.0.0.0 cdn.lmiutil.com
+0.0.0.0 pubnative.info
+0.0.0.0 xml.xml-brain.com
+0.0.0.0 click.eu.adoperatorcore.com
+0.0.0.0 tracking.eu.adoperatorcore.com
+0.0.0.0 www.pubnative.info
