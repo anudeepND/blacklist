@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 41,246
+# Domain count: 41,258
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -41254,3 +41254,15 @@
 0.0.0.0 click.eu.adoperatorcore.com
 0.0.0.0 tracking.eu.adoperatorcore.com
 0.0.0.0 www.pubnative.info
+0.0.0.0 analytics.webgains.io
+0.0.0.0 smetrics.centurylink.com
+0.0.0.0 smetrics.telegraph.co.uk
+0.0.0.0 track.dkhry.com
+0.0.0.0 vodafonein.demdex.net
+0.0.0.0 trafficmedia.center
+0.0.0.0 www.trafficmedia.center
+0.0.0.0 vivaclix.com
+0.0.0.0 www.vivaclix.com
+0.0.0.0 media.vivaclix.com
+0.0.0.0 srv.vivaclix.com
+0.0.0.0 track.vivaclix.com
