@@ -155,6 +155,10 @@ This project is also available in many host file aggregators and other services.
   <a href="https://energized.pro/" > 
     <img src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/energized-protection-logo.png" width="160" height="60" alt="EnergizedProtections logo" >
   <a/>
+  &nbsp; &nbsp;
+  <a href="https://blokada.org/" > 
+    <img src="https://raw.githubusercontent.com/anudeepND/blacklist/master/images/blokada-logo.png" width="160" height="70" alt="Blokada logo" >
+  <a/>
 </div>
 <br />
 
