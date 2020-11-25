@@ -129,6 +129,7 @@ https://blockads.fivefilters.org/
             
 ## <ins>How do I determine an ad domain?</ins>
 - __Adam:ONE Assistant (formerly DNSthingy Assistant):__ <a href="https://chrome.google.com/webstore/detail/adamone-assistant/fdmpekabnlekabjlimjkfmdjajnddgpc">This browser extension</a> will list all of the domains that are queried when a web page is loaded. You can often look at the list of domains and cherry pick the ones that appear to be ad-serving domains.
+- __Using a packet sniffer (Recommended):__ [__`HttpCanary`__](https://play.google.com/store/apps/details?id=com.guoshi.httpcanary) HttpCanary is a powerful HTTP/HTTPS/HTTP2/WebSocket/TCP/UDP packets capture and analyzer app designed for Android platform. [__Source__](https://github.com/MegatronKing/HttpCanary)
 - __Using inbuilt Developer tool:__ For Chrome and Firefox, __`ctrl+shift+I`__ will land you in Developer tools menu.
 - __Using an Android app:__ [__`Net Guard`__](https://play.google.com/store/apps/details?id=eu.faircode.netguard) is an Android app that can be used to monitor any specific apps, works on unrooted devices too.
 
