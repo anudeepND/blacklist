@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 41,259
+# Domain count: 41,253
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -40827,48 +40827,29 @@
 0.0.0.0 h-api.online-metrix.net
 0.0.0.0 h-api-sb.online-metrix.net
 0.0.0.0 free-download.ov2hb60c4d.top
-0.0.0.0 fnacgbik9v14.com
 0.0.0.0 sdfjjd.the31news.com
 0.0.0.0 62.the31news.com
 0.0.0.0 29.the31news.com 
 0.0.0.0 eyzu80g9xcxa.com
 0.0.0.0 jssdks.mparticle.com
-0.0.0.0 event.api.drift.com
-0.0.0.0 metrics.api.drift.com
 0.0.0.0 pmcares.fund
 0.0.0.0 www.statcounter.com
-0.0.0.0 cdn.rebel.ai
 0.0.0.0 certtest.rebel.ai
 0.0.0.0 secure.rebel.ai
 0.0.0.0 npttech.com
 0.0.0.0 www.npttech.com
 0.0.0.0 8993311.fls.doubleclick.net
 0.0.0.0 us-east-pbs.automatad.com
-0.0.0.0 www.amplitude.com
-0.0.0.0 amplitude.com
 0.0.0.0 allaccess.amplitude.com
-0.0.0.0 amplify.amplitude.com
-0.0.0.0 analytics.amplitude.com
-0.0.0.0 api.amplitude.com
 0.0.0.0 api2.amplitude.com
-0.0.0.0 cdn.amplitude.com
-0.0.0.0 cerulean.amplitude.com
-0.0.0.0 api.amplitude.com
 0.0.0.0 corp-static.amplitude.com
-0.0.0.0 crash.amplitude.com
-0.0.0.0 events.amplitude.com
 0.0.0.0 fit.amplitude.com
 0.0.0.0 grow.amplitude.com
-0.0.0.0 promo.amplitude.com
-0.0.0.0 ref.amplitude.com
 0.0.0.0 regioncheck.amplitude.com
 0.0.0.0 regionconfig.amplitude.com
-0.0.0.0 spinnaker.amplitude.com
 0.0.0.0 static.amplitude.com
 0.0.0.0 thunder.amplitude.com
 0.0.0.0 a.adtng.com
-0.0.0.0 hw-cdn2.adtng.com
-0.0.0.0 vz-cdn2.adtng.com
 0.0.0.0 adtng.com
 0.0.0.0 www.adtng.com
 0.0.0.0 ads.madcheddar.com
@@ -40948,10 +40929,7 @@
 0.0.0.0 tml.clmbtech.com
 0.0.0.0 ad-assets.wynk.in
 0.0.0.0 ads-twitter.com
-0.0.0.0 static.ads-twitter.com
 0.0.0.0 ads.twitter.com
-0.0.0.0 ads-bidder-api.twitter.com
-0.0.0.0 analytics.twitter.com
 0.0.0.0 a.ctnsnet.com
 0.0.0.0 ag.ctnsnet.com
 0.0.0.0 ahk.ctnsnet.com
@@ -40983,7 +40961,6 @@
 0.0.0.0 c.liadm.com
 0.0.0.0 ci.liadm.com
 0.0.0.0 d.liadm.com
-0.0.0.0 i.liadm.com
 0.0.0.0 i6.liadm.com
 0.0.0.0 idx.liadm.com
 0.0.0.0 if.liadm.com
@@ -41016,7 +40993,6 @@
 0.0.0.0 lead.adsplay.in
 0.0.0.0 m.adsplay.in
 0.0.0.0 partners.adsplay.in
-0.0.0.0 rbl.adsplay.in
 0.0.0.0 rbl.adsplay.in
 0.0.0.0 s1.adsplay.in
 0.0.0.0 s2.adsplay.in
@@ -41124,7 +41100,6 @@
 0.0.0.0 movieads.ero-advertising.com
 0.0.0.0 adsances.ero-advertising.com
 0.0.0.0 adspacds.ero-advertising.com
-0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 ad0.adspaces.ero-advertising.com
 0.0.0.0 ad1.adspaces.ero-advertising.com
 0.0.0.0 ad2.adspaces.ero-advertising.com
@@ -41216,7 +41191,6 @@
 0.0.0.0 pubads-g-doubleclick-net.cdn.ampproject.org
 0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 ulog-sdk.gifshow.com
-0.0.0.0 ulog-sdk.ksapisrv.com
 0.0.0.0 collector.gamezop.com
 0.0.0.0 javalog.ichamet.com
 0.0.0.0 stickaloger.tango.me
@@ -41267,3 +41241,22 @@
 0.0.0.0 embrace.io
 0.0.0.0 go.embrace.io
 0.0.0.0 go2.embrace.io
+0.0.0.0 telemetry.microsoft.com.nsatc.net
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 alpha.telemetry.microsoft.com
+0.0.0.0 oca.alpha.telemetry.microsoft.com
+0.0.0.0 oca7.alpha.telemetry.microsoft.com
+0.0.0.0 sqm.alpha.telemetry.microsoft.com
+0.0.0.0 sqm7.alpha.telemetry.microsoft.com
+0.0.0.0 telecommand.alpha.telemetry.microsoft.com
+0.0.0.0 watson.alpha.telemetry.microsoft.com
+0.0.0.0 watson2.alpha.telemetry.microsoft.com
+0.0.0.0 watson7.alpha.telemetry.microsoft.com
+0.0.0.0 wer.alpha.telemetry.microsoft.com
+0.0.0.0 responses.df.telemetry.microsoft.com
+0.0.0.0 telecommand.df.telemetry.microsoft.com
+0.0.0.0 watson.df.telemetry.microsoft.com
+0.0.0.0 kmwatsonc.telemetry.microsoft.com
+0.0.0.0 clouddc2.syslogagent.telemetry.microsoft.com
+0.0.0.0 umwatsonc.telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
