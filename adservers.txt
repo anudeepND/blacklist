@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 41,900
+# Domain count: 41,899
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -28686,7 +28686,6 @@
 0.0.0.0 www.wathspap.com
 0.0.0.0 adserver.leblonmedia.com
 0.0.0.0 batchlogging4-asia-south1.truecaller.com
-0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 c.cliikynetwork.com
 0.0.0.0 trck.bebi.com
 0.0.0.0 www.bebi.com
