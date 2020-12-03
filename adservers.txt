@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,046
+# Domain count: 42,079
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -42054,3 +42054,36 @@
 0.0.0.0 view.adsrvr.org
 0.0.0.0 y-data.adsrvr.org
 0.0.0.0 y-rtb.adsrvr.org
+0.0.0.0 js-sdk.analytics-data.io
+0.0.0.0 track.analytics-data.io
+0.0.0.0 log.aimtell.com
+0.0.0.0 analytics.sleeknote.com
+0.0.0.0 analytics.chumbak.com
+0.0.0.0 fsnecommerce.sc.omtrdc.net
+0.0.0.0 inapps.appsflyer.com
+0.0.0.0 prod-events.nykaa.com
+0.0.0.0 nykaa-events.nyk00-int.network
+0.0.0.0 disqus-d.openx.net
+0.0.0.0 bidbarrel.cbsnews.com
+0.0.0.0 ads-router-noneu.truecaller.com
+0.0.0.0 insights.algolia.io
+0.0.0.0 bm8fw-xpghg.ads.tremorhub.com
+0.0.0.0 eventtracking.hubapi.com
+0.0.0.0 track.getgist.com
+0.0.0.0 track.applicaster.com
+0.0.0.0 tilanalytics.timesinternet.in
+0.0.0.0 analytics.gatsbyjs.com
+0.0.0.0 metrics.washingtonpost.com
+0.0.0.0 erdecisesgeorg.info
+0.0.0.0 www.erdecisesgeorg.info
+0.0.0.0 metrics.redgifs.com
+0.0.0.0 93aihbjs7bv4.com
+0.0.0.0 onclickalgo.com
+0.0.0.0 www.onclickalgo.com
+0.0.0.0 onclickperformance.com
+0.0.0.0 www.onclickperformance.com
+0.0.0.0 onclickgenius.com
+0.0.0.0 www.onclickgenius.com
+0.0.0.0 www.popmyads.com
+0.0.0.0 cdn.popmyads.com
+0.0.0.0 popmyads.com
