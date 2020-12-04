@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,078
+# Domain count: 42,097
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -42086,3 +42086,22 @@
 0.0.0.0 www.popmyads.com
 0.0.0.0 cdn.popmyads.com
 0.0.0.0 popmyads.com
+0.0.0.0 fpa-cdn.arstechnica.com
+0.0.0.0 pixel.condenastdigital.com
+0.0.0.0 capture.condenastdigital.com
+0.0.0.0 wren.condenastdigital.com
+0.0.0.0 js-sec.indexww.com
+0.0.0.0 chegginc.demdex.net
+0.0.0.0 log.zoom.us
+0.0.0.0 logfiles-va-3.zoom.us
+0.0.0.0 logfiles-va-4.zoom.us
+0.0.0.0 logfiles-va-5.zoom.us
+0.0.0.0 logfiles-va-6.zoom.us
+0.0.0.0 logfiles-va-za1.zoom.us
+0.0.0.0 logfiles-va-zd1.zoom.us
+0.0.0.0 logfiles-va.zoom.us
+0.0.0.0 logfiles.zoom.us
+0.0.0.0 us04logfiles.zoom.us
+0.0.0.0 analytics.chegg.com
+0.0.0.0 log.gomlab.com
+0.0.0.0 gomlab-log-17054681.us-east-1.elb.amazonaws.com
