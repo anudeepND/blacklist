@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,097
+# Domain count: 42,116
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -42105,3 +42105,22 @@
 0.0.0.0 analytics.chegg.com
 0.0.0.0 log.gomlab.com
 0.0.0.0 gomlab-log-17054681.us-east-1.elb.amazonaws.com
+0.0.0.0 d35u1vg1q28b3w.cloudfront.net
+0.0.0.0 collector-pxk3bezzfo.pxchk.net
+0.0.0.0 collector.fiverr.com
+0.0.0.0 collector-pxk3bezzfo.px-cdn.net
+0.0.0.0 relay.fiverr.com
+0.0.0.0 p11.techlab-cdn.com
+0.0.0.0 deploy.propellerads.com
+0.0.0.0 www.50onred.com
+0.0.0.0 50onred.com
+0.0.0.0 cpvfeed.50onred.com
+0.0.0.0 intext.50onred.com
+0.0.0.0 my.50onred.com
+0.0.0.0 platform.50onred.com
+0.0.0.0 platform-api.50onred.com
+0.0.0.0 platformsupport.50onred.com
+0.0.0.0 publisher.50onred.com
+0.0.0.0 rtxsupport.50onred.com
+0.0.0.0 sentry.50onred.com
+0.0.0.0 static-publisher.50onred.com
