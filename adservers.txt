@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,294
+# Domain count: 42,296
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -6967,8 +6967,6 @@
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.segment.io
 0.0.0.0 cdn-settings.segment.com
-0.0.0.0 cdns.eu1.gigya.com
-0.0.0.0 cdns.gigya.com
 0.0.0.0 cdn.shopalyst.com
 0.0.0.0 cdn.simility.com
 0.0.0.0 cdn.sit.vertamedia.com
@@ -42302,3 +42300,7 @@
 0.0.0.0 imp2.bizographics.com
 0.0.0.0 js.bizographics.com
 0.0.0.0 sjs.bizographics.com
+0.0.0.0 gscounters.gigya.com
+0.0.0.0 gscounters.us1.gigya.com
+0.0.0.0 gscounters.eu1.gigya.com
+0.0.0.0 counters.gigya.com
