@@ -3727,6 +3727,7 @@
 0.0.0.0 okaside.fbsbx.com
 0.0.0.0 platform-lookside.fbsbx.com
 0.0.0.0 portal.fbsbx.com
+0.0.0.0 portal.fb.com
 0.0.0.0 pps.fbsbx.com
 0.0.0.0 rsrc.fbsbx.com
 0.0.0.0 side.fbsbx.com
@@ -4006,3 +4007,5 @@
 0.0.0.0 xx-fbcdn-shv-02-arn2.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-bom1.fbcdn.net
 0.0.0.0 xx-fbcdn-shv-02-sin2.fbcdn.net
+0.0.0.0 external.fceb1-1.fna.fbcdn.net
+0.0.0.0 connect.facebook.com
