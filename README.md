@@ -113,7 +113,7 @@ This host file can be used on any device including Android, iOS, Linux, MacOS, r
 
 - __Rooted Android:__ For rooted device, this host file can be used with [__`AdAway`__](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.
 - __Non-rooted Android:__ For non-rooted devices, you can use [__`Blokada`__](https://github.com/blokadaorg/blokada), [__`DNS66`__](https://github.com/julian-klode/dns66), [__`Nebulo`__](https://github.com/Ch4t4r/Nebulo), [__`Personal DNS Filter`__](https://www.zenz-solutions.de/personaldnsfilter/), or [__`RethinkDNS + Firewall`__](https://github.com/celzero/rethink-app).
-- __iOS:__ You can use [__`Blokada__](https://apps.apple.com/us/app/blokada/id1508341781)
+- __iOS:__ You can use [__`Blokada`__](https://apps.apple.com/us/app/blokada/id1508341781)
 __MacOS:__ This host file can be used with [__`gasmask`__](https://github.com/2ndalpha/gasmask).    
 - __Windows:__ On Windows, you can use [__`HostsMan`__](http://www.abelhadigital.com/hostsman/) to get the best Windows Hosts Usage Experience. Make sure to disable DNS Client Service.
 - __Linux:__ There are many scripts available on the Internet that will add the hosts to you. Or you can modify the `/etc/hosts`.
