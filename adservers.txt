@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,296
+# Domain count: 42,284
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -4623,7 +4623,6 @@
 0.0.0.0 ams-ads-cornerstone-creatives-eu.s3-eu-west-1.amazonaws.com
 0.0.0.0 ams-ads-cornerstone-creatives.s3.amazonaws.com
 0.0.0.0 ams.crittercism.com
-0.0.0.0 a-msedge.net
 0.0.0.0 ams.eu.crittercism.com
 0.0.0.0 ams.fyber.com
 0.0.0.0 ams-goog.applovin.com
@@ -5345,7 +5344,6 @@
 0.0.0.0 ashcatch01-ext.fwmrm.net
 0.0.0.0 ashcore-ext.fwmrm.net
 0.0.0.0 ashgslb1.fwmrm.net
-0.0.0.0 a.shifen.com
 0.0.0.0 ashleyfurn.inq.com
 0.0.0.0 ashns1-ext1.fwmrm.net
 0.0.0.0 ashns1-ext2.fwmrm.net
@@ -10997,7 +10995,6 @@
 0.0.0.0 griprum9h9.mentalist.kameleoon.com
 0.0.0.0 grizlymedia-d.openx.net
 0.0.0.0 grooveshark.sl.advertising.com
-0.0.0.0 groupees.com
 0.0.0.0 groupritm.go2affise.com
 0.0.0.0 groups.hiido.com
 0.0.0.0 grow.kissmetrics.com
@@ -18655,7 +18652,6 @@
 0.0.0.0 shenghuo.xiaomi.com
 0.0.0.0 shevchuk.onthe.io
 0.0.0.0 shiek1ph.com
-0.0.0.0 shifen.com
 0.0.0.0 shinseibank.com.102.112.2o7.net
 0.0.0.0 shinsei.d1.sc.omtrdc.net
 0.0.0.0 shinseifinancial.co.jp.102.112.2o7.net
@@ -20232,7 +20228,6 @@
 0.0.0.0 survey.122.2o7.net
 0.0.0.0 survey1.umeng.com
 0.0.0.0 survey.chartbeat.net
-0.0.0.0 survey.euro.confirmit.com
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 survey.umeng.com
 0.0.0.0 survey.unbounce.com
@@ -22723,7 +22718,6 @@
 0.0.0.0 www.apptimize.com
 0.0.0.0 www.appvirality.com
 0.0.0.0 www.arrkii.co
-0.0.0.0 www.a.shifen.com
 0.0.0.0 www.assets.reporo.net
 0.0.0.0 www.a.switchadhub.com
 0.0.0.0 www.atdmt.com
@@ -34246,7 +34240,6 @@
 0.0.0.0 d.go-mpulse.net
 0.0.0.0 s2-test.go-mpulse.net
 0.0.0.0 api.googleadsapi.com
-0.0.0.0 apple.tt.omtrdc.net
 0.0.0.0 clk.solocpm.com
 0.0.0.0 cnn.sdk.beemray.com
 0.0.0.0 massarius-d.openx.net
@@ -34866,7 +34859,6 @@
 0.0.0.0 www.yvmads.com
 0.0.0.0 z0000g.yvmads.com
 0.0.0.0 sdk-android.ad.smaato.net
-0.0.0.0 tracking.dominos.co.in
 0.0.0.0 analytics.shorte.st
 0.0.0.0 api-analytics-sg.huami.com
 0.0.0.0 qls.qsstats.com
@@ -42300,7 +42292,3 @@
 0.0.0.0 imp2.bizographics.com
 0.0.0.0 js.bizographics.com
 0.0.0.0 sjs.bizographics.com
-0.0.0.0 gscounters.gigya.com
-0.0.0.0 gscounters.us1.gigya.com
-0.0.0.0 gscounters.eu1.gigya.com
-0.0.0.0 counters.gigya.com
