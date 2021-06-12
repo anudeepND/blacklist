@@ -5,7 +5,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 5,940
+# Domain count: 5,939
 # ===============================================================
 0.0.0.0 www.coinlab.biz
 0.0.0.0 coinlab.biz
@@ -693,7 +693,6 @@
 0.0.0.0 versiliaguide.com
 0.0.0.0 vertcoin.miningpoolhub.com
 0.0.0.0 via.suprnova.cc
-0.0.0.0 vid.pr0gramm.com
 0.0.0.0 vip.slushpool.com
 0.0.0.0 vip48.wemineltc.com
 0.0.0.0 virtualminingcoin.miningpoolhub.com
