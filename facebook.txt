@@ -4,7 +4,7 @@
 # Title: Anudeep's Facebook Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 4,000
+# Domain count: 3,997
 # ===================================================================
 0.0.0.0 0-channel-proxy-07-ash2.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
@@ -2657,10 +2657,6 @@
 0.0.0.0 snaptu-1.facebook.com
 0.0.0.0 snaptu-d-shv-05-frc3.facebook.com
 0.0.0.0 snaptu-d-shv-10-frc1.facebook.com
-0.0.0.0 snaptu-mini.facebook.com
-0.0.0.0 snaptu-p1.facebook.com
-0.0.0.0 snaptu-p2.facebook.com
-0.0.0.0 snaptu-z.facebook.com
 0.0.0.0 snaptu-za-shv-07-lla1.facebook.com
 0.0.0.0 snaptu-za-shv-08-ash2.facebook.com
 0.0.0.0 sonar-iad.xx.fbcdn.net
