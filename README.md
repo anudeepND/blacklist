@@ -112,8 +112,8 @@ These host files for Unix-like systems, the list contain domains that serve ads,
 This host file can be used on any device including Android, iOS, Linux, MacOS, routers with custom firmware etc.   __It is highly recommended to use the mirror link as it provides `Last-Modified` header which ensures that you are getting the latest version. And the mirror has [`99.99% uptime`](https://hosts-status.anudeep.me/).__
 
 - __Rooted Android:__ For rooted device, this host file can be used with [__`AdAway`__](https://f-droid.org/en/packages/org.adaway/), a free and open-source ad-blocker for Android.
-- __Non-rooted Android:__ For non-rooted devices, you can use [__`DNS66`__](https://github.com/julian-klode/dns66), [__`BLOKADA`__](https://blokada.org/), [__`Personal DNS Filter`__](https://www.zenz-solutions.de/personaldnsfilter/) or [__`Nebulo`__](https://nebulo.app/source).
-- __iOS:__ You can use [__`BLOKADA`__](https://apps.apple.com/us/app/blokada/id1508341781)
+- __Non-rooted Android:__ For non-rooted devices, you can use [__`Blokada`__](https://github.com/blokadaorg/blokada), [__`DNS66`__](https://github.com/julian-klode/dns66), [__`Nebulo`__](https://github.com/Ch4t4r/Nebulo), [__`Personal DNS Filter`__](https://www.zenz-solutions.de/personaldnsfilter/), or [__`RethinkDNS + Firewall`__](https://github.com/celzero/rethink-app).
+- __iOS:__ You can use [__`Blokada`__](https://apps.apple.com/us/app/blokada/id1508341781)
 __MacOS:__ This host file can be used with [__`gasmask`__](https://github.com/2ndalpha/gasmask).    
 - __Windows:__ On Windows, you can use [__`HostsMan`__](http://www.abelhadigital.com/hostsman/) to get the best Windows Hosts Usage Experience. Make sure to disable DNS Client Service.
 - __Linux:__ There are many scripts available on the Internet that will add the hosts to you. Or you can modify the `/etc/hosts`.
