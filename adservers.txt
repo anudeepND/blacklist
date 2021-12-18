@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,284
+# Domain count: 42,281
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -7511,7 +7511,6 @@
 0.0.0.0 connect.auditude.com
 0.0.0.0 connect.de.intellitxt.com
 0.0.0.0 connected-home.de.intellitxt.com
-0.0.0.0 connect.rom.miui.com
 0.0.0.0 connect.rubiconproject.com
 0.0.0.0 connect.stg.auditude.com
 0.0.0.0 connect-testing.urbanairship.com
@@ -18672,7 +18671,6 @@
 0.0.0.0 shopify.retargetapp.com
 0.0.0.0 shopify.smartlook.com
 0.0.0.0 shopmetric.rediff.com
-0.0.0.0 shop.nuance.com
 0.0.0.0 shop.onthe.io
 0.0.0.0 shopperschoice.demdex.net
 0.0.0.0 shopping.d1.sc.omtrdc.net
@@ -30800,7 +30798,6 @@
 0.0.0.0 static.trafficjunky.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
-0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 cdn4.buysellads.net
 0.0.0.0 ad.turn.com
 0.0.0.0 abc5.adtelligent.com
