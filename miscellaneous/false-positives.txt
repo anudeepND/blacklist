@@ -774,3 +774,6 @@ gscounters.gigya.com
 gscounters.us1.gigya.com
 gscounters.eu1.gigya.com
 counters.gigya.com
+connect.rom.miui.com
+shop.nuance.com
+self.events.data.microsoft.com
