@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,281
+# Domain count: 42,278
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -38193,9 +38193,6 @@
 0.0.0.0 ir2.beap.gemini.yahoo.com
 0.0.0.0 it.adserver.yahoo.com
 0.0.0.0 it.advertising.yahoo.com
-0.0.0.0 kinesis.us-east-1.amazonaws.com
-0.0.0.0 kinesisanalytics.eu-central-1.amazonaws.com
-0.0.0.0 kinesisanalytics.eu-west-1.amazonaws.com
 0.0.0.0 latam.adspecs.yahoo.com
 0.0.0.0 later-analytics-reports.s3-accelerate.amazonaws.com
 0.0.0.0 launch.adserver.yahoo.com
