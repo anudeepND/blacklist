@@ -777,3 +777,9 @@ counters.gigya.com
 connect.rom.miui.com
 shop.nuance.com
 self.events.data.microsoft.com
+jsso.indiatimes.com
+jssocdn.indiatimes.com
+geoapi.indiatimes.com
+kinesis.us-east-1.amazonaws.com
+kinesisanalytics.eu-central-1.amazonaws.com
+kinesisanalytics.eu-west-1.amazonaws.com
