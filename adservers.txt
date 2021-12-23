@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,278
+# Domain count: 42,277
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -12949,7 +12949,6 @@
 0.0.0.0 js-sdk.atom-data.io
 0.0.0.0 jssdk.cnzz.com
 0.0.0.0 js.smi2.ru
-0.0.0.0 jsso.indiatimes.com
 0.0.0.0 js.stats.g.doubleclick.net
 0.0.0.0 jstatic.top
 0.0.0.0 js.trendmd.com
@@ -29433,8 +29432,6 @@
 0.0.0.0 desr.fkapi.net
 0.0.0.0 desb.fkapi.net
 0.0.0.0 desa.fkapi.net
-0.0.0.0 geoapi.indiatimes.com
-0.0.0.0 jssocdn.indiatimes.com
 0.0.0.0 c.webengage.com
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 cs.voot.com
@@ -42286,3 +42283,5 @@
 0.0.0.0 imp2.bizographics.com
 0.0.0.0 js.bizographics.com
 0.0.0.0 sjs.bizographics.com
+0.0.0.0 agi-static.indiatimes.com
+0.0.0.0 ingestion.contentinsights.com
