@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,276
+# Domain count: 42,272
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -12859,10 +12859,6 @@
 0.0.0.0 jknn.net
 0.0.0.0 jm-bruneau.inq.com
 0.0.0.0 jm.moatads.com
-0.0.0.0 jn1rdqrfn5-1.algolianet.com
-0.0.0.0 jn1rdqrfn5-2.algolianet.com
-0.0.0.0 jn1rdqrfn5-3.algolianet.com
-0.0.0.0 jn1rdqrfn5-dsn.algolia.net
 0.0.0.0 jnlcom-d.openx.net
 0.0.0.0 jobs.advertising.com
 0.0.0.0 jobsch.widget.criteo.com
