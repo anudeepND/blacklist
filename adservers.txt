@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,272
+# Domain count: 42,292
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -42290,3 +42290,13 @@
 0.0.0.0 plaicecaught.com
 0.0.0.0 blotcreepy.com
 0.0.0.0 openedinfractructureilliterate.com
+0.0.0.0 update.crashlytics.com
+0.0.0.0 settings-analytics.hotstar.com
+0.0.0.0 lumberjack.razorpay.com
+0.0.0.0 events-analytics.hotstar.com
+0.0.0.0 unif-id.ssp.inmobi.com
+0.0.0.0 stats.appvirality.com
+0.0.0.0 crash-metrics.sdk.inmobi.com
+0.0.0.0 admob-gmats.uc.r.appspot.com
+0.0.0.0 adconfig-preprod.wynk.in
+0.0.0.0 adconfig-staging.wynk.in
