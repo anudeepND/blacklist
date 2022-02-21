@@ -1,0 +1,13 @@
+# bind9 zone file template to redirect spam domains to nowhere aka
+#   block them
+
+$TTL    600
+@                       1D IN SOA       example.com hostmaster.example (
+                                        42              ; serial
+                                        3H              ; refresh
+                                        15M             ; retry
+                                        1W              ; expiry
+                                        1D )            ; minimum
+
+# @	IN	NS	<YourNameServerIP>
+*	IN	A	0.0.0.0
