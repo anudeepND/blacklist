@@ -10,16 +10,17 @@
 
 # If you want to forward every server to 0.0.0.0 instead you can change the ZONESTRING
 ZONESTRING="zone \"DOMAINHERE\" { type master; notify no; file \"/etc/bind/redirect.nowhere\"; };"
-ADSERVER_FILE=/tmp/adservers.txt
+ADSERVER_FILE="/tmp/adservers.txt"
 
 rm "${ADSERVER_FILE}" 2> /dev/null
 
 echo "Downloading the adserver.txt file to convert it to a bind9 readable file.."
 wget -O "${ADSERVER_FILE}" -q https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+#cat /tmp/adservers.txt | tail -500 > /tmp/adservers.txt
 sleep 1
 
 echo "Converting adservers.txt into bind9 readable file.."
-if ! [ -f ./adblock.blacklist ]; then
+if [ -f ./adblock.blacklist ]; then
 	truncate --size 0 ./adblock.blacklist; fi
 
 echo "## This is a bind9 readable zone file to block spam and
@@ -28,16 +29,16 @@ echo "## This is a bind9 readable zone file to block spam and
 ## Author:      Lukas Fechner
 " >>./adblock.blacklist
 
-while IFS= read -r line; do
-	if (echo ${line} | grep -q '^\s*#.*'); then
-		echo "  Comment line \"${line}\""
-		echo "${line}" >> ./adblock.blacklist
+while IFS= read -r line ; do
+	if ( printf "${line}\n" | grep -q '^\s*#.*' ); then
+		printf "  Comment line \"${line}\"\n"
+		printf "${line}\n" >> ./adblock.blacklist
 	else
-		line=$(echo ${line} | awk '{print $2}')
-		line=$(echo ${ZONESTRING} | sed "s/DOMAINHERE/${line}/")
-		echo "${line}" >> ./adblock.blacklist
+		echo "${ZONESTRING}" | sed "s/DOMAINHERE/$( echo ${line} | awk '{print $2}' )/" >> ./adblock.blacklist
 	fi
 done < "${ADSERVER_FILE}"
+
+echo ${TEMP} >> ./adblock.blacklist
 
 rm "${ADSERVER_FILE}" 2> /dev/null
 
