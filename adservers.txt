@@ -4916,8 +4916,6 @@
 0.0.0.0 api.market.pubnative.net
 0.0.0.0 api.mediavoice.com
 0.0.0.0 api-metrics.flurry.com
-0.0.0.0 api.micloud.xiaomi.net
-0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobileapptracking.com
 0.0.0.0 api.mobile.cnzz.com
@@ -5151,7 +5149,6 @@
 0.0.0.0 app.magnetic.com
 0.0.0.0 app.manage.ensighten.com
 0.0.0.0 app.marketo.com
-0.0.0.0 app.market.xiaomi.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app.mediaplex.com
 0.0.0.0 appmetrica.webvisor.com
@@ -8190,7 +8187,6 @@
 0.0.0.0 data.stage.insert.io
 0.0.0.0 datastore.rediff.com
 0.0.0.0 datatracker.crittercism.com
-0.0.0.0 data.unacademy.com
 0.0.0.0 data-viz-challenge.localytics.com
 0.0.0.0 dataxpandauto.t.domdex.com
 0.0.0.0 dataxpandcareers.t.domdex.com
@@ -18306,7 +18302,6 @@
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure-ads.mopub.com
 0.0.0.0 secure.advertising.com
-0.0.0.0 secure-api.gravity.com
 0.0.0.0 secure-app.mediaplex.com
 0.0.0.0 secure-asia.imrworldwide.com
 0.0.0.0 secure-assets.rubiconproject.com
@@ -35839,8 +35834,6 @@
 0.0.0.0 co4.telecommand.telemetry.microsoft.com.akadns.net
 0.0.0.0 telemetry.dropbox.com
 0.0.0.0 telemetry.v.dropbox.com
-0.0.0.0 us04logfiles.zoom.us
-0.0.0.0 logfiles-va-zd1.zoom.us
 0.0.0.0 tracking.edvisors.com
 0.0.0.0 ads.foodieblogroll.com
 0.0.0.0 adeventtracker.spotify.com
@@ -39971,7 +39964,6 @@
 0.0.0.0 us.linkury.com
 0.0.0.0 vc-stats.linkury.com
 0.0.0.0 ws-cloud.linkury.com
-0.0.0.0 logfiles.zoom.us
 0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 clicks.beap.bc.yahoo.com
 0.0.0.0 bifrost-api.hotstar.com
@@ -42067,15 +42059,6 @@
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 chegginc.demdex.net
 0.0.0.0 log.zoom.us
-0.0.0.0 logfiles-va-3.zoom.us
-0.0.0.0 logfiles-va-4.zoom.us
-0.0.0.0 logfiles-va-5.zoom.us
-0.0.0.0 logfiles-va-6.zoom.us
-0.0.0.0 logfiles-va-za1.zoom.us
-0.0.0.0 logfiles-va-zd1.zoom.us
-0.0.0.0 logfiles-va.zoom.us
-0.0.0.0 logfiles.zoom.us
-0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 analytics.chegg.com
 0.0.0.0 log.gomlab.com
 0.0.0.0 gomlab-log-17054681.us-east-1.elb.amazonaws.com
