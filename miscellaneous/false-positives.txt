@@ -809,3 +809,7 @@ jn1rdqrfn5-2.algolianet.com
 jn1rdqrfn5-3.algolianet.com
 jn1rdqrfn5-dsn.algolia.net
 1gbits.com
+stc.aeplcdn.com
+fi-mtv3.cdn.videoplaza.tv
+fi-mtv3.videoplaza.tv
+fi-mtv.videoplaza.tv
