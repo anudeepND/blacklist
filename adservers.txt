@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,493
+# Domain count: 42,516
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -42501,3 +42501,26 @@
 0.0.0.0 welcometocornerstone.com
 0.0.0.0 whitelist.eu
 0.0.0.0 whitelisted.org
+0.0.0.0 phog.ycombinator.com
+0.0.0.0 metrics.spbtv.com
+0.0.0.0 salpato.numo.in
+0.0.0.0 a.omappapi.com
+0.0.0.0 omappapi.com
+0.0.0.0 api.omappapi.com
+0.0.0.0 api.rollbar.com
+0.0.0.0 cdn.rollbar.com
+0.0.0.0 messiah.id
+0.0.0.0 www.messiah.id
+0.0.0.0 www.rescuemetrics.com
+0.0.0.0 app.rescuemetrics.com
+0.0.0.0 assets.rescuemetrics.com
+0.0.0.0 goto.rescuemetrics.com
+0.0.0.0 id.rescuemetrics.com
+0.0.0.0 kdloikam.rescuemetrics.com
+0.0.0.0 ckdloikam.rescuemetrics.com
+0.0.0.0 api.factors.ai
+0.0.0.0 flash.factors.ai
+0.0.0.0 lemtrail.factors.ai
+0.0.0.0 localytics701e1fc.factors.ai
+0.0.0.0 mails.factors.ai
+0.0.0.0 sloth.factors.ai
