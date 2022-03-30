@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,516
+# Domain count: 42,515
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -13991,7 +13991,6 @@
 0.0.0.0 md-i-s.apptimize.com
 0.0.0.0 m.dlx.addthis.com
 0.0.0.0 md-nj.lfstmedia.com
-0.0.0.0 m.do.co
 0.0.0.0 m.doubleclick.net
 0.0.0.0 mdt-www.marketo.com
 0.0.0.0 mea.marketo.com
