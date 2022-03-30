@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,515
+# Domain count: 42,494
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -7774,11 +7774,7 @@
 0.0.0.0 csr.inspsearchapi.com
 0.0.0.0 csr-k.tlnk.io
 0.0.0.0 c-srvjsr.media.net
-0.0.0.0 cssak.mmtcdn.com
-0.0.0.0 css-cd.mmtcdn.com
 0.0.0.0 css.f-4560.com
-0.0.0.0 csshtlak.mmtcdn.com
-0.0.0.0 css.mmtcdn.com
 0.0.0.0 c-stat.eu
 0.0.0.0 cstest.adtechus.com
 0.0.0.0 cs.w.inmobi.com
@@ -11390,7 +11386,6 @@
 0.0.0.0 ht-mdw.hoverr.media
 0.0.0.0 ht-miss.hoverr.media
 0.0.0.0 html5.adsrvr.org
-0.0.0.0 html.mmtcdn.com
 0.0.0.0 html.pubnative.net
 0.0.0.0 ht-moi.hoverr.media
 0.0.0.0 ht-ndjw.hoverr.media
@@ -12303,11 +12298,9 @@
 0.0.0.0 img.ads.m1.pubmatic.com
 0.0.0.0 imgads.media.net
 0.0.0.0 img.adtech.de
-0.0.0.0 imgak.mmtcdn.com
 0.0.0.0 img-ams5.mediaplex.com
 0.0.0.0 img.applovin.com
 0.0.0.0 img.atdmt.com
-0.0.0.0 img-cd.mmtcdn.com
 0.0.0.0 img-cdn2.mediaplex.com
 0.0.0.0 img-cdn.mediaplex.com
 0.0.0.0 img-cdn.steepto.com
@@ -12322,8 +12315,6 @@
 0.0.0.0 imgg.mgid.com
 0.0.0.0 imggprx.mgid.com
 0.0.0.0 imgg.steepto.com
-0.0.0.0 imghtlak.mmtcdn.com
-0.0.0.0 imghtl.mmtcdn.com
 0.0.0.0 img-iad.mediaplex.com
 0.0.0.0 img-iad.wip.mediaplex.com
 0.0.0.0 img.launcher.ksmobile.com
@@ -12331,7 +12322,6 @@
 0.0.0.0 img.media.net
 0.0.0.0 img.mediaplex.com
 0.0.0.0 img.mgid.com
-0.0.0.0 img.mmtcdn.com
 0.0.0.0 imgn.mgid.com
 0.0.0.0 imgn.steepto.com
 0.0.0.0 img-origin.trafficshop.com
@@ -12900,11 +12890,9 @@
 0.0.0.0 js.advideo.ru
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.agkn.com
-0.0.0.0 jsak.mmtcdn.com
 0.0.0.0 jsc1.mgid.com
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jsc-cdn.mgid.com
-0.0.0.0 js-cd.mmtcdn.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 jsd.supersonicads.com
 0.0.0.0 jsecoin.com
@@ -12916,13 +12904,11 @@
 0.0.0.0 js.hscta.net
 0.0.0.0 js.hsleadflows.net
 0.0.0.0 js.hs-scripts.com
-0.0.0.0 jshtlak.mmtcdn.com
 0.0.0.0 js.idio.co
 0.0.0.0 js.juicyads.com
 0.0.0.0 jsks.biz
 0.0.0.0 js.leadin.com
 0.0.0.0 js.mgid.com
-0.0.0.0 js.mmtcdn.com
 0.0.0.0 js.moatads.com
 0.0.0.0 js.mobojoy.baidu.com
 0.0.0.0 js.mtburn.com
@@ -17201,7 +17187,6 @@
 0.0.0.0 r1.ace.advertising.com
 0.0.0.0 r1-ads.ace.advertising.com
 0.0.0.0 r1.beta.ace.advertising.com
-0.0.0.0 r1imghtlak.mmtcdn.com
 0.0.0.0 r1.tcr1.tynt.com
 0.0.0.0 r1.tcr41.tynt.com
 0.0.0.0 r1.tcr52.tynt.com
@@ -17486,8 +17471,6 @@
 0.0.0.0 richmondtimesdispatch.d1.sc.omtrdc.net
 0.0.0.0 rick.unbounce.com
 0.0.0.0 rightdiagnosis.us.intellitxt.com
-0.0.0.0 rimgak.mmtcdn.com
-0.0.0.0 rimghtlak.mmtcdn.com
 0.0.0.0 ringsrecord.com
 0.0.0.0 rinuk.mirtesen.ru
 0.0.0.0 ris-gateway.supersonicads.com
@@ -18415,7 +18398,6 @@
 0.0.0.0 sentry.getadmiral.com
 0.0.0.0 sentry.hotjar.com
 0.0.0.0 sentry.mopub.com
-0.0.0.0 seoimgak.mmtcdn.com
 0.0.0.0 seo.marketo.com
 0.0.0.0 separatesilver.com
 0.0.0.0 sephora.demdex.net
@@ -19913,7 +19895,6 @@
 0.0.0.0 static.media.net
 0.0.0.0 static.message.umeng.com
 0.0.0.0 static.mgid.com
-0.0.0.0 static.mmtcdn.com
 0.0.0.0 static.mopub.com
 0.0.0.0 static-new.vertamedia.com
 0.0.0.0 static.outbrain.com
@@ -21545,7 +21526,6 @@
 0.0.0.0 us-pl.vizury.com
 0.0.0.0 uspstudios.vidible.tv
 0.0.0.0 us-pulpomedia.videoplaza.tv
-0.0.0.0 usrimgak.mmtcdn.com
 0.0.0.0 us.rmcontent.advertising.com
 0.0.0.0 us.rmevent.advertising.com
 0.0.0.0 usr.mgid.com
@@ -22998,7 +22978,6 @@
 0.0.0.0 www.mgid.com
 0.0.0.0 www.ministryofads.com
 0.0.0.0 www.mirtesen.ru
-0.0.0.0 www.mmtcdn.com
 0.0.0.0 www.moatads.com
 0.0.0.0 www.mobileapptracking.com
 0.0.0.0 www.mobiquitynetworks.com
