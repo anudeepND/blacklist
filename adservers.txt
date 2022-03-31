@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,493
+# Domain count: 42,527
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -42501,3 +42501,37 @@
 0.0.0.0 localytics701e1fc.factors.ai
 0.0.0.0 mails.factors.ai
 0.0.0.0 sloth.factors.ai
+0.0.0.0 www.snigelweb.com
+0.0.0.0 adengine.snigelweb.com
+0.0.0.0 adserv.snigelweb.com
+0.0.0.0 adserv-fra1.snigelweb.com
+0.0.0.0 adserv-nyc1.snigelweb.com
+0.0.0.0 adserv-sfo3.snigelweb.com
+0.0.0.0 adserv-sgp1.snigelweb.com
+0.0.0.0 advantage.snigelweb.com
+0.0.0.0 api.snigelweb.com
+0.0.0.0 argus.snigelweb.com
+0.0.0.0 argus-fra1.snigelweb.com
+0.0.0.0 auctioneer.snigelweb.com
+0.0.0.0 call.snigelweb.com
+0.0.0.0 cdn.snigelweb.com
+0.0.0.0 cmp.snigelweb.com
+0.0.0.0 crm.snigelweb.com
+0.0.0.0 drive.snigelweb.com
+0.0.0.0 geo-eu.snigelweb.com
+0.0.0.0 geo-us.snigelweb.com
+0.0.0.0 loader-adserv.snigelweb.com
+0.0.0.0 manager.snigelweb.com
+0.0.0.0 master-adserv-fra1.snigelweb.com
+0.0.0.0 meet.snigelweb.com
+0.0.0.0 playground.snigelweb.com
+0.0.0.0 playground-adserv.snigelweb.com
+0.0.0.0 portal.snigelweb.com
+0.0.0.0 prebidbuilder.snigelweb.com
+0.0.0.0 prototypes.snigelweb.com
+0.0.0.0 public.snigelweb.com
+0.0.0.0 sandbox.snigelweb.com
+0.0.0.0 spd.snigelweb.com
+0.0.0.0 static.snigelweb.com
+0.0.0.0 toolbox.snigelweb.com
+0.0.0.0 vtiger.snigelweb.com
