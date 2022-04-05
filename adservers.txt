@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,527
+# Domain count: 42,553
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -42535,3 +42535,29 @@
 0.0.0.0 static.snigelweb.com
 0.0.0.0 toolbox.snigelweb.com
 0.0.0.0 vtiger.snigelweb.com
+0.0.0.0 www.adtdp.com
+0.0.0.0 adtdp.com
+0.0.0.0 adp-pubd-static.adtdp.com
+0.0.0.0 adt-static.adtdp.com
+0.0.0.0 cast-cf-j.adtdp.com
+0.0.0.0 ich-loss.adtdp.com
+0.0.0.0 ich-rd.adtdp.com
+0.0.0.0 ich-rtb.adtdp.com
+0.0.0.0 ich-vt.adtdp.com
+0.0.0.0 ich-wn.adtdp.com
+0.0.0.0 iris.adtdp.com
+0.0.0.0 opemane.adtdp.com
+0.0.0.0 rs-j.adtdp.com
+0.0.0.0 rs-sync.adtdp.com
+0.0.0.0 stg-opemane.adtdp.com
+0.0.0.0 stg-tgdfm.adtdp.com
+0.0.0.0 tgdfm.adtdp.com
+0.0.0.0 cast-js-j.adtdp.com
+0.0.0.0 j-serval.adtdp.com
+0.0.0.0 stg-j-serval.adtdp.com
+0.0.0.0 wpadmngr.com
+0.0.0.0 www.wpadmngr.com
+0.0.0.0 js.wpadmngr.com
+0.0.0.0 telemetrydeck.com
+0.0.0.0 www.telemetrydeck.com
+0.0.0.0 api.telemetrydeck.com
