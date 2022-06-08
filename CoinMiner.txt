@@ -7,6 +7,8 @@
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
 # Domain count: 5,939
 # ===============================================================
+0.0.0.0 donate.ssl.xmrig.com
+0.0.0.0 us-east.randomx-hub.miningpoolhub.com
 0.0.0.0 www.coinlab.biz
 0.0.0.0 coinlab.biz
 0.0.0.0 ajmyrtdiwvg.bid
