@@ -177,6 +177,8 @@ This host file blocks trackers regardless of whether it collects PII (Personally
 | s0.2mdn.net <br>  c.evidon.com | Unable to play videos on several news and entertainment sites. Some of the affected sites are: [techrepublic](https://techrepublic.com) and [zdnet](www.zdnet.com). s0.2mdn.net is blocked in most of the hostfiles since it's a known tracker. | Videos in news and entertainment sites |
 | s.zkcdn.net | Unable to play content on DirecTV Now. This domain is also used to serve ads, measure impressions etc. | DirecTV Now |
 | graph.instagram.com | The Instagram Graph API allows Instagram Professional accounts — Businesses and Creators — to use your app to manage their presence on Instagram. However, it is also used to track users on the Internet. Developers who use Facebook/IG APIs should whitelist the domain. | Instagram and Facebook |
+| tags.tiqcdn.com |  Paramount+ is not working on SkyQ Receiver in Germany (https://github.com/anudeepND/blacklist/issues/207). This domain is also used to serve tracking sripts, measure impressions etc. |  Paramount+ |
+
 
 ## <ins>Stargazers over time</ins>
 <br />
