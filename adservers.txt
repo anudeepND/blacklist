@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,551
+# Domain count: 42,540
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -10148,7 +10148,6 @@
 0.0.0.0 finanznachrichten.de.intellitxt.com
 0.0.0.0 finanzportal20.112.2o7.net
 0.0.0.0 finanztreff.de.intellitxt.com
-0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 findprices.t.domdex.com
 0.0.0.0 findthebest-auto.t.domdex.com
 0.0.0.0 findthebest-careers.t.domdex.com
@@ -10541,7 +10540,6 @@
 0.0.0.0 galaxyperfumeuk.widget.criteo.com
 0.0.0.0 galaxy.sokrati.com
 0.0.0.0 galinulla.mirtesen.ru
-0.0.0.0 galleryapi.micloud.xiaomi.net
 0.0.0.0 gallery.smartadserver.com
 0.0.0.0 gallery.taboola.com
 0.0.0.0 gallery.tubemogul.com
@@ -21498,8 +21496,6 @@
 0.0.0.0 use.unbounce.com
 0.0.0.0 us.event.cmp.advertising.com
 0.0.0.0 usevideo.adsrvr.org
-0.0.0.0 us.find.api.micloud.xiaomi.net
-0.0.0.0 us.galleryapi.micloud.xiaomi.net
 0.0.0.0 us-greenatom.cdn.videoplaza.tv
 0.0.0.0 us-greenatom.videoplaza.tv
 0.0.0.0 usharbors.smartadserver.com
@@ -21518,7 +21514,6 @@
 0.0.0.0 us-nesn.videoplaza.tv
 0.0.0.0 us.pdc.micloud.xiaomi.net
 0.0.0.0 usp-forum.de.intellitxt.com
-0.0.0.0 us.phonecallapi.micloud.xiaomi.net
 0.0.0.0 us-pl-d-c.vizury.com
 0.0.0.0 us-pl-d.vizury.com
 0.0.0.0 us-pl.vizury.com
@@ -21529,10 +21524,7 @@
 0.0.0.0 usr.mgid.com
 0.0.0.0 us-runnerspace.cdn.videoplaza.tv
 0.0.0.0 us-runnerspace.videoplaza.tv
-0.0.0.0 us.sfsapi.micloud.xiaomi.net
 0.0.0.0 us-smartertravel.videoplaza.tv
-0.0.0.0 us.smsapi.micloud.xiaomi.net
-0.0.0.0 us.statusapi.micloud.xiaomi.net
 0.0.0.0 us-streamtrack.cdn.videoplaza.tv
 0.0.0.0 us-streamtrack.videoplaza.tv
 0.0.0.0 usta.demdex.net
@@ -34250,9 +34242,6 @@
 0.0.0.0 front-logs.voodoo-ads.io
 0.0.0.0 in.stat.appmifile.com
 0.0.0.0 api.device.xiaomi.net
-0.0.0.0 in.smsapi.micloud.xiaomi.net
-0.0.0.0 in.phonecallapi.micloud.xiaomi.net
-0.0.0.0 in.galleryapi.micloud.xiaomi.net
 0.0.0.0 botnet.xjtu.edu.cn
 0.0.0.0 log.olark.com
 0.0.0.0 usage.trackjs.com
