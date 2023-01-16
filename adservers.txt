@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,539
+# Domain count: 42,537
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -21508,10 +21508,8 @@
 0.0.0.0 us.info.lgsmartad.com
 0.0.0.0 us.labs.teads.tv
 0.0.0.0 us.mgid.com
-0.0.0.0 us.micardapi.micloud.xiaomi.net
 0.0.0.0 us.mouseflow.com
 0.0.0.0 us-nesn.videoplaza.tv
-0.0.0.0 us.pdc.micloud.xiaomi.net
 0.0.0.0 usp-forum.de.intellitxt.com
 0.0.0.0 us-pl-d-c.vizury.com
 0.0.0.0 us-pl-d.vizury.com
