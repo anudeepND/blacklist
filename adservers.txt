@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,537
+# Domain count: 42,536
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -10633,7 +10633,6 @@
 0.0.0.0 geoinfo.intowow.com
 0.0.0.0 geo-intermedia.videoplaza.tv
 0.0.0.0 geoip.fing.io
-0.0.0.0 geoip.tnt-ea.com
 0.0.0.0 geo.moatads.com
 0.0.0.0 geo.moatads.comgeo.moatads.com
 0.0.0.0 geopolitics-of-the-world.mirtesen.ru
