@@ -1700,9 +1700,6 @@
 0.0.0.0 fr.facebook.com
 0.0.0.0 free.facebook.com
 0.0.0.0 fvc-bgp-25-frc1.facebook.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 graph.fbsbx.com
-0.0.0.0 graph2.facebook.com
 0.0.0.0 h-ct-m-fbx.fbsbx.com.online-metrix.net
 0.0.0.0 h.beta.facebook.com
 0.0.0.0 h.facebook.com
@@ -2944,7 +2941,6 @@
 0.0.0.0 www.fbcdn.net
 0.0.0.0 www.fbsbx.com
 0.0.0.0 www.fedora.mirror.facebook.net
-0.0.0.0 www.graph.facebook.com
 0.0.0.0 www.ia-tracker.fbsbx.com
 0.0.0.0 www.login.facebook.com
 0.0.0.0 www.lookaside.fbsbx.com
