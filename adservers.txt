@@ -6,7 +6,7 @@
 # Title: Anudeep's Blacklist
 # Expires: 1 days
 # Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,536
+# Domain count: 42,531
 # ===================================================================
 0.0.0.0 0001-cab8-4c8c-43de.reporo.net
 0.0.0.0 002-slq-470.mktoresp.com
@@ -18336,7 +18336,6 @@
 0.0.0.0 secure.widget.dynamic.advertising.com
 0.0.0.0 secure-yt.imrworldwide.com
 0.0.0.0 secure-za.imrworldwide.com
-0.0.0.0 securify.nl
 0.0.0.0 security-alert.th8fp9.top
 0.0.0.0 security.browser.intl.miui.com
 0.0.0.0 se.d1.sc.omtrdc.net
@@ -28791,8 +28790,6 @@
 0.0.0.0 datarain.frapp.in
 0.0.0.0 logger-04.vty.dailymotion.com
 0.0.0.0 libs.coremetrics.com
-0.0.0.0 tracker.affirm.com
-0.0.0.0 api-cf.affirm.com
 0.0.0.0 stat.fromfactory.club
 0.0.0.0 track.clubfactory.com
 0.0.0.0 go.trafficrouter.io
@@ -40961,8 +40958,6 @@
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lcprd2.samsungcloudsolution.net
 0.0.0.0 nmetrics.samsung.com
-0.0.0.0 oempprd.samsungcloudsolution.com
-0.0.0.0 oempprd.samsungcloudsolution.net
 0.0.0.0 rd.samsungadhub.com
 0.0.0.0 samsungads.com
 0.0.0.0 upu.samsungelectronics.com
